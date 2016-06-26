@@ -18,5 +18,21 @@ namespace HurlingRating {
 		private int currentRating;
 		private List<DateRating> dateRating;
 		#endregion
+
+		#region Constructors
+		public Team(int id, string name, int initialRating) {
+			this.id = id;
+			this.name = name;
+			this.initialRating = initialRating;
+			this.currentRating = initialRating;
+			this.dateRating = new List<DateRating>();
+		}
+		#endregion
+
+		#region Getters and setters
+		public int ID { get { return id; } }
+		public string Name { get { return name; } }
+		public int InitialRating { get { return initialRating; } }
+		#endregion
 	}
 }
