@@ -3,790 +3,796 @@
 3,26-Feb-12,Roscommon,1,8,0,16,Mayo,11,16,0,0,Athleague,League 2B
 4,26-Feb-12,Louth,0,12,1,13,Fingal,12,16,0,0,St. Brigid's Park,League 3A
 5,26-Feb-12,Meath,0,13,1,12,Kildare,13,15,0,0,P·irc Tailteann,League 2B
-6,26-Feb-12,Wicklow,0,14,1,11,Derry,14,14,0.5,0.166666667,Aughrim County Ground,League 2A
-7,26-Feb-12,Westmeath,0,19,3,8,Kerry,19,17,1,0.142857143,Cusack Park Mullingar,League 2A
-8,26-Feb-12,Galway,0,20,0,13,Dublin,20,13,1,0.125,Pearse Stadium,League 1A
-9,26-Feb-12,Monaghan,1,18,1,11,Donegal,21,14,1,0.111111111,St. Tiernach's Park,League 3A
-10,26-Feb-12,Kilkenny,2,17,0,15,Tipperary,23,15,1,0.1,Nowlan Park,League 1A
-11,26-Feb-12,Carlow,3,17,1,6,Down,26,9,1,0.090909091,Dr Cullen Park,League 2A
-12,26-Feb-12,Antrim,3,18,2,15,Wexford,27,21,1,0.083333333,Casement Park,League 1B
-13,26-Feb-12,London,2,21,0,12,Armagh,27,12,1,0.076923077,Emerald GAA Grounds,League 2B
-14,26-Feb-12,Tyrone,3,18,2,9,Sligo,27,15,1,0.071428571,Healy Park,League 3A
-15,26-Feb-12,Offaly,1,27,0,18,Laois,30,18,1,0.066666667,O'Connor Park,League 1B
-16,11-Mar-12,Fingal,0,11,0,16,Monaghan,11,16,0,0.0625,Lawless Memorial Park,League 3A
-17,11-Mar-12,Kerry,0,13,0,20,Carlow,13,20,0,0.058823529,Fitzgerald Stadium,League 2A
-18,11-Mar-12,Donegal,1,10,0,24,Tyrone,13,24,0,0.055555556,O'Donnell Park,League 3A
-19,11-Mar-12,Down,2,11,0,17,Wicklow,17,17,0.5,0.105263158,P·irc Esler,League 2A
-20,11-Mar-12,Waterford,1,15,2,21,Kilkenny,18,27,0,0.1,Walsh Park,League 1A
-21,11-Mar-12,Laois,2,12,1,24,Limerick,18,27,0,0.095238095,O'Moore Park,League 1B
-22,11-Mar-12,Derry,2,13,3,19,Westmeath,19,28,0,0.090909091,Celtic Park,League 2A
-23,11-Mar-12,Sligo,2,13,1,16,Louth,19,19,0.5,0.130434783,Markievicz Park,League 3A
-24,11-Mar-12,Clare,0,20,0,12,Antrim,20,12,1,0.125,Cusack Park Ennis,League 1B
-25,11-Mar-12,Mayo,3,12,1,18,Meath,21,21,0.5,0.16,MacHale Park,League 2B
-26,11-Mar-12,Dublin,2,17,2,18,Cork,23,24,0,0.153846154,Croke Park,League 1A
-27,11-Mar-12,Armagh,1,20,1,14,Roscommon,23,17,1,0.148148148,Athletic Grounds,League 2B
-28,11-Mar-12,Kildare,0,24,0,15,London,24,15,1,0.142857143,St. Conleth's Park,League 2B
-29,11-Mar-12,Tipperary,2,20,2,18,Galway,26,24,1,0.137931034,Semple Stadium,League 1A
-30,11-Mar-12,Wexford,3,18,2,20,Offaly,27,26,1,0.133333333,Wexford Park,League 1B
-31,18-Mar-12,London,0,7,2,8,Meath,7,14,0,0.129032258,Emerald GAA Grounds,League 2B
-32,18-Mar-12,Armagh,0,11,0,5,Mayo,11,5,1,0.125,Athletic Grounds,League 2B
-33,18-Mar-12,Longford,1,8,2,21,Leitrim,11,27,0,0.121212121,Michael Fay Park,League 3B
-34,18-Mar-12,Monaghan,1,9,1,9,Louth,12,12,0.5,0.147058824,Iniskeen,League 3A
-35,18-Mar-12,Fermanagh,0,14,1,10,Warwickshire,14,13,1,0.142857143,Brewster Park,League 3B
-36,18-Mar-12,Wicklow,1,12,2,22,Kerry,15,28,0,0.138888889,Aughrim County Ground,League 2A
-37,18-Mar-12,Roscommon,1,13,5,19,Kildare,16,34,0,0.135135135,Athleague,League 2B
-38,18-Mar-12,Down,1,14,1,20,Derry,17,23,0,0.131578947,P·irc Esler,League 2A
-39,18-Mar-12,Wexford,0,18,2,20,Limerick,18,26,0,0.128205128,Wexford Park,League 1B
-40,18-Mar-12,Cork,2,13,2,17,Galway,19,23,0,0.125,P·irc UÌ Chaoimh,League 1A
-41,18-Mar-12,Laois,2,13,2,22,Clare,19,28,0,0.12195122,O'Moore Park,League 1B
-42,18-Mar-12,Donegal,1,16,2,12,Sligo,19,18,1,0.119047619,O'Donnell Park,League 3A
-43,18-Mar-12,Carlow,2,17,1,16,Westmeath,23,19,1,0.11627907,Dr Cullen Park,League 2A
-44,18-Mar-12,Offaly,1,22,1,17,Antrim,25,20,1,0.113636364,O'Connor Park,League 1B
-45,18-Mar-12,Fingal,4,15,0,14,Tyrone,27,14,1,0.111111111,Lawless Memorial Park,League 3A
-46,18-Mar-12,Kilkenny,5,16,6,12,Dublin,31,30,1,0.108695652,Nowlan Park,League 1A
-47,18-Mar-12,Tipperary,0,31,2,15,Waterford,31,21,1,0.106382979,Semple Stadium,League 1A
-48,24-Mar-12,Dublin,2,15,0,21,Tipperary,21,21,0.5,0.125,Croke Park,League 1A
-49,24-Mar-12,Limerick,2,16,4,10,Offaly,22,22,0.5,0.142857143,Gaelic Grounds,League 1B
-50,24-Mar-12,London,3,18,1,10,Mayo,27,13,1,0.14,Emerald GAA Grounds,League 2B
-51,24-Mar-12,Westmeath,3,19,0,10,Wicklow,28,10,1,0.137254902,Cusack Park Mullingar,League 2A
-52,25-Mar-12,Leitrim,2,6,6,27,Fermanagh,12,45,0,0.134615385,P·irc She·in UÌ Eislin,League 3B
-53,25-Mar-12,Tyrone,1,10,0,17,Monaghan,13,17,0,0.132075472,Healy Park,League 3A
-54,25-Mar-12,Sligo,0,15,2,15,Fingal,15,21,0,0.12962963,Markievicz Park,League 3A
-55,25-Mar-12,Galway,0,16,1,14,Waterford,16,17,0,0.127272727,Pearse Stadium,League 1A
-56,25-Mar-12,Cork,1,17,1,15,Kilkenny,20,18,1,0.125,P·irc UÌ Chaoimh,League 1A
-57,25-Mar-12,Antrim,2,18,2,16,Laois,24,22,1,0.122807018,Casement Park,League 1B
-58,25-Mar-12,Clare,3,16,0,18,Wexford,25,18,1,0.120689655,Cusack Park Ennis,League 1B
-59,25-Mar-12,Meath,3,16,1,11,Roscommon,25,14,1,0.118644068,P·irc Tailteann,League 2B
-60,25-Mar-12,Carlow,2,21,0,12,Derry,27,12,1,0.116666667,Dr Cullen Park,League 2A
-61,25-Mar-12,Louth,4,24,0,12,Donegal,36,12,1,0.114754098,St. Brigid's Park,League 3A
-62,25-Mar-12,Kerry,4,27,1,21,Down,39,24,1,0.112903226,Fitzgerald Stadium,League 2A
-63,25-Mar-12,Warwickshire,8,19,0,5,Longford,43,5,1,0.111111111,P·irc na h…ireann,League 3B
-64,25-Mar-12,Kildare,7,30,0,7,Armagh,51,7,1,0.109375,St. Conleth's Park,League 2B
-65,01-Apr-12,Fermanagh,0,1,0,0,Longford,1,0,1,0.107692308,n/a,League 3B
-66,01-Apr-12,Armagh,0,8,1,19,Meath,8,22,0,0.106060606,Athletic Grounds,League 2B
-67,01-Apr-12,Wicklow,1,11,1,11,Carlow,14,14,0.5,0.119402985,Aughrim County Ground,League 2A
-68,01-Apr-12,Derry,0,15,1,7,Kerry,15,10,1,0.117647059,Celtic Park,League 2A
-69,01-Apr-12,Leitrim,2,10,2,20,Warwickshire,16,26,0,0.115942029,P·irc She·in UÌ Eislin,League 3B
-70,01-Apr-12,Waterford,0,17,0,13,Dublin,17,13,1,0.114285714,Fraher Field,League 1A
-71,01-Apr-12,Antrim,0,17,3,22,Limerick,17,31,0,0.112676056,Casement Park,League 1B
-72,01-Apr-12,Offaly,0,19,2,14,Clare,19,20,0,0.111111111,O'Connor Park,League 1B
-73,01-Apr-12,Mayo,1,20,0,19,Kildare,23,19,1,0.109589041,MacHale Park,League 2B
-74,01-Apr-12,Monaghan,0,24,0,16,Sligo,24,16,1,0.108108108,Iniskeen,League 3A
-75,01-Apr-12,Fingal,2,19,4,12,Donegal,25,24,1,0.106666667,Lawless Memorial Park,League 3A
-76,01-Apr-12,Tipperary,1,23,1,23,Cork,26,26,0.5,0.118421053,Semple Stadium,League 1A
-77,01-Apr-12,Down,2,20,3,21,Westmeath,26,30,0,0.116883117,P·irc Esler,League 2A
-78,01-Apr-12,Wexford,4,18,0,15,Laois,30,15,1,0.115384615,Wexford Park,League 1B
-79,01-Apr-12,Louth,4,18,2,9,Tyrone,30,15,1,0.113924051,St. Brigid's Park,League 3A
-80,01-Apr-12,Roscommon,3,22,2,14,London,31,20,1,0.1125,Athleague,League 2B
-81,01-Apr-12,Kilkenny,3,26,0,10,Galway,35,10,1,0.111111111,Nowlan Park,League 1A
-82,07-Apr-12,Clare,0,21,1,16,Limerick,21,19,1,0.109756098,Gaelic Grounds,League 1B
-83,14-Apr-12,Warwickshire,2,5,2,15,Fermanagh,11,21,0,0.108433735,Parnell Park,League 3B
-84,15-Apr-12,Fingal,0,1,0,0,Monaghan,1,0,1,0.107142857,n/a,League 3A
-85,15-Apr-12,Carlow,1,14,0,12,Westmeath,17,12,1,0.105882353,Nowlan Park,League 2A
-86,15-Apr-12,Donegal,2,13,0,16,Sligo,19,16,1,0.104651163,Brewster Park,League 3A
-87,15-Apr-12,Kildare,3,13,1,12,Meath,22,15,1,0.103448276,Parnell Park,League 2B
-88,15-Apr-12,Galway,0,26,2,20,Dublin,26,26,0.5,0.113636364,O'Connor Park,League 1A
-89,15-Apr-12,Wexford,5,12,0,19,Laois,27,19,1,0.112359551,Nowlan Park,League 1B
-90,21-Apr-12,Dublin,0,19,4,21,Galway,19,33,0,0.111111111,O'Moore Park,League 1A
-91,22-Apr-12,Wicklow,2,14,0,17,Down,20,17,1,0.10989011,St. Loman's Park,League 2A
-92,22-Apr-12,Kilkenny,1,20,0,14,Clare,23,14,1,0.108695652,Semple Stadium,League 1A
-93,22-Apr-12,Cork,1,25,2,15,Tipperary,28,21,1,0.107526882,Semple Stadium,League 1A
-94,05-May-12,Leitrim,1,6,4,22,Tyrone,9,34,0,0.106382979,P·irc She·in UÌ Eislin,Lory Meagher
-95,05-May-12,Louth,1,8,0,20,Armagh,11,20,0,0.105263158,St. Brigid's Park,Nicky Rackard
-96,05-May-12,Mayo,0,17,0,19,Down,17,19,0,0.104166667,MacHale Park,Christy Ring
-97,05-May-12,Donegal,1,15,0,14,Roscommon,18,14,1,0.103092784,O'Donnell Park,Nicky Rackard
-98,05-May-12,Fermanagh,1,19,1,8,Longford,22,11,1,0.102040816,Brewster Park,Lory Meagher
-99,05-May-12,Derry,1,22,2,18,Kildare,25,24,1,0.101010101,Celtic Park,Christy Ring
-100,05-May-12,Wicklow,2,20,2,15,Kerry,26,21,1,0.1,Aughrim County Ground,Christy Ring
-101,06-May-12,Meath,4,8,3,10,London,20,19,1,0.099009901,P·irc Tailteann,Christy Ring
-102,06-May-12,Kilkenny,3,21,0,16,Cork,30,16,1,0.098039216,Semple Stadium,League 1A
-103,12-May-12,Leitrim,1,10,2,14,Warwickshire,13,20,0,0.097087379,P·irc She·in UÌ Eislin,Lory Meagher
-104,12-May-12,Monaghan,0,15,1,16,Donegal,15,19,0,0.096153846,St. Tiernach's Park,Nicky Rackard
-105,12-May-12,Wicklow,1,18,2,11,Derry,21,17,1,0.095238095,Aughrim County Ground,Christy Ring
-106,12-May-12,London,2,15,3,10,Mayo,21,19,1,0.094339623,Emerald GAA Grounds,Christy Ring
-107,12-May-12,Armagh,1,20,0,8,Sligo,23,8,1,0.093457944,St. Oliver Plunkett Park,Nicky Rackard
-108,12-May-12,Kildare,2,21,1,16,Kerry,27,19,1,0.092592593,St. Conleth's Park,Christy Ring
-109,12-May-12,Down,2,23,1,19,Meath,29,22,1,0.091743119,P·irc Esler,Christy Ring
-110,19-May-12,Sligo,1,9,3,15,Louth,12,24,0,0.090909091,Markievicz Park,Nicky Rackard
-111,19-May-12,Carlow,0,13,0,20,Laois,13,20,0,0.09009009,Dr Cullen Park,Leinster
-112,19-May-12,Westmeath,0,14,0,12,Antrim,14,12,1,0.089285714,Cusack Park Mullingar,Leinster
-113,19-May-12,Derry,1,15,3,11,London,18,20,0,0.088495575,Celtic Park,Christy Ring
-114,19-May-12,Meath,1,16,0,16,Kildare,19,16,1,0.087719298,P·irc Tailteann,Christy Ring
-115,19-May-12,Roscommon,2,19,1,11,Monaghan,25,14,1,0.086956522,Athleague,Nicky Rackard
-116,21-May-12,Longford,3,11,2,18,Leitrim,20,24,0,0.086206897,Pearse Park Longford,Lory Meagher
-117,26-May-12,Donegal,0,7,3,18,Louth,7,27,0,0.085470085,O'Donnell Park,Nicky Rackard
-118,26-May-12,Warwickshire,1,16,2,15,Tyrone,19,21,0,0.084745763,P·irc na h…ireann,Lory Meagher
-119,26-May-12,Down,1,21,1,21,London,24,24,0.5,0.092436975,P·irc Esler,Christy Ring
-120,26-May-12,Armagh,4,12,1,17,Roscommon,24,20,1,0.091666667,St. Oliver Plunkett Park,Nicky Rackard
-121,26-May-12,Fermanagh,3,16,2,12,Leitrim,25,18,1,0.090909091,Maguiresbridge,Lory Meagher
-122,26-May-12,Wicklow,3,17,2,12,Meath,26,18,1,0.090163934,Pearse Park Arklow,Christy Ring
-123,27-May-12,Tipperary,2,20,1,19,Limerick,26,22,1,0.089430894,Semple Stadium,Munster
-124,02-Jun-12,Offaly,2,12,1,13,Wexford,18,16,1,0.088709677,O'Connor Park,Leinster
-125,02-Jun-12,London,2,16,2,13,Down,22,19,1,0.088,Emerald GAA Grounds,Christy Ring
-126,02-Jun-12,Dublin,3,23,1,7,Laois,32,10,1,0.087301587,O'Connor Park,Leinster
-127,03-Jun-12,Westmeath,4,12,5,19,Galway,24,34,0,0.086614173,Cusack Park Mullingar,Leinster
-128,09-Jun-12,Wicklow,1,17,4,18,London,20,30,0,0.0859375,Croke Park,Christy Ring
-129,09-Jun-12,Armagh,3,20,1,15,Louth,29,18,1,0.085271318,Croke Park,Nicky Rackard
-130,09-Jun-12,Tyrone,2,24,3,20,Fermanagh,30,29,1,0.084615385,Croke Park,Lory Meagher
-131,17-Jun-12,Clare,1,18,2,17,Waterford,21,23,0,0.083969466,Semple Stadium,Munster
-132,17-Jun-12,Offaly,3,15,5,23,Galway,24,38,0,0.083333333,O'Moore Park,Leinster
-133,23-Jun-12,Kilkenny,2,21,0,9,Dublin,27,9,1,0.082706767,O'Moore Park,Leinster
-134,23-Jun-12,Wexford,3,22,2,9,Westmeath,31,15,1,0.082089552,Wexford Park,All-Ireland
-135,23-Jun-12,Limerick,6,21,1,11,Laois,39,14,1,0.081481481,Gaelic Grounds,All-Ireland
-136,24-Jun-12,Cork,0,24,1,22,Tipperary,24,25,0,0.080882353,P·irc UÌ Chaoimh,Munster
-137,30-Jun-12,Wexford,4,12,0,14,Carlow,24,14,1,0.080291971,Wexford Park,All-Ireland
-138,30-Jun-12,Limerick,8,26,1,15,Antrim,50,18,1,0.079710145,Gaelic Grounds,All-Ireland
-139,07-Jul-12,Clare,1,16,0,16,Dublin,19,16,1,0.079136691,Cusack Park Ennis,All-Ireland
-140,07-Jul-12,Cork,1,26,2,16,Offaly,29,22,1,0.078571429,P·irc UÌ Chaoimh,All-Ireland
-141,08-Jul-12,Galway,2,21,2,11,Kilkenny,27,17,1,0.078014184,Croke Park,Leinster
-142,14-Jul-12,Wexford,2,17,3,24,Cork,23,33,0,0.077464789,Semple Stadium,All-Ireland
-143,14-Jul-12,Limerick,3,18,1,20,Clare,27,23,1,0.076923077,Semple Stadium,All-Ireland
-144,15-Jul-12,Waterford,0,16,2,17,Tipperary,16,23,0,0.076388889,P·irc UÌ Chaoimh,Munster
-145,29-Jul-12,Waterford,0,19,1,19,Cork,19,22,0,0.075862069,Semple Stadium,All-Ireland
-146,29-Jul-12,Kilkenny,4,16,1,16,Limerick,28,19,1,0.075342466,Semple Stadium,All-Ireland
-147,12-Aug-12,Galway,0,22,0,17,Cork,22,17,1,0.074829932,Croke Park,All-Ireland
-148,19-Aug-12,Tipperary,1,15,4,24,Kilkenny,18,36,0,0.074324324,Croke Park,All-Ireland
-149,09-Sep-12,Galway,2,13,0,19,Kilkenny,19,19,0.5,0.080536913,Croke Park,All-Ireland
-150,30-Sep-12,Galway,3,11,3,22,Kilkenny,20,31,0,0.08,Croke Park,All-Ireland
-151,23-Feb-13,Dublin,1,20,2,16,Offaly,23,22,1,0.079470199,Parnell Park,League 1B
-152,23-Feb-13,Cork,0,26,1,11,Tipperary,26,14,1,0.078947368,P·irc UÌ Rinn,League 1A
-153,24-Feb-13,Kildare,1,10,1,19,Laois,13,22,0,0.078431373,St. Conleth's Park,League 2A
-154,24-Feb-13,Armagh,0,14,0,21,London,14,21,0,0.077922078,Athletic Grounds,League 2B
-155,24-Feb-13,Fingal,0,15,1,12,Louth,15,15,0.5,0.083870968,Lawless Memorial Park,League 3A
-156,24-Feb-13,Carlow,0,16,2,15,Wexford,16,21,0,0.083333333,Dr Cullen Park,League 1B
-157,24-Feb-13,Kerry,2,10,0,13,Westmeath,16,13,1,0.082802548,Austin Stack Park,League 2A
-158,24-Feb-13,Mayo,1,15,0,18,Roscommon,18,18,0.5,0.088607595,MacHale Park,League 2B
-159,24-Feb-13,Fermanagh,2,12,1,11,Tyrone,18,14,1,0.088050314,Brewster Park,League 3A
-160,24-Feb-13,Galway,3,11,0,17,Kilkenny,20,17,1,0.0875,Pearse Stadium,League 1A
-161,24-Feb-13,Clare,1,17,2,15,Waterford,20,21,0,0.086956522,Cusack Park Ennis,League 1A
-162,24-Feb-13,Down,1,18,2,16,Meath,21,22,0,0.086419753,P·irc Esler,League 2B
-163,24-Feb-13,Limerick,1,19,0,19,Antrim,22,19,1,0.085889571,Gaelic Grounds,League 1B
-164,24-Feb-13,Derry,2,19,0,10,Wicklow,25,10,1,0.085365854,Celtic Park,League 2A
-165,24-Feb-13,Donegal,3,18,1,6,Monaghan,27,9,1,0.084848485,O'Donnell Park,League 3A
-166,02-Mar-13,Meath,2,17,1,11,London,23,14,1,0.084337349,St. Loman's Park,League 2B
-167,09-Mar-13,Warwickshire,0,14,3,14,Sligo,14,23,0,0.083832335,P·irc na h…ireann,League 3B
-168,10-Mar-13,Tyrone,0,9,0,14,Donegal,9,14,0,0.083333333,Healy Park,League 3A
-169,10-Mar-13,Monaghan,1,9,2,10,Fingal,12,16,0,0.082840237,Iniskeen,League 3A
-170,10-Mar-13,Antrim,1,10,3,12,Dublin,13,21,0,0.082352941,Casement Park,League 1B
-171,10-Mar-13,Louth,0,13,0,12,Fermanagh,13,12,1,0.081871345,St. Brigid's Park,League 3A
-172,10-Mar-13,Waterford,0,15,1,12,Cork,15,15,0.5,0.087209302,Fraher Field,League 1A
-173,10-Mar-13,Offaly,0,16,0,14,Wexford,16,14,1,0.086705202,O'Connor Park,League 1B
-174,10-Mar-13,Leitrim,1,13,0,16,Longford,16,16,0.5,0.091954023,P·irc She·in UÌ Eislin,League 3B
-175,10-Mar-13,Roscommon,2,11,3,15,Armagh,17,24,0,0.091428571,Athleague,League 2B
-176,10-Mar-13,Clare,0,18,1,13,Galway,18,16,1,0.090909091,Cusack Park Ennis,League 1A
-177,10-Mar-13,Limerick,3,10,1,13,Carlow,19,16,1,0.09039548,Gaelic Grounds,League 1B
-178,10-Mar-13,Westmeath,2,13,0,9,Derry,19,9,1,0.08988764,Cusack Park Mullingar,League 2A
-179,10-Mar-13,London,0,21,2,8,Down,21,14,1,0.089385475,Emerald GAA Grounds,League 2B
-180,10-Mar-13,Wicklow,3,13,2,14,Kildare,22,20,1,0.088888889,Croke Park,League 2A
-181,10-Mar-13,Meath,1,19,1,11,Mayo,22,14,1,0.08839779,St. Loman's Park,League 2B
-182,10-Mar-13,Tipperary,2,17,1,19,Kilkenny,23,22,1,0.087912088,Semple Stadium,League 1A
-183,10-Mar-13,Laois,2,20,2,12,Kerry,26,18,1,0.087431694,O'Moore Park,League 2A
-184,16-Mar-13,Kerry,1,12,3,5,Wicklow,15,14,1,0.086956522,Austin Stack Park,League 2A
-185,16-Mar-13,Tyrone,0,15,2,11,Fingal,15,17,0,0.086486486,Healy Park,League 3A
-186,16-Mar-13,Dublin,1,15,1,21,Limerick,18,24,0,0.086021505,Croke Park,League 1B
-187,16-Mar-13,Cork,1,16,1,22,Clare,19,25,0,0.085561497,P·irc UÌ Chaoimh,League 1A
-188,16-Mar-13,Louth,2,13,0,11,Monaghan,19,11,1,0.085106383,St. Brigid's Park,League 3A
-189,16-Mar-13,Derry,1,17,1,14,Kildare,20,17,1,0.084656085,Celtic Park,League 2A
-190,16-Mar-13,Fermanagh,1,20,4,14,Donegal,23,26,0,0.084210526,Brewster Park,League 3A
-191,16-Mar-13,Wexford,2,21,1,12,Antrim,27,15,1,0.083769634,Wexford Park,League 1B
-192,16-Mar-13,Mayo,4,16,3,12,Armagh,28,21,1,0.083333333,MacHale Park,League 2B
-193,16-Mar-13,Down,2,24,1,12,Roscommon,30,15,1,0.082901554,P·irc Esler,League 2B
-194,18-Mar-13,Carlow,1,10,1,12,Offaly,13,15,0,0.082474227,Dr Cullen Park,League 1B
-195,18-Mar-13,Kilkenny,2,15,0,16,Waterford,21,16,1,0.082051282,Nowlan Park,League 1A
-196,18-Mar-13,Galway,1,20,4,22,Tipperary,23,34,0,0.081632653,Pearse Stadium,League 1A
-197,18-Mar-13,Westmeath,2,18,2,15,Laois,24,21,1,0.081218274,Cusack Park Mullingar,League 2A
-198,23-Mar-13,Kildare,1,16,2,16,Kerry,19,22,0,0.080808081,St. Conleth's Park,League 2A
-199,23-Mar-13,Fingal,1,16,2,10,Fermanagh,19,16,1,0.08040201,Croke Park,League 3A
-200,24-Mar-13,Derry,0,8,2,20,Laois,8,26,0,0.08,Celtic Park,League 2A
-201,24-Mar-13,Roscommon,0,9,1,20,Meath,9,23,0,0.07960199,Athleague,League 2B
-202,24-Mar-13,Carlow,0,13,3,14,Antrim,13,23,0,0.079207921,Dr Cullen Park,League 1B
-203,24-Mar-13,Wicklow,2,8,0,21,Westmeath,14,21,0,0.078817734,Pearse Park Arklow,League 2A
-204,24-Mar-13,Mayo,1,11,3,13,London,14,22,0,0.078431373,MacHale Park,League 2B
-205,24-Mar-13,Wexford,0,15,3,19,Dublin,15,28,0,0.07804878,Wexford Park,League 1B
-206,24-Mar-13,Armagh,0,15,4,13,Down,15,25,0,0.077669903,Athletic Grounds,League 2B
-207,24-Mar-13,Monaghan,0,15,2,14,Tyrone,15,20,0,0.077294686,St. Tiernach's Park,League 3A
-208,24-Mar-13,Waterford,1,14,0,16,Tipperary,17,16,1,0.076923077,Walsh Park,League 1A
-209,24-Mar-13,Offaly,3,8,0,21,Limerick,17,21,0,0.076555024,O'Connor Park,League 1B
-210,24-Mar-13,Clare,1,15,3,10,Kilkenny,18,19,0,0.076190476,Cusack Park Ennis,League 1A
-211,24-Mar-13,Galway,2,12,2,12,Cork,18,18,0.5,0.08056872,Pearse Stadium,League 1A
-212,24-Mar-13,Sligo,1,15,1,6,Leitrim,18,9,1,0.080188679,Markievicz Park,League 3B
-213,24-Mar-13,Donegal,3,13,0,10,Louth,22,10,1,0.079812207,Brewster Park,League 3A
-214,24-Mar-13,Longford,2,18,1,15,Warwickshire,24,18,1,0.079439252,Pearse Park Longford,League 3B
-215,30-Mar-13,London,2,18,2,10,Roscommon,24,16,1,0.079069767,Emerald GAA Grounds,League 2B
-216,30-Mar-13,Down,1,22,1,14,Mayo,25,17,1,0.078703704,P·irc Esler,League 2B
-217,30-Mar-13,Meath,3,18,1,10,Armagh,27,13,1,0.078341014,P·irc Tailteann,League 2B
-218,31-Mar-13,Waterford,0,12,0,15,Galway,12,15,0,0.077981651,Walsh Park,League 1A
-219,31-Mar-13,Donegal,1,9,2,11,Fingal,12,17,0,0.077625571,O'Donnell Park,League 3A
-220,31-Mar-13,Fermanagh,1,9,0,10,Monaghan,12,10,1,0.077272727,Brewster Park,League 3A
-221,31-Mar-13,Tyrone,0,15,5,11,Louth,15,26,0,0.076923077,Sigerson Park,League 3A
-222,31-Mar-13,Kerry,1,13,1,12,Derry,16,15,1,0.076576577,Austin Stack Park,League 2A
-223,31-Mar-13,Laois,0,18,0,14,Wicklow,18,14,1,0.076233184,O'Moore Park,League 2A
-224,31-Mar-13,Antrim,0,19,0,21,Offaly,19,21,0,0.075892857,Casement Park,League 1B
-225,31-Mar-13,Kilkenny,0,20,2,12,Cork,20,18,1,0.075555556,Nowlan Park,League 1A
-226,31-Mar-13,Limerick,1,19,2,16,Wexford,22,22,0.5,0.079646018,Gaelic Grounds,League 1B
-227,31-Mar-13,Dublin,3,15,0,11,Carlow,24,11,1,0.079295154,Parnell Park,League 1B
-228,31-Mar-13,Westmeath,1,22,2,12,Kildare,25,18,1,0.078947368,Cusack Park Mullingar,League 2A
-229,31-Mar-13,Longford,4,13,1,4,Sligo,25,7,1,0.07860262,Pearse Park Longford,League 3B
-230,31-Mar-13,Tipperary,3,19,1,14,Clare,28,17,1,0.07826087,Semple Stadium,League 1A
-231,31-Mar-13,Warwickshire,5,18,1,16,Leitrim,33,19,1,0.077922078,P·irc na h…ireann,League 3B
-232,06-Apr-13,Limerick,1,15,1,16,Dublin,18,19,0,0.077586207,Semple Stadium,League 1B
-233,13-Apr-13,Fingal,1,9,1,5,Donegal,12,8,1,0.077253219,Breffni Park,League 3A
-234,13-Apr-13,Tyrone,1,16,2,15,Monaghan,19,21,0,0.076923077,Breffni Park,League 3A
-235,14-Apr-13,Longford,1,8,0,9,Sligo,11,9,1,0.076595745,P·irc Se·n Mac Diarmada,League 3B
-236,14-Apr-13,Antrim,0,15,0,11,Carlow,15,11,1,0.076271186,P·irc Tailteann,League 1B
-237,14-Apr-13,Meath,1,14,1,16,London,17,19,0,0.075949367,St. Conleth's Park,League 2B
-238,14-Apr-13,Kildare,2,12,0,12,Wicklow,18,12,1,0.075630252,O'Connor Park,League 2A
-239,14-Apr-13,Laois,3,14,1,9,Westmeath,23,12,1,0.075313808,O'Connor Park,League 2A
-240,14-Apr-13,Clare,0,31,2,23,Cork,31,29,1,0.075,Gaelic Grounds,League 1A
-241,21-Apr-13,Kilkenny,1,24,1,17,Galway,27,20,1,0.074688797,Semple Stadium,League 1A
-242,21-Apr-13,Tipperary,4,20,0,17,Dublin,32,17,1,0.074380165,Semple Stadium,League 1A
-243,04-May-13,Leitrim,0,12,3,13,Fermanagh,12,22,0,0.074074074,P·irc She·in UÌ Eislin,Lory Meagher
-244,04-May-13,Derry,1,11,1,10,Wicklow,14,13,1,0.073770492,Owenbeg,Christy Ring
-245,04-May-13,Tyrone,1,11,0,12,Louth,14,12,1,0.073469388,Carrickmore,Nicky Rackard
-246,04-May-13,Warwickshire,1,15,1,10,Longford,18,13,1,0.073170732,P·irc na h…ireann,Lory Meagher
-247,04-May-13,Roscommon,1,18,0,14,Sligo,21,14,1,0.072874494,Athleague,Nicky Rackard
-248,04-May-13,Down,2,17,3,16,Kerry,23,25,0,0.072580645,P·irc Esler,Christy Ring
-249,04-May-13,Meath,1,20,2,10,Armagh,23,16,1,0.072289157,St. Loman's Park,Christy Ring
-250,04-May-13,Kildare,1,23,0,16,Mayo,26,16,1,0.072,St. Conleth's Park,Christy Ring
-251,05-May-13,Westmeath,2,13,3,18,Antrim,19,27,0,0.071713147,Cusack Park Mullingar,Leinster
-252,05-May-13,Kilkenny,2,17,0,20,Tipperary,23,20,1,0.071428571,Nowlan Park,League 1A
-253,11-May-13,Kerry,0,14,0,8,Derry,14,8,1,0.071146245,Austin Stack Park,Christy Ring
-254,11-May-13,Armagh,1,11,1,20,Down,14,23,0,0.070866142,St. Oliver Plunkett Park,Christy Ring
-255,11-May-13,Fermanagh,0,15,1,12,Warwickshire,15,15,0.5,0.074509804,Brewster Park,Lory Meagher
-256,11-May-13,Roscommon,0,16,1,16,Donegal,16,19,0,0.07421875,Athleague,Nicky Rackard
-257,11-May-13,Kildare,1,16,0,22,Meath,19,22,0,0.073929961,St. Conleth's Park,Christy Ring
-258,11-May-13,Longford,3,12,0,7,Leitrim,21,7,1,0.073643411,Pearse Park Longford,Lory Meagher
-259,11-May-13,Tyrone,2,19,1,10,Monaghan,25,13,1,0.073359073,Killyclogher,Nicky Rackard
-260,11-May-13,Wicklow,4,19,3,10,Mayo,31,19,1,0.073076923,Pearse Park Arklow,Christy Ring
-261,18-May-13,Warwickshire,0,1,0,0,Leitrim,1,0,1,0.072796935,n/a,Lory Meagher
-262,18-May-13,Wicklow,2,10,0,17,Kildare,16,17,0,0.072519084,Pearse Park Arklow,Christy Ring
-263,18-May-13,Down,3,7,0,9,Derry,16,9,1,0.072243346,P·irc Esler,Christy Ring
-264,18-May-13,Laois,1,16,0,13,Antrim,19,13,1,0.071969697,O'Moore Park,Leinster
-265,18-May-13,Roscommon,2,14,0,13,Louth,20,13,1,0.071698113,Connacht Centre of Excellence,Nicky Rackard
-266,18-May-13,Monaghan,5,12,2,7,Sligo,27,13,1,0.071428571,Iniskeen,Nicky Rackard
-267,18-May-13,Carlow,4,17,2,13,London,29,19,1,0.071161049,Dr Cullen Park,Leinster
-268,18-May-13,Longford,6,13,1,10,Fermanagh,31,13,1,0.070895522,Pearse Park Longford,Lory Meagher
-269,25-May-13,Kerry,1,14,0,11,Kildare,17,11,1,0.07063197,Austin Stack Park,Christy Ring
-270,25-May-13,Donegal,5,12,2,9,Monaghan,27,15,1,0.07037037,O'Donnell Park,Nicky Rackard
-271,25-May-13,Meath,1,25,2,22,Down,28,28,0.5,0.073800738,St. Loman's Park,Christy Ring
-272,25-May-13,Roscommon,3,28,0,14,Tyrone,37,14,1,0.073529412,Athleague,Nicky Rackard
-273,01-Jun-13,Down,0,23,1,10,Meath,23,13,1,0.073260073,McKenna Park,Christy Ring
-274,02-Jun-13,Laois,2,18,0,13,Carlow,24,13,1,0.072992701,O'Moore Park,Leinster
-275,02-Jun-13,Clare,2,20,1,15,Waterford,26,18,1,0.072727273,Semple Stadium,Munster
-276,08-Jun-13,Wexford,1,17,1,17,Dublin,20,20,0.5,0.076086957,Wexford Park,Leinster
-277,08-Jun-13,Warwickshire,2,16,0,10,Longford,22,10,1,0.075812274,Croke Park,Lory Meagher
-278,08-Jun-13,Kerry,2,17,3,16,Down,23,25,0,0.075539568,Croke Park,Christy Ring
-279,08-Jun-13,Donegal,3,20,3,16,Roscommon,29,25,1,0.075268817,Croke Park,Nicky Rackard
-280,09-Jun-13,Offaly,4,9,0,26,Kilkenny,21,26,0,0.075,O'Connor Park,Leinster
-281,09-Jun-13,Limerick,1,18,1,15,Tipperary,21,18,1,0.074733096,Gaelic Grounds,Munster
-282,15-Jun-13,Dublin,1,17,0,12,Wexford,20,12,1,0.074468085,Parnell Park,Leinster
-283,16-Jun-13,Laois,1,13,2,17,Galway,16,23,0,0.074204947,O'Moore Park,Leinster
-284,22-Jun-13,London,0,11,1,15,Westmeath,11,18,0,0.073943662,Emerald GAA Grounds,All-Ireland
-285,22-Jun-13,Offaly,1,14,0,21,Waterford,17,21,0,0.073684211,O'Connor Park,All-Ireland
-286,22-Jun-13,Wexford,3,18,0,17,Antrim,27,17,1,0.073426573,Wexford Park,All-Ireland
-287,23-Jun-13,Kilkenny,1,14,0,17,Dublin,17,17,0.5,0.076655052,O'Moore Park,Leinster
-288,23-Jun-13,Cork,0,23,0,15,Clare,23,15,1,0.076388889,Gaelic Grounds,Munster
-289,29-Jun-13,Westmeath,0,14,3,22,Waterford,14,31,0,0.076124567,Cusack Park Mullingar,All-Ireland
-290,29-Jun-13,Dublin,1,16,0,16,Kilkenny,19,16,1,0.075862069,O'Moore Park,Leinster
-291,29-Jun-13,Wexford,2,16,0,20,Carlow,22,20,1,0.075601375,Wexford Park,All-Ireland
-292,06-Jul-13,Kilkenny,0,20,1,14,Tipperary,20,17,1,0.075342466,Nowlan Park,All-Ireland
-293,06-Jul-13,Clare,1,32,0,15,Laois,35,15,1,0.075085324,Cusack Park Ennis,All-Ireland
-294,07-Jul-13,Dublin,2,25,2,13,Galway,31,19,1,0.074829932,Croke Park,Leinster
-295,13-Jul-13,Waterford,2,16,1,22,Kilkenny,22,25,0,0.074576271,Semple Stadium,All-Ireland
-296,13-Jul-13,Wexford,1,20,3,24,Clare,23,33,0,0.074324324,Semple Stadium,All-Ireland
-297,14-Jul-13,Limerick,0,24,0,15,Cork,24,15,1,0.074074074,Gaelic Grounds,Munster
-298,28-Jul-13,Cork,0,19,0,14,Kilkenny,19,14,1,0.073825503,Semple Stadium,All-Ireland
-299,28-Jul-13,Galway,2,14,1,23,Clare,20,26,0,0.073578595,Semple Stadium,All-Ireland
-300,11-Aug-13,Dublin,1,19,1,24,Cork,22,27,0,0.073333333,Croke Park,All-Ireland
-301,18-Aug-13,Limerick,0,18,1,22,Clare,18,25,0,0.073089701,Croke Park,All-Ireland
-302,08-Sep-13,Clare,0,25,3,16,Cork,25,25,0.5,0.07615894,Croke Park,All-Ireland
-303,28-Sep-13,Clare,5,16,3,16,Cork,31,25,1,0.075907591,Croke Park,All-Ireland
-304,15-Feb-14,London,0,13,0,13,Westmeath,13,13,0.5,0.078947368,Emerald GAA Grounds,League 2A
-305,15-Feb-14,Cork,0,17,0,17,Limerick,17,17,0.5,0.081967213,P·irc UÌ Rinn,League 1B
-306,15-Feb-14,Derry,3,9,4,24,Kerry,18,36,0,0.081699346,Ballinascreen,League 2A
-307,15-Feb-14,Tipperary,2,13,0,16,Waterford,19,16,1,0.081433225,Semple Stadium,League 1A
-308,15-Feb-14,Carlow,1,18,1,9,Kildare,21,12,1,0.081168831,St. Conleth's Park,League 2A
-309,16-Feb-14,Armagh,1,7,2,20,Down,10,26,0,0.080906149,Athletic Grounds,League 2B
-310,16-Feb-14,Antrim,1,11,0,15,Wexford,14,15,0,0.080645161,P·irc Mac UÌlÌn,League 1B
-311,16-Feb-14,Wicklow,1,15,0,8,Meath,18,8,1,0.080385852,Pearse Park Arklow,League 2B
-312,16-Feb-14,Louth,1,15,2,16,Roscommon,18,22,0,0.080128205,Darver Centre of Excellence,League 3A
-313,16-Feb-14,Clare,1,16,0,18,Kilkenny,19,18,1,0.079872204,Cusack Park Ennis,League 1A
-314,16-Feb-14,Mayo,2,13,3,9,Fingal,19,18,1,0.079617834,Connacht Centre of Excellence,League 2B
-315,16-Feb-14,Monaghan,2,13,3,11,Longford,19,20,0,0.079365079,Iniskeen,League 3A
-316,16-Feb-14,Offaly,2,14,1,19,Laois,20,22,0,0.079113924,O'Connor Park,League 1B
-317,16-Feb-14,Donegal,2,19,1,13,Fermanagh,25,16,1,0.078864353,Fr. Tierney Park,League 3A
-318,16-Feb-14,Galway,0,28,1,12,Dublin,28,15,1,0.078616352,Pearse Stadium,League 1A
-319,22-Feb-14,Laois,0,7,0,14,Cork,7,14,0,0.078369906,O'Moore Park,League 1B
-320,23-Feb-14,Westmeath,0,8,3,11,Derry,8,20,0,0.078125,Cusack Park Mullingar,League 2A
-321,23-Feb-14,Roscommon,1,8,1,12,Monaghan,11,15,0,0.07788162,Woodmount,League 3A
-322,23-Feb-14,Meath,0,12,0,7,Mayo,12,7,1,0.077639752,St. Loman's Park,League 2B
-323,23-Feb-14,Carlow,2,12,0,8,London,18,8,1,0.077399381,Dr Cullen Park,League 2A
-324,23-Feb-14,Down,1,15,0,10,Wicklow,18,10,1,0.077160494,McKenna Park,League 2B
-325,23-Feb-14,Longford,3,9,1,20,Donegal,18,23,0,0.076923077,Pearse Park Longford,League 3A
-326,23-Feb-14,Waterford,0,22,1,13,Galway,22,16,1,0.076687117,Walsh Park,League 1A
-327,23-Feb-14,Dublin,2,17,0,17,Clare,23,17,1,0.076452599,Parnell Park,League 1A
-328,23-Feb-14,Fingal,2,18,2,13,Armagh,24,19,1,0.076219512,Lawless Memorial Park,League 2B
-329,23-Feb-14,Wexford,2,19,2,13,Offaly,25,19,1,0.075987842,O'Kennedy Park,League 1B
-330,23-Feb-14,Kerry,2,24,0,13,Kildare,30,13,1,0.075757576,Austin Stack Park,League 2A
-331,23-Feb-14,Kilkenny,5,20,5,14,Tipperary,35,29,1,0.075528701,Nowlan Park,League 1A
-332,23-Feb-14,Limerick,3,28,0,12,Antrim,37,12,1,0.075301205,Gaelic Grounds,League 1B
-333,02-Mar-14,Derry,1,13,0,10,London,16,10,1,0.075075075,Celtic Park,League 2A
-334,02-Mar-14,Warwickshire,1,15,4,13,Tyrone,18,25,0,0.074850299,P·irc na h…ireann,League 3B
-335,02-Mar-14,Fermanagh,5,13,2,12,Louth,28,18,1,0.074626866,St. Patrick's Park Donagh,League 3A
-336,09-Mar-14,Sligo,2,5,0,12,Warwickshire,11,12,0,0.074404762,Markievicz Park,League 3B
-337,09-Mar-14,Longford,0,13,2,8,Fermanagh,13,14,0,0.074183976,Pearse Park,League 3A
-338,09-Mar-14,Tyrone,0,14,1,7,Leitrim,14,10,1,0.073964497,Healy Park,League 3B
-339,09-Mar-14,Monaghan,0,15,1,11,Louth,15,14,1,0.073746313,Aughnamullen,League 3A
-340,09-Mar-14,Waterford,1,13,1,10,Dublin,16,13,1,0.073529412,Walsh Park,League 1A
-341,09-Mar-14,Limerick,1,14,2,8,Wexford,17,14,1,0.073313783,Gaelic Grounds,League 1B
-342,09-Mar-14,Down,0,17,0,13,Mayo,17,13,1,0.073099415,P·irc Esler,League 2B
-343,09-Mar-14,Tipperary,0,20,4,15,Clare,20,27,0,0.072886297,Semple Stadium,League 1A
-344,09-Mar-14,Wicklow,2,14,0,15,Armagh,20,15,1,0.072674419,Aughrim County Ground,League 2B
-345,09-Mar-14,Roscommon,3,11,0,15,Donegal,20,15,1,0.072463768,Athleague,League 3A
-346,09-Mar-14,Westmeath,2,15,3,13,Kerry,21,22,0,0.072254335,Cusack Park Mullingar,League 2A
-347,09-Mar-14,Kilkenny,2,16,1,16,Galway,22,19,1,0.07204611,Nowlan Park,League 1A
-348,09-Mar-14,London,1,21,0,18,Kildare,24,18,1,0.07183908,Emerald GAA Grounds,League 2A
-349,09-Mar-14,Carlow,2,20,0,12,Derry,26,12,1,0.071633238,Dr Cullen Park,League 2A
-350,09-Mar-14,Laois,2,21,0,21,Antrim,27,21,1,0.071428571,O'Moore Park,League 1B
-351,09-Mar-14,Cork,1,24,1,18,Offaly,27,21,1,0.071225071,P·irc UÌ Rinn,League 1B
-352,09-Mar-14,Meath,5,22,1,7,Fingal,37,10,1,0.071022727,St. Loman's Park,League 2B
-353,15-Mar-14,Dublin,1,22,3,13,Kilkenny,25,22,1,0.07082153,Parnell Park,League 1A
-354,16-Mar-14,Mayo,0,9,0,15,Wicklow,9,15,0,0.070621469,MacHale Park,League 2B
-355,16-Mar-14,Fermanagh,0,10,4,20,Roscommon,10,32,0,0.070422535,Brewster Park,League 3A
-356,16-Mar-14,Antrim,1,12,0,18,Cork,15,18,0,0.070224719,P·irc Mac UÌlÌn,League 1B
-357,16-Mar-14,Fingal,2,10,4,19,Down,16,31,0,0.070028011,Lawless Memorial Park,League 2B
-358,16-Mar-14,Kildare,1,14,3,11,Westmeath,17,20,0,0.069832402,St. Conleth's Park,League 2A
-359,16-Mar-14,Leitrim,2,11,2,9,Sligo,17,15,1,0.069637883,P·irc She·in UÌ Eislin,League 3B
-360,16-Mar-14,Armagh,3,9,1,21,Meath,18,24,0,0.069444444,Athletic Grounds,League 2B
-361,16-Mar-14,Louth,3,11,1,10,Longford,20,13,1,0.069252078,Darver Centre of Excellence,League 3A
-362,16-Mar-14,Offaly,2,15,2,15,Limerick,21,21,0.5,0.071823204,O'Connor Park,League 1B
-363,16-Mar-14,Kerry,3,14,0,17,Carlow,23,17,1,0.071625344,Austin Stack Park,League 2A
-364,16-Mar-14,Galway,3,16,1,19,Tipperary,25,22,1,0.071428571,Pearse Stadium,League 1A
-365,16-Mar-14,Donegal,3,16,1,7,Monaghan,25,10,1,0.071232877,O'Donnell Park,League 3A
-366,16-Mar-14,Wexford,2,21,1,18,Laois,27,21,1,0.071038251,Wexford Park,League 1B
-367,16-Mar-14,Clare,5,18,0,20,Waterford,33,20,1,0.070844687,Cusack Park Ennis,League 1A
-368,23-Mar-14,Sligo,1,10,2,16,Tyrone,13,22,0,0.070652174,Markievicz Park,League 3B
-369,23-Mar-14,Down,2,8,0,11,Meath,14,11,1,0.070460705,McKenna Park,League 2B
-370,23-Mar-14,Armagh,1,11,1,19,Mayo,14,22,0,0.07027027,Athletic Grounds,League 2B
-371,23-Mar-14,Monaghan,1,11,2,15,Fermanagh,14,21,0,0.070080863,St. Mary's Park,League 3A
-372,23-Mar-14,Leitrim,0,15,1,11,Warwickshire,15,14,1,0.069892473,P·irc She·in UÌ Eislin,League 3B
-373,23-Mar-14,Laois,1,13,1,17,Limerick,16,20,0,0.069705094,O'Moore Park,League 1B
-374,23-Mar-14,Clare,0,18,1,15,Galway,18,18,0.5,0.072192513,Cusack Park Ennis,League 1A
-375,23-Mar-14,Louth,1,15,2,15,Donegal,18,21,0,0.072,Darver Centre of Excellence,League 3A
-376,23-Mar-14,London,1,18,2,17,Kerry,21,23,0,0.071808511,Emerald GAA Grounds,League 2A
-377,23-Mar-14,Tipperary,1,19,0,19,Dublin,22,19,1,0.071618037,Semple Stadium,League 1A
-378,23-Mar-14,Roscommon,3,14,0,10,Longford,23,10,1,0.071428571,Athleague,League 3A
-379,23-Mar-14,Kildare,3,17,4,14,Derry,26,26,0.5,0.073878628,St. Conleth's Park,League 2A
-380,23-Mar-14,Carlow,2,21,0,13,Westmeath,27,13,1,0.073684211,Dr Cullen Park,League 2A
-381,23-Mar-14,Cork,2,24,1,20,Wexford,30,23,1,0.073490814,P·irc UÌ Rinn,League 1B
-382,23-Mar-14,Kilkenny,4,22,0,14,Waterford,34,14,1,0.073298429,Nowlan Park,League 1A
-383,23-Mar-14,Wicklow,3,32,2,8,Fingal,41,14,1,0.07310705,Pearse Park Arklow,League 2B
-384,23-Mar-14,Offaly,5,27,4,9,Antrim,42,21,1,0.072916667,O'Connor Park,League 1B
-385,30-Mar-14,Fingal,0,8,4,12,Armagh,8,24,0,0.072727273,Iniskeen,League 2B
-386,30-Mar-14,Limerick,1,12,1,20,Galway,15,23,0,0.07253886,Gaelic Grounds,League 1A
-387,30-Mar-14,Waterford,1,17,4,13,Dublin,20,25,0,0.072351421,Walsh Park,League 1A
-388,30-Mar-14,Antrim,1,18,1,14,Offaly,21,17,1,0.072164948,P·irc Mac UÌlÌn,League 1B
-389,30-Mar-14,Wexford,2,16,4,22,Kilkenny,22,34,0,0.071979434,Wexford Park,League 1A
-390,30-Mar-14,Laois,2,19,2,23,Clare,25,29,0,0.071794872,O'Moore Park,League 1A
-391,30-Mar-14,Tipperary,3,25,4,19,Cork,34,31,1,0.071611253,Semple Stadium,League 1A
-392,05-Apr-14,Roscommon,2,14,4,12,Donegal,20,24,0,0.071428571,Markievicz Park,League 3A
-393,05-Apr-14,Down,1,18,0,23,Wicklow,21,23,0,0.071246819,P·irc Tailteann,League 2B
-394,05-Apr-14,Kerry,3,16,3,13,Carlow,25,22,1,0.07106599,Semple Stadium,League 2A
-395,06-Apr-14,Tyrone,0,13,1,9,Leitrim,13,12,1,0.070886076,Markievicz Park,League 3B
-396,12-Apr-14,Offaly,3,19,0,14,Kerry,28,14,1,0.070707071,Semple Stadium,League 1B
-397,13-Apr-14,Fingal,0,8,2,16,Donegal,8,22,0,0.070528967,Breffni Park,League 2B
-398,20-Apr-14,Kilkenny,1,16,0,15,Galway,19,15,1,0.070351759,Gaelic Grounds,League 1A
-399,20-Apr-14,Tipperary,2,24,2,17,Clare,30,23,1,0.070175439,Gaelic Grounds,League 1A
-400,26-Apr-14,Roscommon,1,12,1,11,Donegal,15,14,1,0.07,Athleague,Nicky Rackard
-401,27-Apr-14,London,2,17,2,17,Carlow,23,23,0.5,0.072319202,Emerald GAA Grounds,Leinster
-402,27-Apr-14,Antrim,0,23,2,11,Westmeath,23,17,1,0.072139303,P·irc Mac UÌlÌn,Leinster
-403,03-May-14,Monaghan,0,9,2,15,Roscommon,9,21,0,0.071960298,Iniskeen,Nicky Rackard
-404,03-May-14,Leitrim,0,9,0,12,Longford,9,12,0,0.071782178,P·irc Se·n Mac Diarmada,Lory Meagher
-405,03-May-14,Fingal,0,12,0,10,Louth,12,10,1,0.071604938,Lawless Memorial Park,Nicky Rackard
-406,03-May-14,Meath,0,17,1,8,Down,17,11,1,0.071428571,St. Loman's Park,Christy Ring
-407,03-May-14,Warwickshire,0,18,2,17,Fermanagh,18,23,0,0.071253071,P·irc na h…ireann,Lory Meagher
-408,03-May-14,Mayo,0,20,1,14,Armagh,20,17,1,0.071078431,MacHale Park,Christy Ring
-409,03-May-14,Kildare,1,27,2,24,Wicklow,30,30,0.5,0.073349633,St. Conleth's Park,Christy Ring
-410,03-May-14,Tyrone,1,27,2,21,Sligo,30,27,1,0.073170732,O'Neill Park,Nicky Rackard
-411,03-May-14,Kerry,4,31,0,11,Derry,43,11,1,0.072992701,Austin Stack Park,Christy Ring
-412,04-May-14,Westmeath,1,9,1,15,Laois,12,18,0,0.072815534,Cusack Park Mullingar,Leinster
-413,04-May-14,Carlow,1,17,2,18,Antrim,20,24,0,0.072639225,Dr Cullen Park,Leinster
-414,04-May-14,Tipperary,1,27,2,25,Kilkenny,30,31,0,0.072463768,Semple Stadium,League 1A
-415,10-May-14,Mayo,0,15,0,16,Meath,15,16,0,0.072289157,MacHale Park,Christy Ring
-416,10-May-14,Derry,2,16,3,12,Down,22,21,1,0.072115385,Owenbeg,Christy Ring
-417,10-May-14,Wicklow,3,13,1,20,Kildare,22,23,0,0.071942446,Pearse Park Arklow,Christy Ring
-418,10-May-14,Longford,2,17,0,4,Warwickshire,23,4,1,0.071770335,Pearse Park Longford,Lory Meagher
-419,10-May-14,Fermanagh,3,16,1,9,Leitrim,25,12,1,0.071599045,Brewster Park,Lory Meagher
-420,10-May-14,Louth,4,19,0,7,Sligo,31,7,1,0.071428571,St. Brigid's Park,Nicky Rackard
-421,10-May-14,Donegal,3,26,0,15,Monaghan,35,15,1,0.071258907,O'Donnell Park,Nicky Rackard
-422,11-May-14,Antrim,1,17,2,7,London,20,13,1,0.071090047,P·irc Mac UÌlÌn,Leinster
-423,11-May-14,Laois,1,22,0,14,Carlow,25,14,1,0.070921986,O'Moore Park,Leinster
-424,17-May-14,Louth,1,9,5,14,Donegal,12,29,0,0.070754717,St. Brigid's Park,Nicky Rackard
-425,17-May-14,Leitrim,2,9,1,15,Warwickshire,15,18,0,0.070588235,P·irc Se·n Mac Diarmada,Lory Meagher
-426,17-May-14,Kildare,1,16,3,18,Kerry,19,27,0,0.070422535,St. Conleth's Park,Christy Ring
-427,17-May-14,Longford,1,18,2,15,Fermanagh,21,21,0.5,0.072599532,Pearse Park Longford,Lory Meagher
-428,17-May-14,Armagh,3,13,3,19,Wicklow,22,28,0,0.072429907,Athletic Grounds,Christy Ring
-429,18-May-14,Carlow,0,14,1,9,Westmeath,14,12,1,0.072261072,Dr Cullen Park,Leinster
-430,18-May-14,London,0,16,2,13,Laois,16,19,0,0.072093023,Emerald GAA Grounds,Leinster
-431,24-May-14,Derry,0,10,2,16,Kildare,10,22,0,0.071925754,Owenbeg,Christy Ring
-432,24-May-14,Wicklow,0,14,1,15,Mayo,14,18,0,0.071759259,Pearse Park Arklow,Christy Ring
-433,24-May-14,Sligo,0,14,3,12,Monaghan,14,21,0,0.071593533,P·irc She·in UÌ Eislin,Nicky Rackard
-434,24-May-14,Donegal,1,12,2,11,Fingal,15,17,0,0.071428571,O'Donnell Park,Nicky Rackard
-435,24-May-14,Westmeath,2,12,1,12,London,18,15,1,0.071264368,Cusack Park Mullingar,Leinster
-436,24-May-14,Roscommon,0,18,2,19,Tyrone,18,25,0,0.071100917,Athleague,Nicky Rackard
-437,25-May-14,Laois,0,20,0,22,Antrim,20,22,0,0.070938215,O'Moore Park,Leinster
-438,25-May-14,Waterford,1,21,1,21,Cork,24,24,0.5,0.073059361,Semple Stadium,Munster
-439,31-May-14,Meath,0,14,1,18,Kildare,14,21,0,0.072892938,St. Loman's Park,Christy Ring
-440,31-May-14,Mayo,1,18,3,20,Kerry,21,29,0,0.072727273,MacHale Park,Christy Ring
-441,31-May-14,Down,5,24,2,15,Armagh,39,21,1,0.072562358,P·irc Esler,Christy Ring
-442,01-Jun-14,Antrim,0,21,5,19,Wexford,21,34,0,0.07239819,O'Moore Park,Leinster
-443,01-Jun-14,Tipperary,2,16,2,18,Limerick,22,24,0,0.072234763,Semple Stadium,Munster
-444,01-Jun-14,Laois,0,23,1,22,Galway,23,25,0,0.072072072,O'Moore Park,Leinster
-445,07-Jun-14,Tyrone,1,17,1,16,Fingal,20,19,1,0.071910112,Croke Park,Nicky Rackard
-446,07-Jun-14,Longford,3,18,3,16,Fermanagh,27,25,1,0.071748879,Croke Park,Lory Meagher
-447,07-Jun-14,Kerry,2,22,4,18,Kildare,28,30,0,0.071588367,Croke Park,Christy Ring
-448,07-Jun-14,Kilkenny,5,32,1,18,Offaly,47,21,1,0.071428571,Nowlan Park,Leinster
-449,08-Jun-14,Waterford,0,14,0,28,Cork,14,28,0,0.071269488,Semple Stadium,Munster
-450,14-Jun-14,Wexford,1,14,0,22,Dublin,17,22,0,0.071111111,Wexford Park,Leinster
-451,14-Jun-14,Longford,3,17,3,13,Sligo,26,22,1,0.070953437,P·irc She·in UÌ Eislin,Nicky Rackard
-452,14-Jun-14,Westmeath,2,22,2,13,Kildare,28,19,1,0.07079646,Cusack Park Mullingar,Leinster
-453,15-Jun-14,Clare,2,18,2,23,Cork,24,29,0,0.070640177,Semple Stadium,Munster
-454,21-Jun-14,Down,0,1,0,0,Tyrone,1,0,1,0.070484581,n/a,Christy Ring
-455,22-Jun-14,Galway,5,16,3,22,Kilkenny,31,31,0.5,0.072527473,O'Connor Park,Leinster
-456,28-Jun-14,Galway,1,17,3,19,Kilkenny,20,28,0,0.072368421,O'Connor Park,Leinster
-457,28-Jun-14,Waterford,2,22,1,15,Laois,28,18,1,0.072210066,Walsh Park,All-Ireland
-458,29-Jun-14,Antrim,1,20,2,19,Offaly,23,25,0,0.072052402,P·irc Mac UÌlÌn,All-Ireland
-459,05-Jul-14,Clare,2,25,2,25,Wexford,31,31,0.5,0.074074074,Cusack Park Ennis,All-Ireland
-460,05-Jul-14,Tipperary,3,25,4,13,Galway,34,25,1,0.073913043,Semple Stadium,All-Ireland
-461,06-Jul-14,Dublin,1,9,0,24,Kilkenny,12,24,0,0.073752711,Croke Park,Leinster
-462,12-Jul-14,Wexford,2,25,2,22,Clare,31,28,1,0.073593074,Wexford Park,All-Ireland
-463,12-Jul-14,Tipperary,5,25,1,20,Offaly,40,23,1,0.073434125,O'Moore Park,All-Ireland
-464,13-Jul-14,Cork,2,24,0,24,Limerick,30,24,1,0.073275862,P·irc UÌ Chaoimh,Munster
-465,19-Jul-14,Waterford,2,15,3,15,Wexford,21,24,0,0.07311828,Nowlan Park,All-Ireland
-466,27-Jul-14,Tipperary,2,23,0,16,Dublin,29,16,1,0.072961373,Semple Stadium,All-Ireland
-467,27-Jul-14,Limerick,4,26,1,11,Wexford,38,14,1,0.072805139,Semple Stadium,All-Ireland
-468,10-Aug-14,Kilkenny,2,13,0,17,Limerick,19,17,1,0.072649573,Croke Park,All-Ireland
-469,17-Aug-14,Cork,1,11,2,18,Tipperary,14,24,0,0.07249467,Croke Park,All-Ireland
-470,07-Sep-14,Kilkenny,3,22,1,28,Tipperary,31,31,0.5,0.074468085,Croke Park,All-Ireland
-471,27-Sep-14,Kilkenny,2,17,2,14,Tipperary,23,20,1,0.074309979,Croke Park,All-Ireland
-472,14-Feb-15,Limerick,2,16,0,22,Waterford,22,22,0.5,0.076271186,Gaelic Grounds,League 1B
-473,14-Feb-15,Cork,2,17,1,22,Kilkenny,23,25,0,0.076109937,P·irc UÌ Rinn,League 1A
-474,14-Feb-15,Laois,0,23,1,24,Offaly,23,27,0,0.075949367,O'Moore Park,League 1B
-475,15-Feb-15,Kerry,0,14,0,14,Derry,14,14,0.5,0.077894737,Austin Stack Park,League 2A
-476,15-Feb-15,Down,1,13,0,9,Armagh,16,9,1,0.077731092,McKenna Park,League 2B
-477,15-Feb-15,Tyrone,1,13,2,10,Monaghan,16,16,0.5,0.07966457,Healy Park,League 3A
-478,15-Feb-15,Galway,2,15,1,17,Clare,21,20,1,0.079497908,Pearse Stadium,League 1A
-479,15-Feb-15,Fermanagh,1,16,3,13,Fingal,19,22,0,0.079331942,Brewster Park,League 3A
-480,15-Feb-15,Donegal,1,12,3,14,Mayo,15,23,0,0.079166667,O'Donnell Park,League 2B
-481,15-Feb-15,Meath,0,14,0,24,Kildare,14,24,0,0.079002079,St. Loman's Park,League 2B
-482,15-Feb-15,Roscommon,1,21,1,9,Louth,24,12,1,0.078838174,Athleague,League 3A
-483,15-Feb-15,Dublin,2,20,0,14,Tipperary,26,14,1,0.078674948,Parnell Park,League 1A
-484,15-Feb-15,Westmeath,2,20,1,8,London,26,11,1,0.078512397,Cusack Park Mullingar,League 2A
-485,15-Feb-15,Carlow,3,17,1,6,Wicklow,26,9,1,0.078350515,Dr Cullen Park,League 2A
-486,15-Feb-15,Wexford,1,24,2,20,Antrim,27,26,1,0.0781893,Wexford Park,League 1B
-487,21-Feb-15,London,0,7,3,12,Carlow,7,21,0,0.078028747,Emerald GAA Grounds,League 2A
-488,21-Feb-15,Cork,1,24,0,17,Clare,27,17,1,0.077868852,P·irc UÌ Rinn,League 1A
-489,21-Feb-15,Waterford,3,21,0,12,Laois,30,12,1,0.077709611,Fraher Field,League 1B
-490,22-Feb-15,Mayo,0,9,3,8,Meath,9,17,0,0.07755102,MacHale Park,League 2B
-491,22-Feb-15,Monaghan,0,17,1,10,Roscommon,17,13,1,0.077393075,St. Mary's Park,League 3A
-492,22-Feb-15,Tyrone,1,16,1,15,Fingal,19,18,1,0.077235772,Lawless Memorial Park,League 3A
-493,22-Feb-15,Kilkenny,3,11,0,25,Dublin,20,25,0,0.077079108,Nowlan Park,League 1A
-494,22-Feb-15,Offaly,0,12,2,15,Wexford,12,21,0,0.076923077,O'Connor Park,League 1B
-495,22-Feb-15,Derry,2,15,3,10,Westmeath,21,19,1,0.076767677,Owenbeg,League 2A
-496,22-Feb-15,Armagh,1,18,2,10,Donegal,21,16,1,0.076612903,Athletic Grounds,League 2B
-497,22-Feb-15,Kildare,2,15,1,12,Down,21,15,1,0.076458753,St. Conleth's Park,League 2B
-498,22-Feb-15,Antrim,1,12,0,23,Limerick,15,23,0,0.076305221,P·irc Mac UÌlÌn,League 1B
-499,22-Feb-15,Tipperary,2,18,0,20,Galway,24,20,1,0.076152305,Semple Stadium,League 1A
-500,22-Feb-15,Wicklow,1,6,2,20,Kerry,9,26,0,0.076,Aughrim County Ground,League 2A
-501,22-Feb-15,Louth,4,17,3,7,Fermanagh,29,16,1,0.075848303,Darver Centre of Excellence,League 3A
-502,01-Mar-15,Derry,1,10,1,9,London,13,12,1,0.075697211,Greenford,League 2A
-503,07-Mar-15,Donegal,1,4,2,15,Meath,7,21,0,0.07554672,O'Donnell Park,League 2B
-504,07-Mar-15,Dublin,1,20,0,34,Cork,23,34,0,0.075396825,Croke Park,League 1A
-505,07-Mar-15,Offaly,1,14,2,18,Waterford,17,24,0,0.075247525,O'Connor Park,League 1B
-506,07-Mar-15,Warwickshire,5,14,0,14,Sligo,29,14,1,0.075098814,P·irc na h…ireann,League 3B
-507,07-Mar-15,Armagh,3,14,3,23,Kildare,23,32,0,0.07495069,Athletic Grounds,League 2B
-508,08-Mar-15,Derry,1,13,1,15,Carlow,16,18,0,0.07480315,Celtic Park,League 2A
-509,08-Mar-15,Clare,0,20,2,19,Tipperary,20,25,0,0.074656189,Cusack Park Ennis,League 1A
-510,08-Mar-15,Galway,0,20,0,18,Kilkenny,20,18,1,0.074509804,Pearse Stadium,League 1A
-511,08-Mar-15,Leitrim,0,10,1,17,Longford,10,20,0,0.074363992,P·irc Se·n Mac Diarmada,League 3B
-512,08-Mar-15,Antrim,1,14,1,18,Limerick,17,21,0,0.07421875,P·irc Mac UÌlÌn,League 1B
-513,08-Mar-15,Wicklow,2,12,3,12,London,18,21,0,0.074074074,Pearse Park Arklow,League 2A
-514,08-Mar-15,Louth,2,13,2,18,Monaghan,19,24,0,0.073929961,St. Brigid's Park,League 3A
-515,08-Mar-15,Fermanagh,2,8,4,14,Tyrone,14,26,0,0.073786408,Brewster Park,League 3A
-516,08-Mar-15,Kerry,0,12,3,18,Kerry,12,27,0,0.073643411,Austin Stack Park,League 2A
-517,08-Mar-15,Mayo,0,15,2,21,Down,15,27,0,0.073500967,MacHale Park,League 2B
-518,08-Mar-15,Wexford,3,18,4,16,Limerick,27,28,0,0.073359073,Wexford Park,League 1B
-519,08-Mar-15,Fingal,1,11,3,24,Roscommon,14,33,0,0.073217726,St. Maurs,League 3A
-520,14-Mar-15,Longford,2,16,2,11,Warwickshire,22,17,1,0.073076923,Pearse Park Longford,League 3B
-521,14-Mar-15,Limerick,0,21,1,21,Offaly,21,24,0,0.07293666,Gaelic Grounds,League 1B
-522,14-Mar-15,Clare,2,22,2,20,Dublin,28,26,1,0.072796935,Cusack Park Ennis,League 1A
-523,15-Mar-15,Roscommon,0,16,0,6,Fermanagh,16,6,1,0.072657744,Athleague,League 3A
-524,15-Mar-15,Monaghan,0,18,2,12,Fingal,18,18,0.5,0.074427481,St. Tiernach's Park,League 3A
-525,15-Mar-15,Sligo,2,10,1,15,Leitrim,16,18,0,0.074285714,Markievicz Park,League 3B
-526,15-Mar-15,Galway,0,20,2,17,Cork,20,23,0,0.074144487,Pearse Stadium,League 1A
-527,15-Mar-15,Meath,1,15,1,17,Armagh,18,20,0,0.074003795,St. Loman's Park,League 2B
-528,15-Mar-15,Tyrone,1,20,2,7,Louth,23,13,1,0.073863636,Healy Park,League 3A
-529,15-Mar-15,Laois,0,25,5,22,Wexford,25,37,0,0.073724008,O'Moore Park,League 1B
-530,15-Mar-15,Westmeath,1,22,2,10,Wicklow,25,16,1,0.073584906,Cusack Park Mullingar,League 2A
-531,15-Mar-15,Carlow,3,17,1,24,Kerry,26,27,0,0.073446328,Dr Cullen Park,League 2A
-532,15-Mar-15,Tipperary,2,22,1,13,Kilkenny,28,16,1,0.073308271,Semple Stadium,League 1A
-533,15-Mar-15,Kildare,3,20,1,14,Mayo,29,17,1,0.073170732,St. Conleth's Park,League 2B
-534,15-Mar-15,Down,4,17,2,9,Donegal,29,15,1,0.073033708,McKenna Park,League 2B
-535,15-Mar-15,Waterford,4,30,0,10,Antrim,42,10,1,0.072897196,Walsh Park,League 1B
-536,22-Mar-15,Mayo,0,10,0,23,Armagh,10,23,0,0.072761194,MacHale Park,League 2B
-537,22-Mar-15,Derry,1,8,0,12,Wicklow,11,12,0,0.072625698,Owenbeg,League 2A
-538,22-Mar-15,Fermanagh,0,12,3,13,Monaghan,12,22,0,0.072490706,Brewster Park,League 3A
-539,22-Mar-15,Wexford,0,16,0,22,Waterford,16,22,0,0.072356215,Wexford Park,League 1B
-540,22-Mar-15,Westmeath,1,14,1,13,Carlow,17,16,1,0.072222222,Cusack Park Mullingar,League 2A
-541,22-Mar-15,Tyrone,1,14,1,13,Roscommon,17,16,1,0.072088725,Healy Park,League 3A
-542,22-Mar-15,Antrim,0,19,2,17,Offaly,19,23,0,0.07195572,P·irc Mac UÌlÌn,League 1B
-543,22-Mar-15,Donegal,3,11,1,19,Kildare,20,22,0,0.071823204,O'Donnell Park,League 2B
-544,22-Mar-15,Fingal,2,17,3,14,Louth,23,23,0.5,0.073529412,Lawless Memorial Park,League 3A
-545,22-Mar-15,Dublin,0,26,2,14,Galway,26,20,1,0.073394495,Parnell Park,League 1A
-546,22-Mar-15,Kilkenny,2,20,2,19,Clare,26,25,1,0.073260073,Nowlan Park,League 1A
-547,22-Mar-15,Kerry,3,17,2,10,London,26,16,1,0.073126143,Austin Stack Park,League 2A
-548,22-Mar-15,Meath,2,21,0,17,Down,27,17,1,0.072992701,St. Loman's Park,League 2B
-549,22-Mar-15,Warwickshire,3,18,4,14,Leitrim,27,26,1,0.072859745,P·irc na h…ireann,League 3B
-550,22-Mar-15,Limerick,1,25,1,19,Laois,28,22,1,0.072727273,Fitzgerald Park,League 1B
-551,22-Mar-15,Cork,4,21,2,28,Tipperary,33,34,0,0.072595281,P·irc UÌ Rinn,League 1A
-552,28-Mar-15,Mayo,2,13,1,11,Donegal,19,14,1,0.072463768,P·irc Se·n Mac Diarmada,League 2B
-553,28-Mar-15,Laois,2,18,1,13,Antrim,24,16,1,0.072332731,O'Moore Park,League 1B
-554,28-Mar-15,Dublin,1,25,0,16,Limerick,28,16,1,0.072202166,Croke Park,League 1A
-555,28-Mar-15,Longford,4,20,0,9,Sligo,32,9,1,0.072072072,Pearse Park Longford,League 3B
-556,29-Mar-15,Offaly,0,13,1,16,Tipperary,13,19,0,0.071942446,O'Connor Park,League 1A
-557,29-Mar-15,Cork,0,18,0,14,Wexford,18,14,1,0.071813285,P·irc UÌ Rinn,League 1A
-558,29-Mar-15,Waterford,0,20,0,12,Galway,20,12,1,0.071684588,Walsh Park,League 1A
-559,29-Mar-15,Kilkenny,1,18,1,17,Clare,21,20,1,0.071556351,Nowlan Park,League 1A
-560,04-Apr-15,Tyrone,0,18,1,11,Monaghan,18,14,1,0.071428571,Keady,League 3A
-561,04-Apr-15,Warwickshire,1,15,2,10,Longford,18,16,1,0.071301248,St. Tiernach's Park,League 3B
-562,04-Apr-15,Kildare,0,22,0,17,Meath,22,17,1,0.071174377,Cusack Park Mullingar,League 2B
-563,04-Apr-15,Kerry,5,17,3,17,Westmeath,32,26,1,0.071047957,Gaelic Grounds,League 2A
-564,11-Apr-15,Kerry,2,16,1,18,Antrim,22,21,1,0.070921986,Parnell Park,League 1B
-565,11-Apr-15,Donegal,4,13,4,13,Tyrone,25,25,0.5,0.072566372,Celtic Park,League 2B
-566,18-Apr-15,Donegal,2,16,2,12,Tyrone,22,18,1,0.072438163,Celtic Park,League 2B
-567,19-Apr-15,Tipperary,2,15,1,19,Waterford,21,22,0,0.072310406,Nowlan Park,League 1A
-568,19-Apr-15,Cork,1,27,2,23,Dublin,30,29,1,0.072183099,Nowlan Park,League 1A
-569,02-May-15,Fingal,0,9,3,12,Roscommon,9,21,0,0.072056239,Lawless Memorial Park,Nicky Rackard
-570,02-May-15,Donegal,0,11,1,12,Tyrone,11,15,0,0.071929825,O'Donnell Park,Nicky Rackard
-571,02-May-15,Derry,0,13,0,11,Mayo,13,11,1,0.071803853,Owenbeg,Christy Ring
-572,02-May-15,Leitrim,2,12,4,16,Sligo,18,28,0,0.071678322,P·irc She·in UÌ Eislin,Lory Meagher
-573,02-May-15,Fermanagh,3,12,2,7,Warwickshire,21,13,1,0.071553229,Brewster Park,Lory Meagher
-574,02-May-15,Monaghan,4,10,0,10,Longford,22,10,1,0.071428571,St. Tiernach's Park,Nicky Rackard
-575,02-May-15,Armagh,2,16,2,11,Louth,22,17,1,0.071304348,Athletic Grounds,Nicky Rackard
-576,02-May-15,Kerry,2,17,2,10,Down,23,16,1,0.071180556,Austin Stack Park,Christy Ring
-577,02-May-15,Meath,1,21,1,5,Wicklow,24,8,1,0.071057192,St. Loman's Park,Christy Ring
-578,02-May-15,London,2,23,2,23,Kildare,29,29,0.5,0.07266436,Emerald GAA Grounds,Christy Ring
-579,03-May-15,Westmeath,2,19,2,17,Carlow,25,23,1,0.07253886,Cusack Park Mullingar,Leinster
-580,03-May-15,Waterford,1,24,0,17,Cork,27,17,1,0.072413793,Semple Stadium,League 1A
-581,03-May-15,Antrim,5,17,3,22,Laois,32,31,1,0.072289157,P·irc Mac UÌlÌn,Leinster
-582,09-May-15,Louth,2,8,1,21,Fingal,14,24,0,0.072164948,St. Brigid's Park,Nicky Rackard
-583,09-May-15,Lancashire,3,9,2,16,Fermanagh,18,22,0,0.072041166,P·irc na h…ireann,Lory Meagher
-584,09-May-15,Warwickshire,1,15,1,18,Leitrim,18,21,0,0.071917808,P·irc na h…ireann,Lory Meagher
-585,09-May-15,Kildare,0,19,3,16,London,19,25,0,0.071794872,St. Conleth's Park,Christy Ring
-586,09-May-15,Tyrone,0,20,3,17,Armagh,20,26,0,0.071672355,Carrickmore,Nicky Rackard
-587,09-May-15,Down,1,19,0,13,Wicklow,22,13,1,0.071550256,McKenna Park,Christy Ring
-588,09-May-15,Kerry,1,23,2,18,Meath,26,24,1,0.071428571,Austin Stack Park,Christy Ring
-589,09-May-15,Roscommon,1,24,0,17,Monaghan,27,17,1,0.071307301,Athleague,Nicky Rackard
-590,09-May-15,Longford,1,9,4,21,Donegal,12,33,0,0.071186441,Pearse Park Longford,Nicky Rackard
-591,10-May-15,Carlow,1,14,1,17,Laois,17,20,0,0.07106599,Dr Cullen Park,Leinster
-592,10-May-15,Westmeath,1,21,0,7,Antrim,24,7,1,0.070945946,Cusack Park Mullingar,Leinster
-593,16-May-15,Derry,1,12,2,8,London,15,14,1,0.070826307,Owenbeg,Christy Ring
-594,16-May-15,Sligo,1,15,3,12,Warwickshire,18,21,0,0.070707071,Markievicz Park,Lory Meagher
-595,16-May-15,Mayo,1,16,2,18,Kildare,19,24,0,0.070588235,James Stephens Park,Christy Ring
-596,16-May-15,Monaghan,2,13,6,12,Donegal,19,30,0,0.070469799,St. Tiernach's Park,Nicky Rackard
-597,16-May-15,Leitrim,1,16,1,14,Lancashire,19,17,1,0.070351759,P·irc She·in UÌ Eislin,Lory Meagher
-598,16-May-15,Fingal,0,20,1,21,Tyrone,20,24,0,0.070234114,Lawless Memorial Park,Nicky Rackard
-599,23-May-15,Lancashire,0,13,3,21,Sligo,13,30,0,0.070116861,P·irc na h…ireann,Lory Meagher
-600,23-May-15,Tyrone,1,16,1,14,Roscommon,19,17,1,0.07,Carrickmore,Nicky Rackard
-601,23-May-15,Fermanagh,2,14,1,14,Leitrim,20,17,1,0.069883527,Brewster Park,Lory Meagher
-602,23-May-15,Wicklow,1,18,1,11,Mayo,21,14,1,0.069767442,Cusack Park Mullingar,Christy Ring
-603,23-May-15,Armagh,1,19,1,12,Donegal,22,15,1,0.069651741,Athletic Grounds,Nicky Rackard
-604,23-May-15,Meath,2,18,3,23,Kildare,24,32,0,0.069536424,St. Loman's Park,Christy Ring
-605,23-May-15,Down,1,22,1,13,London,25,16,1,0.069421488,McKenna Park,Christy Ring
-606,23-May-15,Longford,2,20,2,16,Louth,26,22,1,0.069306931,Cusack Park Mullingar,Nicky Rackard
-607,24-May-15,Clare,2,15,1,19,Limerick,21,22,0,0.069192751,Semple Stadium,Munster
-608,24-May-15,Laois,1,20,1,17,Westmeath,23,20,1,0.069078947,O'Moore Park,Leinster
-609,24-May-15,Carlow,2,18,1,11,Antrim,24,14,1,0.068965517,Dr Cullen Park,Leinster
-610,30-May-15,Kildare,0,9,6,27,Kerry,9,45,0,0.068852459,St. Conleth's Park,Christy Ring
-611,30-May-15,Derry,0,23,2,12,Down,23,18,1,0.068739771,Owenbeg,Christy Ring
-612,30-May-15,Warwickshire,3,13,2,14,Lancashire,22,20,1,0.068627451,P·irc na h…ireann,Lory Meagher
-613,30-May-15,Sligo,5,16,0,12,Fermanagh,31,12,1,0.068515498,Kilcoyne Park,Lory Meagher
-614,31-May-15,Dublin,0,20,1,17,Galway,20,20,0.5,0.070032573,Croke Park,Leinster
-615,06-Jun-15,Armagh,1,14,2,12,Roscommon,17,18,0,0.069918699,Croke Park,Nicky Rackard
-616,06-Jun-15,Sligo,1,17,3,16,Fermanagh,20,25,0,0.069805195,Croke Park,Lory Meagher
-617,06-Jun-15,Kerry,1,20,0,12,Derry,23,12,1,0.069692058,Croke Park,Christy Ring
-618,06-Jun-15,Galway,5,19,1,18,Dublin,34,21,1,0.069579288,O'Connor Park,Leinster
-619,07-Jun-15,Westmeath,1,16,1,24,Wexford,19,27,0,0.069466882,Cusack Park Mullingar,Leinster
-620,07-Jun-15,Cork,1,21,3,19,Waterford,24,28,0,0.069354839,Semple Stadium,Munster
-621,07-Jun-15,Laois,0,29,0,21,Offaly,29,21,1,0.069243156,O'Moore Park,Leinster
-622,14-Jun-15,Mayo,0,13,2,14,Roscommon,13,20,0,0.069131833,Pearse Stadium,Christy Ring
-623,20-Jun-15,Galway,3,28,1,14,Laois,37,17,1,0.069020867,O'Connor Park,Leinster
-624,21-Jun-15,Limerick,1,16,4,23,Tipperary,19,35,0,0.068910256,Gaelic Grounds,Munster
-625,21-Jun-15,Kilkenny,5,25,0,16,Wexford,40,16,1,0.0688,Nowlan Park,Leinster
-626,04-Jul-15,Laois,0,19,4,17,Dublin,19,29,0,0.068690096,O'Moore Park,All-Ireland
-627,04-Jul-15,Wexford,0,20,2,22,Cork,20,28,0,0.068580542,Wexford Park,All-Ireland
-628,04-Jul-15,Clare,3,26,0,15,Offaly,35,15,1,0.068471338,Cusack Park Ennis,All-Ireland
-629,05-Jul-15,Westmeath,1,12,4,15,Limerick,15,27,0,0.06836248,Cusack Park Mullingar,All-Ireland
-630,05-Jul-15,Galway,2,15,1,25,Kilkenny,21,28,0,0.068253968,Croke Park,Leinster
-631,11-Jul-15,Clare,0,17,0,20,Cork,17,20,0,0.0681458,Semple Stadium,All-Ireland
-632,11-Jul-15,Limerick,1,16,1,17,Dublin,19,20,0,0.068037975,Semple Stadium,All-Ireland
-633,12-Jul-15,Waterford,0,16,0,21,Tipperary,16,21,0,0.06793049,Semple Stadium,Munster
-634,26-Jul-15,Waterford,2,21,1,19,Dublin,27,22,1,0.067823344,Semple Stadium,All-Ireland
-635,26-Jul-15,Galway,2,28,0,22,Cork,34,22,1,0.067716535,Semple Stadium,All-Ireland
-636,09-Aug-15,Kilkenny,1,21,0,18,Waterford,24,18,1,0.067610063,Croke Park,All-Ireland
-637,16-Aug-15,Tipperary,3,16,0,26,Galway,25,26,0,0.067503925,Croke Park,All-Ireland
-638,06-Sep-15,Kilkenny,1,22,1,18,Galway,25,21,1,0.067398119,Croke Park,All-Ireland
-639,13-Feb-16,Tipperary,1,23,0,12,Dublin,26,12,1,0.067292645,Semple Stadium,League 1A
-640,13-Feb-16,Limerick,2,23,0,15,Wexford,29,15,1,0.0671875,Gaelic Grounds,League 1B
-641,14-Feb-16,London,0,13,2,16,Westmeath,13,22,0,0.067082683,Emerald GAA Grounds,League 2A
-642,14-Feb-16,Wicklow,0,13,0,22,Meath,13,22,0,0.066978193,Pearse Park Arklow,League 2B
-643,14-Feb-16,Waterford,0,14,0,10,Kilkenny,14,10,1,0.066874028,Walsh Park,League 1A
-644,14-Feb-16,Kildare,0,14,2,13,Carlow,14,19,0,0.066770186,St. Conleth's Park,League 2A
-645,14-Feb-16,Mayo,1,14,0,13,Donegal,17,13,1,0.066666667,MacHale Park,League 2B
-646,14-Feb-16,Louth,1,14,1,16,Roscommon,17,19,0,0.066563467,Darver Centre of Excellence,League 3A
-647,14-Feb-16,Derry,2,12,1,21,Antrim,18,24,0,0.066460587,Celtic Park,League 2A
-648,14-Feb-16,Monaghan,2,13,2,18,Tyrone,19,24,0,0.066358025,St. Mary's Park,League 3A
-649,14-Feb-16,Laois,2,14,1,24,Kerry,20,27,0,0.066255778,O'Moore Park,League 1B
-650,14-Feb-16,Armagh,2,14,2,16,Down,20,22,0,0.066153846,Athletic Grounds,League 2B
-651,14-Feb-16,Clare,2,21,0,15,Offaly,27,15,1,0.066052227,Cusack Park Ennis,League 1B
-652,14-Feb-16,Galway,1,27,1,21,Cork,30,24,1,0.06595092,Pearse Stadium,League 1A
-653,14-Feb-16,Fingal,4,18,1,6,Warwickshire,30,9,1,0.065849923,DCU Showgrounds,League 3A
-654,20-Feb-16,Warwickshire,2,10,2,11,Louth,16,17,0,0.065749235,P·irc na h…ireann,League 3A
-655,20-Feb-16,Cork,1,14,0,20,Waterford,17,20,0,0.065648855,P·irc UÌ Rinn,League 1A
-656,20-Feb-16,Dublin,1,17,0,13,Galway,20,13,1,0.06554878,Parnell Park,League 1A
-657,21-Feb-16,Donegal,1,8,2,14,Armagh,11,20,0,0.065449011,O'Donnell Park,League 2B
-658,21-Feb-16,Wexford,1,11,0,18,Clare,14,18,0,0.065349544,Wexford Park,League 1B
-659,21-Feb-16,Carlow,1,11,5,16,London,14,31,0,0.065250379,Dr Cullen Park,League 2A
-660,21-Feb-16,Meath,2,9,0,19,Mayo,15,19,0,0.065151515,St. Loman's Park,League 2B
-661,21-Feb-16,Roscommon,1,12,0,10,Monaghan,15,10,1,0.06505295,Athleague,League 3A
-662,21-Feb-16,Westmeath,2,11,0,13,Derry,17,13,1,0.064954683,Cusack Park Mullingar,League 2A
-663,21-Feb-16,Kerry,1,15,1,19,Limerick,18,22,0,0.064856712,Fitzgerald Stadium,League 1B
-664,21-Feb-16,Offaly,1,17,0,15,Laois,20,15,1,0.064759036,O'Connor Park,League 1B
-665,21-Feb-16,Tyrone,1,17,4,10,Fingal,20,22,0,0.064661654,Healy Park,League 3A
-666,21-Feb-16,Kilkenny,2,17,0,18,Tipperary,23,18,1,0.064564565,Nowlan Park,League 1A
-667,21-Feb-16,Down,4,12,0,11,Wicklow,24,11,1,0.064467766,McKenna Park,League 2B
-668,21-Feb-16,Antrim,3,25,3,13,Kildare,34,22,1,0.064371257,P·irc Mac UÌlÌn,League 2A
-669,05-Mar-16,London,1,11,0,14,Kildare,14,14,0.5,0.065769806,Emerald GAA Grounds,League 2A
-670,05-Mar-16,Laois,0,16,1,21,Clare,16,24,0,0.065671642,O'Moore Park,League 1B
-671,05-Mar-16,Tyrone,0,17,1,12,Warwickshire,17,15,1,0.06557377,Healy Park,League 3A
-672,05-Mar-16,Dublin,4,21,2,17,Cork,33,23,1,0.06547619,Croke Park,League 1A
-673,06-Mar-16,Kerry,0,8,2,25,Wexford,8,31,0,0.0653789,Austin Stack Park,League 1B
-674,06-Mar-16,Offaly,0,14,1,19,Limerick,14,22,0,0.065281899,O'Connor Park,League 1B
-675,06-Mar-16,Down,0,16,0,20,Mayo,16,20,0,0.065185185,McKenna Park,League 2B
-676,06-Mar-16,Westmeath,2,11,0,10,Antrim,17,10,1,0.065088757,Cusack Park Mullingar,League 2A
-677,06-Mar-16,Roscommon,1,14,0,16,Fingal,17,16,1,0.064992614,Athleague,League 3A
-678,06-Mar-16,Sligo,1,14,1,9,Fermanagh,17,12,1,0.064896755,Markievicz Park,League 3B
-679,06-Mar-16,Tipperary,1,17,1,18,Waterford,20,21,0,0.064801178,Semple Stadium,League 1A
-680,06-Mar-16,Kilkenny,0,21,1,14,Galway,21,17,1,0.064705882,Nowlan Park,League 1A
-681,06-Mar-16,Wicklow,2,15,2,17,Armagh,21,23,0,0.064610866,Aughrim County Ground,League 2B
-682,06-Mar-16,Longford,3,12,0,13,Leitrim,21,13,1,0.064516129,Allen Park,League 3B
-683,06-Mar-16,Monaghan,2,19,1,12,Louth,25,15,1,0.064421669,St. Mary's Park,League 3A
-684,06-Mar-16,Carlow,2,25,0,9,Derry,31,9,1,0.064327485,Dr Cullen Park,League 2A
-685,06-Mar-16,Meath,2,35,0,9,Donegal,41,9,1,0.064233577,St. Loman's Park,League 2B
-686,12-Mar-16,Kildare,0,10,0,21,Westmeath,10,21,0,0.064139942,St. Conleth's Park,League 2A
-687,12-Mar-16,Warwickshire,3,12,1,21,Roscommon,21,24,0,0.064046579,P·irc na h…ireann,League 3A
-688,12-Mar-16,Cork,2,22,2,23,Kilkenny,28,29,0,0.063953488,P·irc UÌ Rinn,League 1A
-689,12-Mar-16,Limerick,6,29,1,12,Laois,47,15,1,0.063860668,Gaelic Grounds,League 1B
-690,13-Mar-16,Derry,0,13,0,16,London,13,16,0,0.063768116,Celtic Park,League 2A
-691,13-Mar-16,Mayo,0,13,2,14,Wicklow,13,20,0,0.063675832,MacHale Park,League 2B
-692,13-Mar-16,Waterford,0,14,0,19,Dublin,14,19,0,0.063583815,Walsh Park,League 1A
-693,13-Mar-16,Antrim,1,11,1,17,Carlow,14,20,0,0.063492063,P·irc Mac UÌlÌn,League 2A
-694,13-Mar-16,Donegal,0,14,3,22,Down,14,31,0,0.063400576,O'Donnell Park,League 2B
-695,13-Mar-16,Wexford,3,11,2,22,Offaly,20,28,0,0.063309353,Wexford Park,League 1B
-696,13-Mar-16,Fingal,1,18,3,14,Monaghan,21,23,0,0.063218391,Lawless Memorial Park,League 3A
-697,13-Mar-16,Leitrim,3,15,2,13,Sligo,24,19,1,0.06312769,P·irc Se·n Mac Diarmada,League 3B
-698,13-Mar-16,Galway,2,19,1,22,Tipperary,25,25,0.5,0.064469914,Pearse Stadium,League 1A
-699,13-Mar-16,Louth,2,19,2,16,Tyrone,25,22,1,0.064377682,Darver Centre of Excellence,League 3A
-700,13-Mar-16,Armagh,0,26,1,10,Meath,26,13,1,0.064285714,Athletic Grounds,League 2B
-701,13-Mar-16,Fermanagh,3,17,3,13,Longford,26,22,1,0.064194009,Brewster Park,League 3B
-702,13-Mar-16,Clare,2,28,1,9,Kerry,34,12,1,0.064102564,Cusack Park Ennis,League 1B
-703,19-Mar-16,Monaghan,2,13,2,6,Warwickshire,19,12,1,0.06401138,St. Tiernach's Park,League 3A
-704,20-Mar-16,Leitrim,1,11,2,16,Fermanagh,14,22,0,0.063920455,P·irc Se·n Mac Diarmada,League 3B
-705,20-Mar-16,Carlow,0,20,1,15,Westmeath,20,18,1,0.063829787,Dr Cullen Park,League 2A
-706,20-Mar-16,Armagh,1,17,1,10,Mayo,20,13,1,0.063739377,Athletic Grounds,League 2B
-707,20-Mar-16,Laois,0,21,0,22,Wexford,21,22,0,0.063649222,O'Moore Park,League 1B
-708,20-Mar-16,Clare,1,19,0,18,Limerick,22,18,1,0.063559322,Cusack Park Ennis,League 1B
-709,20-Mar-16,Offaly,2,17,2,18,Kerry,23,24,0,0.063469676,St. Brendan's Park,League 1B
-710,20-Mar-16,Down,2,17,1,14,Meath,23,17,1,0.063380282,McKenna Park,League 2B
-711,20-Mar-16,Kilkenny,0,23,1,14,Dublin,23,17,1,0.063291139,Nowlan Park,League 1A
-712,20-Mar-16,Kildare,2,18,1,16,Derry,24,19,1,0.063202247,St. Conleth's Park,League 2A
-713,20-Mar-16,London,1,21,1,19,Antrim,24,22,1,0.063113604,Emerald GAA Grounds,League 2A
-714,20-Mar-16,Waterford,0,24,1,21,Galway,24,24,0.5,0.06442577,Walsh Park,League 1A
-715,20-Mar-16,Roscommon,4,13,1,14,Tyrone,25,17,1,0.064335664,Athleague,League 3A
-716,20-Mar-16,Louth,5,12,2,9,Fingal,27,15,1,0.06424581,Darver Centre of Excellence,League 3A
-717,20-Mar-16,Sligo,5,13,5,21,Longford,28,36,0,0.064156206,Markievicz Park,League 3B
-718,20-Mar-16,Wicklow,2,27,0,17,Donegal,33,17,1,0.064066852,Pearse Park Arklow,League 2B
-719,20-Mar-16,Tipperary,2,27,2,15,Cork,33,21,1,0.063977747,Semple Stadium,League 1A
-720,26-Mar-16,Carlow,0,8,0,10,Westmeath,8,10,0,0.063888889,O'Connor Park,League 2A
-721,26-Mar-16,Down,1,15,0,20,Armagh,18,20,0,0.063800277,St. Brigid's Park,League 2B
-722,26-Mar-16,Fermanagh,2,13,3,8,Longford,19,17,1,0.063711911,Markievicz Park,League 3B
-723,26-Mar-16,Roscommon,4,15,0,7,Monaghan,27,7,1,0.06362379,Fr. Tierney Park,League 3A
-724,02-Apr-16,Dublin,1,19,1,21,Limerick,22,24,0,0.063535912,Parnell Park,League 1A
-725,02-Apr-16,Wicklow,2,19,1,9,Donegal,25,12,1,0.063448276,St. Colman's College,League 2B
-726,02-Apr-16,Kerry,2,27,1,19,Laois,33,22,1,0.063360882,Austin Stack Park,League 1B
-727,03-Apr-16,Wexford,1,13,0,17,Waterford,16,17,0,0.063273728,Wexford Park,League 1A
-728,03-Apr-16,Clare,2,13,0,18,Tipperary,19,18,1,0.063186813,Cusack Park Ennis,League 1A
-729,03-Apr-16,Galway,0,25,2,22,Cork,25,28,0,0.063100137,Pearse Stadium,League 1A
-730,03-Apr-16,Kilkenny,6,20,0,14,Offaly,38,14,1,0.063013699,Nowlan Park,League 1A
-731,09-Apr-16,Donegal,4,9,3,13,Roscommon,21,22,0,0.062927497,James Stephens Park,League 2B
-732,09-Apr-16,Laois,0,23,0,16,Westmeath,23,16,1,0.06284153,O'Connor Park,League 1B
-733,09-Apr-16,Tyrone,1,24,1,19,Fermanagh,27,22,1,0.062755798,Fr. Tierney Park,League 3A
-734,17-Apr-16,Kilkenny,2,19,4,22,Clare,25,34,0,0.0626703,Semple Stadium,League 1A
-735,17-Apr-16,Waterford,3,23,1,18,Limerick,32,21,1,0.062585034,Semple Stadium,League 1A
-736,23-Apr-16,Fermanagh,1,12,5,12,Monaghan,15,27,0,0.0625,Brewster Park,Nicky Rackard
-737,23-Apr-16,Tyrone,0,17,4,19,Mayo,17,31,0,0.062415197,Carrickmore,Nicky Rackard
-738,23-Apr-16,Down,2,12,2,17,London,18,23,0,0.062330623,McKenna Park,Christy Ring
-739,23-Apr-16,Leitrim,1,15,3,19,Warwickshire,18,28,0,0.062246279,P·irc She·in UÌ Eislin,Lory Meagher
-740,23-Apr-16,Louth,0,22,1,15,Sligo,22,18,1,0.062162162,Darver Centre of Excellence,Lory Meagher
-741,23-Apr-16,Armagh,2,19,3,13,Donegal,25,22,1,0.062078273,Athletic Grounds,Nicky Rackard
-742,23-Apr-16,Roscommon,2,20,0,15,Derry,26,15,1,0.061994609,Athleague,Christy Ring
-743,23-Apr-16,Meath,3,18,2,12,Wicklow,27,18,1,0.061911171,St. Loman's Park,Christy Ring
-744,23-Apr-16,Antrim,3,20,0,17,Kildare,29,17,1,0.061827957,Parnell Park,Christy Ring
-745,23-Apr-16,Fingal,3,21,3,15,Longford,30,24,1,0.061744966,Naomh BarrÛg,Nicky Rackard
-746,30-Apr-16,Wicklow,0,9,0,17,Kildare,9,17,0,0.061662198,Pearse Park Arklow,Christy Ring
-747,30-Apr-16,Warwickshire,2,10,3,14,Louth,16,23,0,0.061579652,P·irc na h…ireann,Lory Meagher
-748,30-Apr-16,Lancashire,2,10,2,18,Leitrim,16,24,0,0.061497326,P·irc na h…ireann,Lory Meagher
-749,30-Apr-16,Derry,1,15,1,18,Down,18,21,0,0.06141522,Owenbeg,Christy Ring
-750,30-Apr-16,Antrim,2,14,1,12,Roscommon,20,15,1,0.061333333,Pearse Park Dunloy,Christy Ring
-751,30-Apr-16,Mayo,0,22,1,11,Armagh,22,14,1,0.061251664,James Stephens Park,Nicky Rackard
-752,30-Apr-16,Monaghan,3,14,2,19,Fingal,23,25,0,0.061170213,St. Mary's Park,Nicky Rackard
-753,30-Apr-16,Donegal,3,15,3,11,Fermanagh,24,20,1,0.061088977,O'Donnell Park,Nicky Rackard
-754,30-Apr-16,Longford,4,18,3,17,Tyrone,30,26,1,0.061007958,Pearse Park Longford,Nicky Rackard
-755,01-May-16,London,1,16,2,17,Meath,19,23,0,0.060927152,Emerald GAA Grounds,Christy Ring
-756,01-May-16,Clare,0,22,0,22,Waterford,22,22,0.5,0.062169312,Semple Stadium,League 1A
-757,01-May-16,Kerry,2,19,0,17,Carlow,25,17,1,0.062087186,Austin Stack Park,Leinster
-758,01-May-16,Westmeath,2,22,1,11,Offaly,28,14,1,0.062005277,Cusack Park Mullingar,Leinster
-759,07-May-16,Kerry,1,13,1,18,Westmeath,16,21,0,0.061923584,Austin Stack Park,Leinster
-760,07-May-16,Down,1,14,1,7,Roscommon,17,10,1,0.061842105,McKenna Park,Christy Ring
-761,07-May-16,Longford,2,11,3,19,Armagh,17,28,0,0.061760841,Pearse Park Longford,Nicky Rackard
-762,07-May-16,Offaly,1,17,2,11,Carlow,20,17,1,0.06167979,O'Connor Park,Leinster
-763,07-May-16,Kildare,1,17,0,15,London,20,15,1,0.061598952,St. Conleth's Park,Christy Ring
-764,07-May-16,Monaghan,3,14,4,14,Donegal,23,26,0,0.061518325,Iniskeen,Nicky Rackard
-765,07-May-16,Louth,3,15,0,10,Lancashire,24,10,1,0.061437908,P·irc UÌ MhuirÌ,Lory Meagher
-766,07-May-16,Sligo,3,18,3,11,Warwickshire,27,20,1,0.061357702,Sligo GAA Centre of Excellence,Lory Meagher
-767,08-May-16,Clare,1,23,2,19,Waterford,26,25,1,0.061277705,Semple Stadium,League 1A
-768,14-May-16,Lancashire,0,15,1,25,Sligo,15,28,0,0.061197917,P·irc na h…ireann,Lory Meagher
-769,14-May-16,Leitrim,1,12,0,16,Louth,15,16,0,0.061118336,P·irc She·in UÌ Eislin,Lory Meagher
-770,21-May-16,Fingal,1,11,3,19,Armagh,14,28,0,0.061038961,Naomh BarrÛg,Nicky Rackard
-771,21-May-16,Derry,0,15,2,22,Wicklow,15,28,0,0.060959792,P·irc Esler,Christy Ring
-772,21-May-16,Donegal,2,11,1,18,Mayo,17,21,0,0.060880829,O'Donnell Park,Nicky Rackard
-773,21-May-16,Dublin,2,19,0,12,Wexford,25,12,1,0.06080207,Croke Park,Leinster
-774,21-May-16,Sligo,1,22,2,5,Leitrim,25,11,1,0.060723514,Markievicz Park,Lory Meagher
-775,21-May-16,Antrim,1,24,0,23,Down,27,23,1,0.060645161,St. Patrick's Park Loughguile,Christy Ring
-776,21-May-16,Tyrone,3,23,1,14,Fermanagh,32,17,1,0.06056701,O'Neill Park,Nicky Rackard
-777,21-May-16,Warwickshire,7,16,2,11,Lancashire,37,17,1,0.06048906,P·irc na h…ireann,Lory Meagher
-778,22-May-16,Carlow,2,15,0,22,Westmeath,21,22,0,0.060411311,Dr Cullen Park,Leinster
-779,22-May-16,Kildare,0,21,1,21,Meath,21,24,0,0.060333761,St. Conleth's Park,Christy Ring
-780,22-May-16,Tipperary,0,22,0,13,Cork,22,13,1,0.06025641,Semple Stadium,Munster
-781,22-May-16,Offaly,3,19,0,20,Kerry,28,20,1,0.060179257,O'Connor Park,Leinster
-782,04-Jun-16,Armagh,1,15,2,16,Mayo,18,22,0,0.060102302,Croke Park,Nicky Rackard
-783,04-Jun-16,Antrim,1,20,2,17,Meath,23,23,0.5,0.061302682,Croke Park,Christy Ring
-784,04-Jun-16,Louth,4,15,4,11,Sligo,27,23,1,0.06122449,Croke Park,Lory Meagher
-785,05-Jun-16,Westmeath,0,19,3,27,Galway,19,36,0,0.061146497,Cusack Park Mullingar,Leinster
-786,05-Jun-16,Waterford,1,21,0,17,Clare,24,17,1,0.061068702,Semple Stadium,Munster
-787,05-Jun-16,Offaly,3,22,2,14,Laois,31,20,1,0.060991105,O'Connor Park,Leinster
-788,11-Jun-16,Fermanagh,0,12,7,19,Louth,12,40,0,0.060913706,Athletic Grounds,Nicky Rackard
-789,11-Jun-16,Dublin,0,16,1,25,Kilkenny,16,28,0,0.060836502,O'Moore Park,Leinster
-790,11-Jun-16,Derry,1,14,1,21,Mayo,17,24,0,0.060759494,P·irc She·in UÌ Eislin,Christy Ring
-791,19-Jun-16,Tipperary,3,12,1,16,Limerick,21,19,1,0.06068268,Semple Stadium,Munster
-792,19-Jun-16,Offaly,2,9,2,19,Galway,15,25,0,0.060606061,O'Moore Park,Leinster
+6,26-Feb-12,Wicklow,0,14,1,11,Derry,14,14,0.5,0.2,Aughrim County Ground,League 2A
+7,26-Feb-12,Westmeath,0,19,3,8,Kerry,19,17,1,0.166666667,Cusack Park Mullingar,League 2A
+8,26-Feb-12,Galway,0,20,0,13,Dublin,20,13,1,0.142857143,Pearse Stadium,League 1A
+9,26-Feb-12,Monaghan,1,18,1,11,Donegal,21,14,1,0.125,St. Tiernach's Park,League 3A
+10,26-Feb-12,Kilkenny,2,17,0,15,Tipperary,23,15,1,0.111111111,Nowlan Park,League 1A
+11,26-Feb-12,Carlow,3,17,1,6,Down,26,9,1,0.1,Dr Cullen Park,League 2A
+12,26-Feb-12,Antrim,3,18,2,15,Wexford,27,21,1,0.090909091,Casement Park,League 1B
+13,26-Feb-12,London,2,21,0,12,Armagh,27,12,1,0.083333333,Emerald GAA Grounds,League 2B
+14,26-Feb-12,Tyrone,3,18,2,9,Sligo,27,15,1,0.076923077,Healy Park,League 3A
+15,26-Feb-12,Offaly,1,27,0,18,Laois,30,18,1,0.071428571,O'Connor Park,League 1B
+16,11-Mar-12,Fingal,0,11,0,16,Monaghan,11,16,0,0.066666667,Lawless Memorial Park,League 3A
+17,11-Mar-12,Kerry,0,13,0,20,Carlow,13,20,0,0.0625,Fitzgerald Stadium,League 2A
+18,11-Mar-12,Donegal,1,10,0,24,Tyrone,13,24,0,0.058823529,O'Donnell Park,League 3A
+19,11-Mar-12,Down,2,11,0,17,Wicklow,17,17,0.5,0.111111111,P·irc Esler,League 2A
+20,11-Mar-12,Waterford,1,15,2,21,Kilkenny,18,27,0,0.105263158,Walsh Park,League 1A
+21,11-Mar-12,Laois,2,12,1,24,Limerick,18,27,0,0.1,O'Moore Park,League 1B
+22,11-Mar-12,Derry,2,13,3,19,Westmeath,19,28,0,0.095238095,Celtic Park,League 2A
+23,11-Mar-12,Sligo,2,13,1,16,Louth,19,19,0.5,0.136363636,Markievicz Park,League 3A
+24,11-Mar-12,Clare,0,20,0,12,Antrim,20,12,1,0.130434783,Cusack Park Ennis,League 1B
+25,11-Mar-12,Mayo,3,12,1,18,Meath,21,21,0.5,0.166666667,MacHale Park,League 2B
+26,11-Mar-12,Dublin,2,17,2,18,Cork,23,24,0,0.16,Croke Park,League 1A
+27,11-Mar-12,Armagh,1,20,1,14,Roscommon,23,17,1,0.153846154,Athletic Grounds,League 2B
+28,11-Mar-12,Kildare,0,24,0,15,London,24,15,1,0.148148148,St. Conleth's Park,League 2B
+29,11-Mar-12,Tipperary,2,20,2,18,Galway,26,24,1,0.142857143,Semple Stadium,League 1A
+30,11-Mar-12,Wexford,3,18,2,20,Offaly,27,26,1,0.137931034,Wexford Park,League 1B
+31,18-Mar-12,London,0,7,2,8,Meath,7,14,0,0.133333333,Emerald GAA Grounds,League 2B
+32,18-Mar-12,Armagh,0,11,0,5,Mayo,11,5,1,0.129032258,Athletic Grounds,League 2B
+33,18-Mar-12,Longford,1,8,2,21,Leitrim,11,27,0,0.125,Michael Fay Park,League 3B
+34,18-Mar-12,Monaghan,1,9,1,9,Louth,12,12,0.5,0.151515152,Iniskeen,League 3A
+35,18-Mar-12,Fermanagh,0,14,1,10,Warwickshire,14,13,1,0.147058824,Brewster Park,League 3B
+36,18-Mar-12,Wicklow,1,12,2,22,Kerry,15,28,0,0.142857143,Aughrim County Ground,League 2A
+37,18-Mar-12,Roscommon,1,13,5,19,Kildare,16,34,0,0.138888889,Athleague,League 2B
+38,18-Mar-12,Down,1,14,1,20,Derry,17,23,0,0.135135135,P·irc Esler,League 2A
+39,18-Mar-12,Wexford,0,18,2,20,Limerick,18,26,0,0.131578947,Wexford Park,League 1B
+40,18-Mar-12,Cork,2,13,2,17,Galway,19,23,0,0.128205128,P·irc UÌ Chaoimh,League 1A
+41,18-Mar-12,Laois,2,13,2,22,Clare,19,28,0,0.125,O'Moore Park,League 1B
+42,18-Mar-12,Donegal,1,16,2,12,Sligo,19,18,1,0.12195122,O'Donnell Park,League 3A
+43,18-Mar-12,Carlow,2,17,1,16,Westmeath,23,19,1,0.119047619,Dr Cullen Park,League 2A
+44,18-Mar-12,Offaly,1,22,1,17,Antrim,25,20,1,0.11627907,O'Connor Park,League 1B
+45,18-Mar-12,Fingal,4,15,0,14,Tyrone,27,14,1,0.113636364,Lawless Memorial Park,League 3A
+46,18-Mar-12,Kilkenny,5,16,6,12,Dublin,31,30,1,0.111111111,Nowlan Park,League 1A
+47,18-Mar-12,Tipperary,0,31,2,15,Waterford,31,21,1,0.108695652,Semple Stadium,League 1A
+48,24-Mar-12,Dublin,2,15,0,21,Tipperary,21,21,0.5,0.127659574,Croke Park,League 1A
+49,24-Mar-12,Limerick,2,16,4,10,Offaly,22,22,0.5,0.145833333,Gaelic Grounds,League 1B
+50,24-Mar-12,London,3,18,1,10,Mayo,27,13,1,0.142857143,Emerald GAA Grounds,League 2B
+51,24-Mar-12,Westmeath,3,19,0,10,Wicklow,28,10,1,0.14,Cusack Park Mullingar,League 2A
+52,25-Mar-12,Leitrim,2,6,6,27,Fermanagh,12,45,0,0.137254902,P·irc She·in UÌ Eislin,League 3B
+53,25-Mar-12,Tyrone,1,10,0,17,Monaghan,13,17,0,0.134615385,Healy Park,League 3A
+54,25-Mar-12,Sligo,0,15,2,15,Fingal,15,21,0,0.132075472,Markievicz Park,League 3A
+55,25-Mar-12,Galway,0,16,1,14,Waterford,16,17,0,0.12962963,Pearse Stadium,League 1A
+56,25-Mar-12,Cork,1,17,1,15,Kilkenny,20,18,1,0.127272727,P·irc UÌ Chaoimh,League 1A
+57,25-Mar-12,Antrim,2,18,2,16,Laois,24,22,1,0.125,Casement Park,League 1B
+58,25-Mar-12,Clare,3,16,0,18,Wexford,25,18,1,0.122807018,Cusack Park Ennis,League 1B
+59,25-Mar-12,Meath,3,16,1,11,Roscommon,25,14,1,0.120689655,P·irc Tailteann,League 2B
+60,25-Mar-12,Carlow,2,21,0,12,Derry,27,12,1,0.118644068,Dr Cullen Park,League 2A
+61,25-Mar-12,Louth,4,24,0,12,Donegal,36,12,1,0.116666667,St. Brigid's Park,League 3A
+62,25-Mar-12,Kerry,4,27,1,21,Down,39,24,1,0.114754098,Fitzgerald Stadium,League 2A
+63,25-Mar-12,Warwickshire,8,19,0,5,Longford,43,5,1,0.112903226,P·irc na h…ireann,League 3B
+64,25-Mar-12,Kildare,7,30,0,7,Armagh,51,7,1,0.111111111,St. Conleth's Park,League 2B
+65,01-Apr-12,Fermanagh,0,1,0,0,Longford,1,0,1,0.109375,n/a,League 3B
+66,01-Apr-12,Armagh,0,8,1,19,Meath,8,22,0,0.107692308,Athletic Grounds,League 2B
+67,01-Apr-12,Wicklow,1,11,1,11,Carlow,14,14,0.5,0.121212121,Aughrim County Ground,League 2A
+68,01-Apr-12,Derry,0,15,1,7,Kerry,15,10,1,0.119402985,Celtic Park,League 2A
+69,01-Apr-12,Leitrim,2,10,2,20,Warwickshire,16,26,0,0.117647059,P·irc She·in UÌ Eislin,League 3B
+70,01-Apr-12,Waterford,0,17,0,13,Dublin,17,13,1,0.115942029,Fraher Field,League 1A
+71,01-Apr-12,Antrim,0,17,3,22,Limerick,17,31,0,0.114285714,Casement Park,League 1B
+72,01-Apr-12,Offaly,0,19,2,14,Clare,19,20,0,0.112676056,O'Connor Park,League 1B
+73,01-Apr-12,Mayo,1,20,0,19,Kildare,23,19,1,0.111111111,MacHale Park,League 2B
+74,01-Apr-12,Monaghan,0,24,0,16,Sligo,24,16,1,0.109589041,Iniskeen,League 3A
+75,01-Apr-12,Fingal,2,19,4,12,Donegal,25,24,1,0.108108108,Lawless Memorial Park,League 3A
+76,01-Apr-12,Tipperary,1,23,1,23,Cork,26,26,0.5,0.12,Semple Stadium,League 1A
+77,01-Apr-12,Down,2,20,3,21,Westmeath,26,30,0,0.118421053,P·irc Esler,League 2A
+78,01-Apr-12,Wexford,4,18,0,15,Laois,30,15,1,0.116883117,Wexford Park,League 1B
+79,01-Apr-12,Louth,4,18,2,9,Tyrone,30,15,1,0.115384615,St. Brigid's Park,League 3A
+80,01-Apr-12,Roscommon,3,22,2,14,London,31,20,1,0.113924051,Athleague,League 2B
+81,01-Apr-12,Kilkenny,3,26,0,10,Galway,35,10,1,0.1125,Nowlan Park,League 1A
+82,07-Apr-12,Clare,0,21,1,16,Limerick,21,19,1,0.111111111,Gaelic Grounds,League 1B
+83,14-Apr-12,Warwickshire,2,5,2,15,Fermanagh,11,21,0,0.109756098,Parnell Park,League 3B
+84,15-Apr-12,Fingal,0,1,0,0,Monaghan,1,0,1,0.108433735,n/a,League 3A
+85,15-Apr-12,Carlow,1,14,0,12,Westmeath,17,12,1,0.107142857,Nowlan Park,League 2A
+86,15-Apr-12,Donegal,2,13,0,16,Sligo,19,16,1,0.105882353,Brewster Park,League 3A
+87,15-Apr-12,Kildare,3,13,1,12,Meath,22,15,1,0.104651163,Parnell Park,League 2B
+88,15-Apr-12,Galway,0,26,2,20,Dublin,26,26,0.5,0.114942529,O'Connor Park,League 1A
+89,15-Apr-12,Wexford,5,12,0,19,Laois,27,19,1,0.113636364,Nowlan Park,League 1B
+90,21-Apr-12,Dublin,0,19,4,21,Galway,19,33,0,0.112359551,O'Moore Park,League 1A
+91,22-Apr-12,Wicklow,2,14,0,17,Down,20,17,1,0.111111111,St. Loman's Park,League 2A
+92,22-Apr-12,Kilkenny,1,20,0,14,Clare,23,14,1,0.10989011,Semple Stadium,League 1A
+93,22-Apr-12,Cork,1,25,2,15,Tipperary,28,21,1,0.108695652,Semple Stadium,League 1A
+94,05-May-12,Leitrim,1,6,4,22,Tyrone,9,34,0,0.107526882,P·irc She·in UÌ Eislin,Lory Meagher
+95,05-May-12,Louth,1,8,0,20,Armagh,11,20,0,0.106382979,St. Brigid's Park,Nicky Rackard
+96,05-May-12,Mayo,0,17,0,19,Down,17,19,0,0.105263158,MacHale Park,Christy Ring
+97,05-May-12,Donegal,1,15,0,14,Roscommon,18,14,1,0.104166667,O'Donnell Park,Nicky Rackard
+98,05-May-12,Fermanagh,1,19,1,8,Longford,22,11,1,0.103092784,Brewster Park,Lory Meagher
+99,05-May-12,Derry,1,22,2,18,Kildare,25,24,1,0.102040816,Celtic Park,Christy Ring
+100,05-May-12,Wicklow,2,20,2,15,Kerry,26,21,1,0.101010101,Aughrim County Ground,Christy Ring
+101,06-May-12,Meath,4,8,3,10,London,20,19,1,0.1,P·irc Tailteann,Christy Ring
+102,06-May-12,Kilkenny,3,21,0,16,Cork,30,16,1,0.099009901,Semple Stadium,League 1A
+103,12-May-12,Leitrim,1,10,2,14,Warwickshire,13,20,0,0.098039216,P·irc She·in UÌ Eislin,Lory Meagher
+104,12-May-12,Monaghan,0,15,1,16,Donegal,15,19,0,0.097087379,St. Tiernach's Park,Nicky Rackard
+105,12-May-12,Wicklow,1,18,2,11,Derry,21,17,1,0.096153846,Aughrim County Ground,Christy Ring
+106,12-May-12,London,2,15,3,10,Mayo,21,19,1,0.095238095,Emerald GAA Grounds,Christy Ring
+107,12-May-12,Armagh,1,20,0,8,Sligo,23,8,1,0.094339623,St. Oliver Plunkett Park,Nicky Rackard
+108,12-May-12,Kildare,2,21,1,16,Kerry,27,19,1,0.093457944,St. Conleth's Park,Christy Ring
+109,12-May-12,Down,2,23,1,19,Meath,29,22,1,0.092592593,P·irc Esler,Christy Ring
+110,19-May-12,Sligo,1,9,3,15,Louth,12,24,0,0.091743119,Markievicz Park,Nicky Rackard
+111,19-May-12,Carlow,0,13,0,20,Laois,13,20,0,0.090909091,Dr Cullen Park,Leinster
+112,19-May-12,Westmeath,0,14,0,12,Antrim,14,12,1,0.09009009,Cusack Park Mullingar,Leinster
+113,19-May-12,Derry,1,15,3,11,London,18,20,0,0.089285714,Celtic Park,Christy Ring
+114,19-May-12,Meath,1,16,0,16,Kildare,19,16,1,0.088495575,P·irc Tailteann,Christy Ring
+115,19-May-12,Roscommon,2,19,1,11,Monaghan,25,14,1,0.087719298,Athleague,Nicky Rackard
+116,21-May-12,Longford,3,11,2,18,Leitrim,20,24,0,0.086956522,Pearse Park Longford,Lory Meagher
+117,26-May-12,Donegal,0,7,3,18,Louth,7,27,0,0.086206897,O'Donnell Park,Nicky Rackard
+118,26-May-12,Warwickshire,1,16,2,15,Tyrone,19,21,0,0.085470085,P·irc na h…ireann,Lory Meagher
+119,26-May-12,Down,1,21,1,21,London,24,24,0.5,0.093220339,P·irc Esler,Christy Ring
+120,26-May-12,Armagh,4,12,1,17,Roscommon,24,20,1,0.092436975,St. Oliver Plunkett Park,Nicky Rackard
+121,26-May-12,Fermanagh,3,16,2,12,Leitrim,25,18,1,0.091666667,Maguiresbridge,Lory Meagher
+122,26-May-12,Wicklow,3,17,2,12,Meath,26,18,1,0.090909091,Pearse Park Arklow,Christy Ring
+123,27-May-12,Tipperary,2,20,1,19,Limerick,26,22,1,0.090163934,Semple Stadium,Munster
+124,02-Jun-12,Offaly,2,12,1,13,Wexford,18,16,1,0.089430894,O'Connor Park,Leinster
+125,02-Jun-12,London,2,16,2,13,Down,22,19,1,0.088709677,Emerald GAA Grounds,Christy Ring
+126,02-Jun-12,Dublin,3,23,1,7,Laois,32,10,1,0.088,O'Connor Park,Leinster
+127,03-Jun-12,Westmeath,4,12,5,19,Galway,24,34,0,0.087301587,Cusack Park Mullingar,Leinster
+128,09-Jun-12,Wicklow,1,17,4,18,London,20,30,0,0.086614173,Croke Park,Christy Ring
+129,09-Jun-12,Armagh,3,20,1,15,Louth,29,18,1,0.0859375,Croke Park,Nicky Rackard
+130,09-Jun-12,Tyrone,2,24,3,20,Fermanagh,30,29,1,0.085271318,Croke Park,Lory Meagher
+131,17-Jun-12,Clare,1,18,2,17,Waterford,21,23,0,0.084615385,Semple Stadium,Munster
+132,17-Jun-12,Offaly,3,15,5,23,Galway,24,38,0,0.083969466,O'Moore Park,Leinster
+133,23-Jun-12,Kilkenny,2,21,0,9,Dublin,27,9,1,0.083333333,O'Moore Park,Leinster
+134,23-Jun-12,Wexford,3,22,2,9,Westmeath,31,15,1,0.082706767,Wexford Park,All-Ireland
+135,23-Jun-12,Limerick,6,21,1,11,Laois,39,14,1,0.082089552,Gaelic Grounds,All-Ireland
+136,24-Jun-12,Cork,0,24,1,22,Tipperary,24,25,0,0.081481481,P·irc UÌ Chaoimh,Munster
+137,30-Jun-12,Wexford,4,12,0,14,Carlow,24,14,1,0.080882353,Wexford Park,All-Ireland
+138,30-Jun-12,Limerick,8,26,1,15,Antrim,50,18,1,0.080291971,Gaelic Grounds,All-Ireland
+139,07-Jul-12,Clare,1,16,0,16,Dublin,19,16,1,0.079710145,Cusack Park Ennis,All-Ireland
+140,07-Jul-12,Cork,1,26,2,16,Offaly,29,22,1,0.079136691,P·irc UÌ Chaoimh,All-Ireland
+141,08-Jul-12,Galway,2,21,2,11,Kilkenny,27,17,1,0.078571429,Croke Park,Leinster
+142,14-Jul-12,Wexford,2,17,3,24,Cork,23,33,0,0.078014184,Semple Stadium,All-Ireland
+143,14-Jul-12,Limerick,3,18,1,20,Clare,27,23,1,0.077464789,Semple Stadium,All-Ireland
+144,15-Jul-12,Waterford,0,16,2,17,Tipperary,16,23,0,0.076923077,P·irc UÌ Chaoimh,Munster
+145,29-Jul-12,Waterford,0,19,1,19,Cork,19,22,0,0.076388889,Semple Stadium,All-Ireland
+146,29-Jul-12,Kilkenny,4,16,1,16,Limerick,28,19,1,0.075862069,Semple Stadium,All-Ireland
+147,12-Aug-12,Galway,0,22,0,17,Cork,22,17,1,0.075342466,Croke Park,All-Ireland
+148,19-Aug-12,Tipperary,1,15,4,24,Kilkenny,18,36,0,0.074829932,Croke Park,All-Ireland
+149,09-Sep-12,Galway,2,13,0,19,Kilkenny,19,19,0.5,0.081081081,Croke Park,All-Ireland
+150,30-Sep-12,Galway,3,11,3,22,Kilkenny,20,31,0,0.080536913,Croke Park,All-Ireland
+151,23-Feb-13,Dublin,1,20,2,16,Offaly,23,22,1,0.08,Parnell Park,League 1B
+152,23-Feb-13,Cork,0,26,1,11,Tipperary,26,14,1,0.079470199,P·irc UÌ Rinn,League 1A
+153,24-Feb-13,Kildare,1,10,1,19,Laois,13,22,0,0.078947368,St. Conleth's Park,League 2A
+154,24-Feb-13,Armagh,0,14,0,21,London,14,21,0,0.078431373,Athletic Grounds,League 2B
+155,24-Feb-13,Fingal,0,15,1,12,Louth,15,15,0.5,0.084415584,Lawless Memorial Park,League 3A
+156,24-Feb-13,Carlow,0,16,2,15,Wexford,16,21,0,0.083870968,Dr Cullen Park,League 1B
+157,24-Feb-13,Kerry,2,10,0,13,Westmeath,16,13,1,0.083333333,Austin Stack Park,League 2A
+158,24-Feb-13,Mayo,1,15,0,18,Roscommon,18,18,0.5,0.089171975,MacHale Park,League 2B
+159,24-Feb-13,Fermanagh,2,12,1,11,Tyrone,18,14,1,0.088607595,Brewster Park,League 3A
+160,24-Feb-13,Galway,3,11,0,17,Kilkenny,20,17,1,0.088050314,Pearse Stadium,League 1A
+161,24-Feb-13,Clare,1,17,2,15,Waterford,20,21,0,0.0875,Cusack Park Ennis,League 1A
+162,24-Feb-13,Down,1,18,2,16,Meath,21,22,0,0.086956522,P·irc Esler,League 2B
+163,24-Feb-13,Limerick,1,19,0,19,Antrim,22,19,1,0.086419753,Gaelic Grounds,League 1B
+164,24-Feb-13,Derry,2,19,0,10,Wicklow,25,10,1,0.085889571,Celtic Park,League 2A
+165,24-Feb-13,Donegal,3,18,1,6,Monaghan,27,9,1,0.085365854,O'Donnell Park,League 3A
+166,02-Mar-13,Meath,2,17,1,11,London,23,14,1,0.084848485,St. Loman's Park,League 2B
+167,09-Mar-13,Warwickshire,0,14,3,14,Sligo,14,23,0,0.084337349,P·irc na h…ireann,League 3B
+168,10-Mar-13,Tyrone,0,9,0,14,Donegal,9,14,0,0.083832335,Healy Park,League 3A
+169,10-Mar-13,Monaghan,1,9,2,10,Fingal,12,16,0,0.083333333,Iniskeen,League 3A
+170,10-Mar-13,Antrim,1,10,3,12,Dublin,13,21,0,0.082840237,Casement Park,League 1B
+171,10-Mar-13,Louth,0,13,0,12,Fermanagh,13,12,1,0.082352941,St. Brigid's Park,League 3A
+172,10-Mar-13,Waterford,0,15,1,12,Cork,15,15,0.5,0.087719298,Fraher Field,League 1A
+173,10-Mar-13,Offaly,0,16,0,14,Wexford,16,14,1,0.087209302,O'Connor Park,League 1B
+174,10-Mar-13,Leitrim,1,13,0,16,Longford,16,16,0.5,0.092485549,P·irc She·in UÌ Eislin,League 3B
+175,10-Mar-13,Roscommon,2,11,3,15,Armagh,17,24,0,0.091954023,Athleague,League 2B
+176,10-Mar-13,Clare,0,18,1,13,Galway,18,16,1,0.091428571,Cusack Park Ennis,League 1A
+177,10-Mar-13,Limerick,3,10,1,13,Carlow,19,16,1,0.090909091,Gaelic Grounds,League 1B
+178,10-Mar-13,Westmeath,2,13,0,9,Derry,19,9,1,0.09039548,Cusack Park Mullingar,League 2A
+179,10-Mar-13,London,0,21,2,8,Down,21,14,1,0.08988764,Emerald GAA Grounds,League 2B
+180,10-Mar-13,Wicklow,3,13,2,14,Kildare,22,20,1,0.089385475,Croke Park,League 2A
+181,10-Mar-13,Meath,1,19,1,11,Mayo,22,14,1,0.088888889,St. Loman's Park,League 2B
+182,10-Mar-13,Tipperary,2,17,1,19,Kilkenny,23,22,1,0.08839779,Semple Stadium,League 1A
+183,10-Mar-13,Laois,2,20,2,12,Kerry,26,18,1,0.087912088,O'Moore Park,League 2A
+184,16-Mar-13,Kerry,1,12,3,5,Wicklow,15,14,1,0.087431694,Austin Stack Park,League 2A
+185,16-Mar-13,Tyrone,0,15,2,11,Fingal,15,17,0,0.086956522,Healy Park,League 3A
+186,16-Mar-13,Dublin,1,15,1,21,Limerick,18,24,0,0.086486486,Croke Park,League 1B
+187,16-Mar-13,Cork,1,16,1,22,Clare,19,25,0,0.086021505,P·irc UÌ Chaoimh,League 1A
+188,16-Mar-13,Louth,2,13,0,11,Monaghan,19,11,1,0.085561497,St. Brigid's Park,League 3A
+189,16-Mar-13,Derry,1,17,1,14,Kildare,20,17,1,0.085106383,Celtic Park,League 2A
+190,16-Mar-13,Fermanagh,1,20,4,14,Donegal,23,26,0,0.084656085,Brewster Park,League 3A
+191,16-Mar-13,Wexford,2,21,1,12,Antrim,27,15,1,0.084210526,Wexford Park,League 1B
+192,16-Mar-13,Mayo,4,16,3,12,Armagh,28,21,1,0.083769634,MacHale Park,League 2B
+193,16-Mar-13,Down,2,24,1,12,Roscommon,30,15,1,0.083333333,P·irc Esler,League 2B
+194,18-Mar-13,Carlow,1,10,1,12,Offaly,13,15,0,0.082901554,Dr Cullen Park,League 1B
+195,18-Mar-13,Kilkenny,2,15,0,16,Waterford,21,16,1,0.082474227,Nowlan Park,League 1A
+196,18-Mar-13,Galway,1,20,4,22,Tipperary,23,34,0,0.082051282,Pearse Stadium,League 1A
+197,18-Mar-13,Westmeath,2,18,2,15,Laois,24,21,1,0.081632653,Cusack Park Mullingar,League 2A
+198,23-Mar-13,Kildare,1,16,2,16,Kerry,19,22,0,0.081218274,St. Conleth's Park,League 2A
+199,23-Mar-13,Fingal,1,16,2,10,Fermanagh,19,16,1,0.080808081,Croke Park,League 3A
+200,24-Mar-13,Derry,0,8,2,20,Laois,8,26,0,0.08040201,Celtic Park,League 2A
+201,24-Mar-13,Roscommon,0,9,1,20,Meath,9,23,0,0.08,Athleague,League 2B
+202,24-Mar-13,Carlow,0,13,3,14,Antrim,13,23,0,0.07960199,Dr Cullen Park,League 1B
+203,24-Mar-13,Wicklow,2,8,0,21,Westmeath,14,21,0,0.079207921,Pearse Park Arklow,League 2A
+204,24-Mar-13,Mayo,1,11,3,13,London,14,22,0,0.078817734,MacHale Park,League 2B
+205,24-Mar-13,Wexford,0,15,3,19,Dublin,15,28,0,0.078431373,Wexford Park,League 1B
+206,24-Mar-13,Armagh,0,15,4,13,Down,15,25,0,0.07804878,Athletic Grounds,League 2B
+207,24-Mar-13,Monaghan,0,15,2,14,Tyrone,15,20,0,0.077669903,St. Tiernach's Park,League 3A
+208,24-Mar-13,Waterford,1,14,0,16,Tipperary,17,16,1,0.077294686,Walsh Park,League 1A
+209,24-Mar-13,Offaly,3,8,0,21,Limerick,17,21,0,0.076923077,O'Connor Park,League 1B
+210,24-Mar-13,Clare,1,15,3,10,Kilkenny,18,19,0,0.076555024,Cusack Park Ennis,League 1A
+211,24-Mar-13,Galway,2,12,2,12,Cork,18,18,0.5,0.080952381,Pearse Stadium,League 1A
+212,24-Mar-13,Sligo,1,15,1,6,Leitrim,18,9,1,0.08056872,Markievicz Park,League 3B
+213,24-Mar-13,Donegal,3,13,0,10,Louth,22,10,1,0.080188679,Brewster Park,League 3A
+214,24-Mar-13,Longford,2,18,1,15,Warwickshire,24,18,1,0.079812207,Pearse Park Longford,League 3B
+215,30-Mar-13,London,2,18,2,10,Roscommon,24,16,1,0.079439252,Emerald GAA Grounds,League 2B
+216,30-Mar-13,Down,1,22,1,14,Mayo,25,17,1,0.079069767,P·irc Esler,League 2B
+217,30-Mar-13,Meath,3,18,1,10,Armagh,27,13,1,0.078703704,P·irc Tailteann,League 2B
+218,31-Mar-13,Waterford,0,12,0,15,Galway,12,15,0,0.078341014,Walsh Park,League 1A
+219,31-Mar-13,Donegal,1,9,2,11,Fingal,12,17,0,0.077981651,O'Donnell Park,League 3A
+220,31-Mar-13,Fermanagh,1,9,0,10,Monaghan,12,10,1,0.077625571,Brewster Park,League 3A
+221,31-Mar-13,Tyrone,0,15,5,11,Louth,15,26,0,0.077272727,Sigerson Park,League 3A
+222,31-Mar-13,Kerry,1,13,1,12,Derry,16,15,1,0.076923077,Austin Stack Park,League 2A
+223,31-Mar-13,Laois,0,18,0,14,Wicklow,18,14,1,0.076576577,O'Moore Park,League 2A
+224,31-Mar-13,Antrim,0,19,0,21,Offaly,19,21,0,0.076233184,Casement Park,League 1B
+225,31-Mar-13,Kilkenny,0,20,2,12,Cork,20,18,1,0.075892857,Nowlan Park,League 1A
+226,31-Mar-13,Limerick,1,19,2,16,Wexford,22,22,0.5,0.08,Gaelic Grounds,League 1B
+227,31-Mar-13,Dublin,3,15,0,11,Carlow,24,11,1,0.079646018,Parnell Park,League 1B
+228,31-Mar-13,Westmeath,1,22,2,12,Kildare,25,18,1,0.079295154,Cusack Park Mullingar,League 2A
+229,31-Mar-13,Longford,4,13,1,4,Sligo,25,7,1,0.078947368,Pearse Park Longford,League 3B
+230,31-Mar-13,Tipperary,3,19,1,14,Clare,28,17,1,0.07860262,Semple Stadium,League 1A
+231,31-Mar-13,Warwickshire,5,18,1,16,Leitrim,33,19,1,0.07826087,P·irc na h…ireann,League 3B
+232,06-Apr-13,Limerick,1,15,1,16,Dublin,18,19,0,0.077922078,Semple Stadium,League 1B
+233,13-Apr-13,Fingal,1,9,1,5,Donegal,12,8,1,0.077586207,Breffni Park,League 3A
+234,13-Apr-13,Tyrone,1,16,2,15,Monaghan,19,21,0,0.077253219,Breffni Park,League 3A
+235,14-Apr-13,Longford,1,8,0,9,Sligo,11,9,1,0.076923077,P·irc Se·n Mac Diarmada,League 3B
+236,14-Apr-13,Antrim,0,15,0,11,Carlow,15,11,1,0.076595745,P·irc Tailteann,League 1B
+237,14-Apr-13,Meath,1,14,1,16,London,17,19,0,0.076271186,St. Conleth's Park,League 2B
+238,14-Apr-13,Kildare,2,12,0,12,Wicklow,18,12,1,0.075949367,O'Connor Park,League 2A
+239,14-Apr-13,Laois,3,14,1,9,Westmeath,23,12,1,0.075630252,O'Connor Park,League 2A
+240,14-Apr-13,Clare,0,31,2,23,Cork,31,29,1,0.075313808,Gaelic Grounds,League 1A
+241,21-Apr-13,Kilkenny,1,24,1,17,Galway,27,20,1,0.075,Semple Stadium,League 1A
+242,21-Apr-13,Tipperary,4,20,0,17,Dublin,32,17,1,0.074688797,Semple Stadium,League 1A
+243,04-May-13,Leitrim,0,12,3,13,Fermanagh,12,22,0,0.074380165,P·irc She·in UÌ Eislin,Lory Meagher
+244,04-May-13,Derry,1,11,1,10,Wicklow,14,13,1,0.074074074,Owenbeg,Christy Ring
+245,04-May-13,Tyrone,1,11,0,12,Louth,14,12,1,0.073770492,Carrickmore,Nicky Rackard
+246,04-May-13,Warwickshire,1,15,1,10,Longford,18,13,1,0.073469388,P·irc na h…ireann,Lory Meagher
+247,04-May-13,Roscommon,1,18,0,14,Sligo,21,14,1,0.073170732,Athleague,Nicky Rackard
+248,04-May-13,Down,2,17,3,16,Kerry,23,25,0,0.072874494,P·irc Esler,Christy Ring
+249,04-May-13,Meath,1,20,2,10,Armagh,23,16,1,0.072580645,St. Loman's Park,Christy Ring
+250,04-May-13,Kildare,1,23,0,16,Mayo,26,16,1,0.072289157,St. Conleth's Park,Christy Ring
+251,05-May-13,Westmeath,2,13,3,18,Antrim,19,27,0,0.072,Cusack Park Mullingar,Leinster
+252,05-May-13,Kilkenny,2,17,0,20,Tipperary,23,20,1,0.071713147,Nowlan Park,League 1A
+253,11-May-13,Kerry,0,14,0,8,Derry,14,8,1,0.071428571,Austin Stack Park,Christy Ring
+254,11-May-13,Armagh,1,11,1,20,Down,14,23,0,0.071146245,St. Oliver Plunkett Park,Christy Ring
+255,11-May-13,Fermanagh,0,15,1,12,Warwickshire,15,15,0.5,0.07480315,Brewster Park,Lory Meagher
+256,11-May-13,Roscommon,0,16,1,16,Donegal,16,19,0,0.074509804,Athleague,Nicky Rackard
+257,11-May-13,Kildare,1,16,0,22,Meath,19,22,0,0.07421875,St. Conleth's Park,Christy Ring
+258,11-May-13,Longford,3,12,0,7,Leitrim,21,7,1,0.073929961,Pearse Park Longford,Lory Meagher
+259,11-May-13,Tyrone,2,19,1,10,Monaghan,25,13,1,0.073643411,Killyclogher,Nicky Rackard
+260,11-May-13,Wicklow,4,19,3,10,Mayo,31,19,1,0.073359073,Pearse Park Arklow,Christy Ring
+261,18-May-13,Warwickshire,0,1,0,0,Leitrim,1,0,1,0.073076923,n/a,Lory Meagher
+262,18-May-13,Wicklow,2,10,0,17,Kildare,16,17,0,0.072796935,Pearse Park Arklow,Christy Ring
+263,18-May-13,Down,3,7,0,9,Derry,16,9,1,0.072519084,P·irc Esler,Christy Ring
+264,18-May-13,Laois,1,16,0,13,Antrim,19,13,1,0.072243346,O'Moore Park,Leinster
+265,18-May-13,Roscommon,2,14,0,13,Louth,20,13,1,0.071969697,Connacht Centre of Excellence,Nicky Rackard
+266,18-May-13,Monaghan,5,12,2,7,Sligo,27,13,1,0.071698113,Iniskeen,Nicky Rackard
+267,18-May-13,Carlow,4,17,2,13,London,29,19,1,0.071428571,Dr Cullen Park,Leinster
+268,18-May-13,Longford,6,13,1,10,Fermanagh,31,13,1,0.071161049,Pearse Park Longford,Lory Meagher
+269,25-May-13,Kerry,1,14,0,11,Kildare,17,11,1,0.070895522,Austin Stack Park,Christy Ring
+270,25-May-13,Donegal,5,12,2,9,Monaghan,27,15,1,0.07063197,O'Donnell Park,Nicky Rackard
+271,25-May-13,Meath,1,25,2,22,Down,28,28,0.5,0.074074074,St. Loman's Park,Christy Ring
+272,25-May-13,Roscommon,3,28,0,14,Tyrone,37,14,1,0.073800738,Athleague,Nicky Rackard
+273,01-Jun-13,Down,0,23,1,10,Meath,23,13,1,0.073529412,McKenna Park,Christy Ring
+274,02-Jun-13,Laois,2,18,0,13,Carlow,24,13,1,0.073260073,O'Moore Park,Leinster
+275,02-Jun-13,Clare,2,20,1,15,Waterford,26,18,1,0.072992701,Semple Stadium,Munster
+276,08-Jun-13,Wexford,1,17,1,17,Dublin,20,20,0.5,0.076363636,Wexford Park,Leinster
+277,08-Jun-13,Warwickshire,2,16,0,10,Longford,22,10,1,0.076086957,Croke Park,Lory Meagher
+278,08-Jun-13,Kerry,2,17,3,16,Down,23,25,0,0.075812274,Croke Park,Christy Ring
+279,08-Jun-13,Donegal,3,20,3,16,Roscommon,29,25,1,0.075539568,Croke Park,Nicky Rackard
+280,09-Jun-13,Offaly,4,9,0,26,Kilkenny,21,26,0,0.075268817,O'Connor Park,Leinster
+281,09-Jun-13,Limerick,1,18,1,15,Tipperary,21,18,1,0.075,Gaelic Grounds,Munster
+282,15-Jun-13,Dublin,1,17,0,12,Wexford,20,12,1,0.074733096,Parnell Park,Leinster
+283,16-Jun-13,Laois,1,13,2,17,Galway,16,23,0,0.074468085,O'Moore Park,Leinster
+284,22-Jun-13,London,0,11,1,15,Westmeath,11,18,0,0.074204947,Emerald GAA Grounds,All-Ireland
+285,22-Jun-13,Offaly,1,14,0,21,Waterford,17,21,0,0.073943662,O'Connor Park,All-Ireland
+286,22-Jun-13,Wexford,3,18,0,17,Antrim,27,17,1,0.073684211,Wexford Park,All-Ireland
+287,23-Jun-13,Kilkenny,1,14,0,17,Dublin,17,17,0.5,0.076923077,O'Moore Park,Leinster
+288,23-Jun-13,Cork,0,23,0,15,Clare,23,15,1,0.076655052,Gaelic Grounds,Munster
+289,29-Jun-13,Westmeath,0,14,3,22,Waterford,14,31,0,0.076388889,Cusack Park Mullingar,All-Ireland
+290,29-Jun-13,Dublin,1,16,0,16,Kilkenny,19,16,1,0.076124567,O'Moore Park,Leinster
+291,29-Jun-13,Wexford,2,16,0,20,Carlow,22,20,1,0.075862069,Wexford Park,All-Ireland
+292,06-Jul-13,Kilkenny,0,20,1,14,Tipperary,20,17,1,0.075601375,Nowlan Park,All-Ireland
+293,06-Jul-13,Clare,1,32,0,15,Laois,35,15,1,0.075342466,Cusack Park Ennis,All-Ireland
+294,07-Jul-13,Dublin,2,25,2,13,Galway,31,19,1,0.075085324,Croke Park,Leinster
+295,13-Jul-13,Waterford,2,16,1,22,Kilkenny,22,25,0,0.074829932,Semple Stadium,All-Ireland
+296,13-Jul-13,Wexford,1,20,3,24,Clare,23,33,0,0.074576271,Semple Stadium,All-Ireland
+297,14-Jul-13,Limerick,0,24,0,15,Cork,24,15,1,0.074324324,Gaelic Grounds,Munster
+298,28-Jul-13,Cork,0,19,0,14,Kilkenny,19,14,1,0.074074074,Semple Stadium,All-Ireland
+299,28-Jul-13,Galway,2,14,1,23,Clare,20,26,0,0.073825503,Semple Stadium,All-Ireland
+300,11-Aug-13,Dublin,1,19,1,24,Cork,22,27,0,0.073578595,Croke Park,All-Ireland
+301,18-Aug-13,Limerick,0,18,1,22,Clare,18,25,0,0.073333333,Croke Park,All-Ireland
+302,08-Sep-13,Clare,0,25,3,16,Cork,25,25,0.5,0.07641196,Croke Park,All-Ireland
+303,28-Sep-13,Clare,5,16,3,16,Cork,31,25,1,0.07615894,Croke Park,All-Ireland
+304,15-Feb-14,London,0,13,0,13,Westmeath,13,13,0.5,0.079207921,Emerald GAA Grounds,League 2A
+305,15-Feb-14,Cork,0,17,0,17,Limerick,17,17,0.5,0.082236842,P·irc UÌ Rinn,League 1B
+306,15-Feb-14,Derry,3,9,4,24,Kerry,18,36,0,0.081967213,Ballinascreen,League 2A
+307,15-Feb-14,Tipperary,2,13,0,16,Waterford,19,16,1,0.081699346,Semple Stadium,League 1A
+308,15-Feb-14,Carlow,1,18,1,9,Kildare,21,12,1,0.081433225,St. Conleth's Park,League 2A
+309,16-Feb-14,Armagh,1,7,2,20,Down,10,26,0,0.081168831,Athletic Grounds,League 2B
+310,16-Feb-14,Antrim,1,11,0,15,Wexford,14,15,0,0.080906149,P·irc Mac UÌlÌn,League 1B
+311,16-Feb-14,Wicklow,1,15,0,8,Meath,18,8,1,0.080645161,Pearse Park Arklow,League 2B
+312,16-Feb-14,Louth,1,15,2,16,Roscommon,18,22,0,0.080385852,Darver Centre of Excellence,League 3A
+313,16-Feb-14,Clare,1,16,0,18,Kilkenny,19,18,1,0.080128205,Cusack Park Ennis,League 1A
+314,16-Feb-14,Mayo,2,13,3,9,Fingal,19,18,1,0.079872204,Connacht Centre of Excellence,League 2B
+315,16-Feb-14,Monaghan,2,13,3,11,Longford,19,20,0,0.079617834,Iniskeen,League 3A
+316,16-Feb-14,Offaly,2,14,1,19,Laois,20,22,0,0.079365079,O'Connor Park,League 1B
+317,16-Feb-14,Donegal,2,19,1,13,Fermanagh,25,16,1,0.079113924,Fr. Tierney Park,League 3A
+318,16-Feb-14,Galway,0,28,1,12,Dublin,28,15,1,0.078864353,Pearse Stadium,League 1A
+319,22-Feb-14,Laois,0,7,0,14,Cork,7,14,0,0.078616352,O'Moore Park,League 1B
+320,23-Feb-14,Westmeath,0,8,3,11,Derry,8,20,0,0.078369906,Cusack Park Mullingar,League 2A
+321,23-Feb-14,Roscommon,1,8,1,12,Monaghan,11,15,0,0.078125,Woodmount,League 3A
+322,23-Feb-14,Meath,0,12,0,7,Mayo,12,7,1,0.07788162,St. Loman's Park,League 2B
+323,23-Feb-14,Carlow,2,12,0,8,London,18,8,1,0.077639752,Dr Cullen Park,League 2A
+324,23-Feb-14,Down,1,15,0,10,Wicklow,18,10,1,0.077399381,McKenna Park,League 2B
+325,23-Feb-14,Longford,3,9,1,20,Donegal,18,23,0,0.077160494,Pearse Park Longford,League 3A
+326,23-Feb-14,Waterford,0,22,1,13,Galway,22,16,1,0.076923077,Walsh Park,League 1A
+327,23-Feb-14,Dublin,2,17,0,17,Clare,23,17,1,0.076687117,Parnell Park,League 1A
+328,23-Feb-14,Fingal,2,18,2,13,Armagh,24,19,1,0.076452599,Lawless Memorial Park,League 2B
+329,23-Feb-14,Wexford,2,19,2,13,Offaly,25,19,1,0.076219512,O'Kennedy Park,League 1B
+330,23-Feb-14,Kerry,2,24,0,13,Kildare,30,13,1,0.075987842,Austin Stack Park,League 2A
+331,23-Feb-14,Kilkenny,5,20,5,14,Tipperary,35,29,1,0.075757576,Nowlan Park,League 1A
+332,23-Feb-14,Limerick,3,28,0,12,Antrim,37,12,1,0.075528701,Gaelic Grounds,League 1B
+333,02-Mar-14,Derry,1,13,0,10,London,16,10,1,0.075301205,Celtic Park,League 2A
+334,02-Mar-14,Warwickshire,1,15,4,13,Tyrone,18,25,0,0.075075075,P·irc na h…ireann,League 3B
+335,02-Mar-14,Fermanagh,5,13,2,12,Louth,28,18,1,0.074850299,St. Patrick's Park Donagh,League 3A
+336,09-Mar-14,Sligo,2,5,0,12,Warwickshire,11,12,0,0.074626866,Markievicz Park,League 3B
+337,09-Mar-14,Longford,0,13,2,8,Fermanagh,13,14,0,0.074404762,Pearse Park,League 3A
+338,09-Mar-14,Tyrone,0,14,1,7,Leitrim,14,10,1,0.074183976,Healy Park,League 3B
+339,09-Mar-14,Monaghan,0,15,1,11,Louth,15,14,1,0.073964497,Aughnamullen,League 3A
+340,09-Mar-14,Waterford,1,13,1,10,Dublin,16,13,1,0.073746313,Walsh Park,League 1A
+341,09-Mar-14,Limerick,1,14,2,8,Wexford,17,14,1,0.073529412,Gaelic Grounds,League 1B
+342,09-Mar-14,Down,0,17,0,13,Mayo,17,13,1,0.073313783,P·irc Esler,League 2B
+343,09-Mar-14,Tipperary,0,20,4,15,Clare,20,27,0,0.073099415,Semple Stadium,League 1A
+344,09-Mar-14,Wicklow,2,14,0,15,Armagh,20,15,1,0.072886297,Aughrim County Ground,League 2B
+345,09-Mar-14,Roscommon,3,11,0,15,Donegal,20,15,1,0.072674419,Athleague,League 3A
+346,09-Mar-14,Westmeath,2,15,3,13,Kerry,21,22,0,0.072463768,Cusack Park Mullingar,League 2A
+347,09-Mar-14,Kilkenny,2,16,1,16,Galway,22,19,1,0.072254335,Nowlan Park,League 1A
+348,09-Mar-14,London,1,21,0,18,Kildare,24,18,1,0.07204611,Emerald GAA Grounds,League 2A
+349,09-Mar-14,Carlow,2,20,0,12,Derry,26,12,1,0.07183908,Dr Cullen Park,League 2A
+350,09-Mar-14,Laois,2,21,0,21,Antrim,27,21,1,0.071633238,O'Moore Park,League 1B
+351,09-Mar-14,Cork,1,24,1,18,Offaly,27,21,1,0.071428571,P·irc UÌ Rinn,League 1B
+352,09-Mar-14,Meath,5,22,1,7,Fingal,37,10,1,0.071225071,St. Loman's Park,League 2B
+353,15-Mar-14,Dublin,1,22,3,13,Kilkenny,25,22,1,0.071022727,Parnell Park,League 1A
+354,16-Mar-14,Mayo,0,9,0,15,Wicklow,9,15,0,0.07082153,MacHale Park,League 2B
+355,16-Mar-14,Fermanagh,0,10,4,20,Roscommon,10,32,0,0.070621469,Brewster Park,League 3A
+356,16-Mar-14,Antrim,1,12,0,18,Cork,15,18,0,0.070422535,P·irc Mac UÌlÌn,League 1B
+357,16-Mar-14,Fingal,2,10,4,19,Down,16,31,0,0.070224719,Lawless Memorial Park,League 2B
+358,16-Mar-14,Kildare,1,14,3,11,Westmeath,17,20,0,0.070028011,St. Conleth's Park,League 2A
+359,16-Mar-14,Leitrim,2,11,2,9,Sligo,17,15,1,0.069832402,P·irc She·in UÌ Eislin,League 3B
+360,16-Mar-14,Armagh,3,9,1,21,Meath,18,24,0,0.069637883,Athletic Grounds,League 2B
+361,16-Mar-14,Louth,3,11,1,10,Longford,20,13,1,0.069444444,Darver Centre of Excellence,League 3A
+362,16-Mar-14,Offaly,2,15,2,15,Limerick,21,21,0.5,0.072022161,O'Connor Park,League 1B
+363,16-Mar-14,Kerry,3,14,0,17,Carlow,23,17,1,0.071823204,Austin Stack Park,League 2A
+364,16-Mar-14,Galway,3,16,1,19,Tipperary,25,22,1,0.071625344,Pearse Stadium,League 1A
+365,16-Mar-14,Donegal,3,16,1,7,Monaghan,25,10,1,0.071428571,O'Donnell Park,League 3A
+366,16-Mar-14,Wexford,2,21,1,18,Laois,27,21,1,0.071232877,Wexford Park,League 1B
+367,16-Mar-14,Clare,5,18,0,20,Waterford,33,20,1,0.071038251,Cusack Park Ennis,League 1A
+368,23-Mar-14,Sligo,1,10,2,16,Tyrone,13,22,0,0.070844687,Markievicz Park,League 3B
+369,23-Mar-14,Down,2,8,0,11,Meath,14,11,1,0.070652174,McKenna Park,League 2B
+370,23-Mar-14,Armagh,1,11,1,19,Mayo,14,22,0,0.070460705,Athletic Grounds,League 2B
+371,23-Mar-14,Monaghan,1,11,2,15,Fermanagh,14,21,0,0.07027027,St. Mary's Park,League 3A
+372,23-Mar-14,Leitrim,0,15,1,11,Warwickshire,15,14,1,0.070080863,P·irc She·in UÌ Eislin,League 3B
+373,23-Mar-14,Laois,1,13,1,17,Limerick,16,20,0,0.069892473,O'Moore Park,League 1B
+374,23-Mar-14,Clare,0,18,1,15,Galway,18,18,0.5,0.072386059,Cusack Park Ennis,League 1A
+375,23-Mar-14,Louth,1,15,2,15,Donegal,18,21,0,0.072192513,Darver Centre of Excellence,League 3A
+376,23-Mar-14,London,1,18,2,17,Kerry,21,23,0,0.072,Emerald GAA Grounds,League 2A
+377,23-Mar-14,Tipperary,1,19,0,19,Dublin,22,19,1,0.071808511,Semple Stadium,League 1A
+378,23-Mar-14,Roscommon,3,14,0,10,Longford,23,10,1,0.071618037,Athleague,League 3A
+379,23-Mar-14,Kildare,3,17,4,14,Derry,26,26,0.5,0.074074074,St. Conleth's Park,League 2A
+380,23-Mar-14,Carlow,2,21,0,13,Westmeath,27,13,1,0.073878628,Dr Cullen Park,League 2A
+381,23-Mar-14,Cork,2,24,1,20,Wexford,30,23,1,0.073684211,P·irc UÌ Rinn,League 1B
+382,23-Mar-14,Kilkenny,4,22,0,14,Waterford,34,14,1,0.073490814,Nowlan Park,League 1A
+383,23-Mar-14,Wicklow,3,32,2,8,Fingal,41,14,1,0.073298429,Pearse Park Arklow,League 2B
+384,23-Mar-14,Offaly,5,27,4,9,Antrim,42,21,1,0.07310705,O'Connor Park,League 1B
+385,30-Mar-14,Fingal,0,8,4,12,Armagh,8,24,0,0.072916667,Iniskeen,League 2B
+386,30-Mar-14,Limerick,1,12,1,20,Galway,15,23,0,0.072727273,Gaelic Grounds,League 1A
+387,30-Mar-14,Waterford,1,17,4,13,Dublin,20,25,0,0.07253886,Walsh Park,League 1A
+388,30-Mar-14,Antrim,1,18,1,14,Offaly,21,17,1,0.072351421,P·irc Mac UÌlÌn,League 1B
+389,30-Mar-14,Wexford,2,16,4,22,Kilkenny,22,34,0,0.072164948,Wexford Park,League 1A
+390,30-Mar-14,Laois,2,19,2,23,Clare,25,29,0,0.071979434,O'Moore Park,League 1A
+391,30-Mar-14,Tipperary,3,25,4,19,Cork,34,31,1,0.071794872,Semple Stadium,League 1A
+392,05-Apr-14,Roscommon,2,14,4,12,Donegal,20,24,0,0.071611253,Markievicz Park,League 3A
+393,05-Apr-14,Down,1,18,0,23,Wicklow,21,23,0,0.071428571,P·irc Tailteann,League 2B
+394,05-Apr-14,Kerry,3,16,3,13,Carlow,25,22,1,0.071246819,Semple Stadium,League 2A
+395,06-Apr-14,Tyrone,0,13,1,9,Leitrim,13,12,1,0.07106599,Markievicz Park,League 3B
+396,12-Apr-14,Offaly,3,19,0,14,Kerry,28,14,1,0.070886076,Semple Stadium,League 1B
+397,13-Apr-14,Fingal,0,8,2,16,Donegal,8,22,0,0.070707071,Breffni Park,League 2B
+398,20-Apr-14,Kilkenny,1,16,0,15,Galway,19,15,1,0.070528967,Gaelic Grounds,League 1A
+399,20-Apr-14,Tipperary,2,24,2,17,Clare,30,23,1,0.070351759,Gaelic Grounds,League 1A
+400,26-Apr-14,Roscommon,1,12,1,11,Donegal,15,14,1,0.070175439,Athleague,Nicky Rackard
+401,27-Apr-14,London,2,17,2,17,Carlow,23,23,0.5,0.0725,Emerald GAA Grounds,Leinster
+402,27-Apr-14,Antrim,0,23,2,11,Westmeath,23,17,1,0.072319202,P·irc Mac UÌlÌn,Leinster
+403,03-May-14,Monaghan,0,9,2,15,Roscommon,9,21,0,0.072139303,Iniskeen,Nicky Rackard
+404,03-May-14,Leitrim,0,9,0,12,Longford,9,12,0,0.071960298,P·irc Se·n Mac Diarmada,Lory Meagher
+405,03-May-14,Fingal,0,12,0,10,Louth,12,10,1,0.071782178,Lawless Memorial Park,Nicky Rackard
+406,03-May-14,Meath,0,17,1,8,Down,17,11,1,0.071604938,St. Loman's Park,Christy Ring
+407,03-May-14,Warwickshire,0,18,2,17,Fermanagh,18,23,0,0.071428571,P·irc na h…ireann,Lory Meagher
+408,03-May-14,Mayo,0,20,1,14,Armagh,20,17,1,0.071253071,MacHale Park,Christy Ring
+409,03-May-14,Kildare,1,27,2,24,Wicklow,30,30,0.5,0.073529412,St. Conleth's Park,Christy Ring
+410,03-May-14,Tyrone,1,27,2,21,Sligo,30,27,1,0.073349633,O'Neill Park,Nicky Rackard
+411,03-May-14,Kerry,4,31,0,11,Derry,43,11,1,0.073170732,Austin Stack Park,Christy Ring
+412,04-May-14,Westmeath,1,9,1,15,Laois,12,18,0,0.072992701,Cusack Park Mullingar,Leinster
+413,04-May-14,Carlow,1,17,2,18,Antrim,20,24,0,0.072815534,Dr Cullen Park,Leinster
+414,04-May-14,Tipperary,1,27,2,25,Kilkenny,30,31,0,0.072639225,Semple Stadium,League 1A
+415,10-May-14,Mayo,0,15,0,16,Meath,15,16,0,0.072463768,MacHale Park,Christy Ring
+416,10-May-14,Derry,2,16,3,12,Down,22,21,1,0.072289157,Owenbeg,Christy Ring
+417,10-May-14,Wicklow,3,13,1,20,Kildare,22,23,0,0.072115385,Pearse Park Arklow,Christy Ring
+418,10-May-14,Longford,2,17,0,4,Warwickshire,23,4,1,0.071942446,Pearse Park Longford,Lory Meagher
+419,10-May-14,Fermanagh,3,16,1,9,Leitrim,25,12,1,0.071770335,Brewster Park,Lory Meagher
+420,10-May-14,Louth,4,19,0,7,Sligo,31,7,1,0.071599045,St. Brigid's Park,Nicky Rackard
+421,10-May-14,Donegal,3,26,0,15,Monaghan,35,15,1,0.071428571,O'Donnell Park,Nicky Rackard
+422,11-May-14,Antrim,1,17,2,7,London,20,13,1,0.071258907,P·irc Mac UÌlÌn,Leinster
+423,11-May-14,Laois,1,22,0,14,Carlow,25,14,1,0.071090047,O'Moore Park,Leinster
+424,17-May-14,Louth,1,9,5,14,Donegal,12,29,0,0.070921986,St. Brigid's Park,Nicky Rackard
+425,17-May-14,Leitrim,2,9,1,15,Warwickshire,15,18,0,0.070754717,P·irc Se·n Mac Diarmada,Lory Meagher
+426,17-May-14,Kildare,1,16,3,18,Kerry,19,27,0,0.070588235,St. Conleth's Park,Christy Ring
+427,17-May-14,Longford,1,18,2,15,Fermanagh,21,21,0.5,0.072769953,Pearse Park Longford,Lory Meagher
+428,17-May-14,Armagh,3,13,3,19,Wicklow,22,28,0,0.072599532,Athletic Grounds,Christy Ring
+429,18-May-14,Carlow,0,14,1,9,Westmeath,14,12,1,0.072429907,Dr Cullen Park,Leinster
+430,18-May-14,London,0,16,2,13,Laois,16,19,0,0.072261072,Emerald GAA Grounds,Leinster
+431,24-May-14,Derry,0,10,2,16,Kildare,10,22,0,0.072093023,Owenbeg,Christy Ring
+432,24-May-14,Wicklow,0,14,1,15,Mayo,14,18,0,0.071925754,Pearse Park Arklow,Christy Ring
+433,24-May-14,Sligo,0,14,3,12,Monaghan,14,21,0,0.071759259,P·irc She·in UÌ Eislin,Nicky Rackard
+434,24-May-14,Donegal,1,12,2,11,Fingal,15,17,0,0.071593533,O'Donnell Park,Nicky Rackard
+435,24-May-14,Westmeath,2,12,1,12,London,18,15,1,0.071428571,Cusack Park Mullingar,Leinster
+436,24-May-14,Roscommon,0,18,2,19,Tyrone,18,25,0,0.071264368,Athleague,Nicky Rackard
+437,25-May-14,Laois,0,20,0,22,Antrim,20,22,0,0.071100917,O'Moore Park,Leinster
+438,25-May-14,Waterford,1,21,1,21,Cork,24,24,0.5,0.073226545,Semple Stadium,Munster
+439,31-May-14,Meath,0,14,1,18,Kildare,14,21,0,0.073059361,St. Loman's Park,Christy Ring
+440,31-May-14,Mayo,1,18,3,20,Kerry,21,29,0,0.072892938,MacHale Park,Christy Ring
+441,31-May-14,Down,5,24,2,15,Armagh,39,21,1,0.072727273,P·irc Esler,Christy Ring
+442,01-Jun-14,Antrim,0,21,5,19,Wexford,21,34,0,0.072562358,O'Moore Park,Leinster
+443,01-Jun-14,Tipperary,2,16,2,18,Limerick,22,24,0,0.07239819,Semple Stadium,Munster
+444,01-Jun-14,Laois,0,23,1,22,Galway,23,25,0,0.072234763,O'Moore Park,Leinster
+445,07-Jun-14,Tyrone,1,17,1,16,Fingal,20,19,1,0.072072072,Croke Park,Nicky Rackard
+446,07-Jun-14,Longford,3,18,3,16,Fermanagh,27,25,1,0.071910112,Croke Park,Lory Meagher
+447,07-Jun-14,Kerry,2,22,4,18,Kildare,28,30,0,0.071748879,Croke Park,Christy Ring
+448,07-Jun-14,Kilkenny,5,32,1,18,Offaly,47,21,1,0.071588367,Nowlan Park,Leinster
+449,08-Jun-14,Waterford,0,14,0,28,Cork,14,28,0,0.071428571,Semple Stadium,Munster
+450,14-Jun-14,Wexford,1,14,0,22,Dublin,17,22,0,0.071269488,Wexford Park,Leinster
+451,14-Jun-14,Longford,3,17,3,13,Sligo,26,22,1,0.071111111,P·irc She·in UÌ Eislin,Nicky Rackard
+452,14-Jun-14,Westmeath,2,22,2,13,Kildare,28,19,1,0.070953437,Cusack Park Mullingar,Leinster
+453,15-Jun-14,Clare,2,18,2,23,Cork,24,29,0,0.07079646,Semple Stadium,Munster
+454,21-Jun-14,Down,0,1,0,0,Tyrone,1,0,1,0.070640177,n/a,Christy Ring
+455,22-Jun-14,Galway,5,16,3,22,Kilkenny,31,31,0.5,0.072687225,O'Connor Park,Leinster
+456,28-Jun-14,Galway,1,17,3,19,Kilkenny,20,28,0,0.072527473,O'Connor Park,Leinster
+457,28-Jun-14,Waterford,2,22,1,15,Laois,28,18,1,0.072368421,Walsh Park,All-Ireland
+458,29-Jun-14,Antrim,1,20,2,19,Offaly,23,25,0,0.072210066,P·irc Mac UÌlÌn,All-Ireland
+459,05-Jul-14,Clare,2,25,2,25,Wexford,31,31,0.5,0.074235808,Cusack Park Ennis,All-Ireland
+460,05-Jul-14,Tipperary,3,25,4,13,Galway,34,25,1,0.074074074,Semple Stadium,All-Ireland
+461,06-Jul-14,Dublin,1,9,0,24,Kilkenny,12,24,0,0.073913043,Croke Park,Leinster
+462,12-Jul-14,Wexford,2,25,2,22,Clare,31,28,1,0.073752711,Wexford Park,All-Ireland
+463,12-Jul-14,Tipperary,5,25,1,20,Offaly,40,23,1,0.073593074,O'Moore Park,All-Ireland
+464,13-Jul-14,Cork,2,24,0,24,Limerick,30,24,1,0.073434125,P·irc UÌ Chaoimh,Munster
+465,19-Jul-14,Waterford,2,15,3,15,Wexford,21,24,0,0.073275862,Nowlan Park,All-Ireland
+466,27-Jul-14,Tipperary,2,23,0,16,Dublin,29,16,1,0.07311828,Semple Stadium,All-Ireland
+467,27-Jul-14,Limerick,4,26,1,11,Wexford,38,14,1,0.072961373,Semple Stadium,All-Ireland
+468,10-Aug-14,Kilkenny,2,13,0,17,Limerick,19,17,1,0.072805139,Croke Park,All-Ireland
+469,17-Aug-14,Cork,1,11,2,18,Tipperary,14,24,0,0.072649573,Croke Park,All-Ireland
+470,07-Sep-14,Kilkenny,3,22,1,28,Tipperary,31,31,0.5,0.074626866,Croke Park,All-Ireland
+471,27-Sep-14,Kilkenny,2,17,2,14,Tipperary,23,20,1,0.074468085,Croke Park,All-Ireland
+472,14-Feb-15,Limerick,2,16,0,22,Waterford,22,22,0.5,0.076433121,Gaelic Grounds,League 1B
+473,14-Feb-15,Cork,2,17,1,22,Kilkenny,23,25,0,0.076271186,P·irc UÌ Rinn,League 1A
+474,14-Feb-15,Laois,0,23,1,24,Offaly,23,27,0,0.076109937,O'Moore Park,League 1B
+475,15-Feb-15,Kerry,0,14,0,14,Derry,14,14,0.5,0.078059072,Austin Stack Park,League 2A
+476,15-Feb-15,Down,1,13,0,9,Armagh,16,9,1,0.077894737,McKenna Park,League 2B
+477,15-Feb-15,Tyrone,1,13,2,10,Monaghan,16,16,0.5,0.079831933,Healy Park,League 3A
+478,15-Feb-15,Galway,2,15,1,17,Clare,21,20,1,0.07966457,Pearse Stadium,League 1A
+479,15-Feb-15,Fermanagh,1,16,3,13,Fingal,19,22,0,0.079497908,Brewster Park,League 3A
+480,15-Feb-15,Donegal,1,12,3,14,Mayo,15,23,0,0.079331942,O'Donnell Park,League 2B
+481,15-Feb-15,Meath,0,14,0,24,Kildare,14,24,0,0.079166667,St. Loman's Park,League 2B
+482,15-Feb-15,Roscommon,1,21,1,9,Louth,24,12,1,0.079002079,Athleague,League 3A
+483,15-Feb-15,Dublin,2,20,0,14,Tipperary,26,14,1,0.078838174,Parnell Park,League 1A
+484,15-Feb-15,Westmeath,2,20,1,8,London,26,11,1,0.078674948,Cusack Park Mullingar,League 2A
+485,15-Feb-15,Carlow,3,17,1,6,Wicklow,26,9,1,0.078512397,Dr Cullen Park,League 2A
+486,15-Feb-15,Wexford,1,24,2,20,Antrim,27,26,1,0.078350515,Wexford Park,League 1B
+487,21-Feb-15,London,0,7,3,12,Carlow,7,21,0,0.0781893,Emerald GAA Grounds,League 2A
+488,21-Feb-15,Cork,1,24,0,17,Clare,27,17,1,0.078028747,P·irc UÌ Rinn,League 1A
+489,21-Feb-15,Waterford,3,21,0,12,Laois,30,12,1,0.077868852,Fraher Field,League 1B
+490,22-Feb-15,Mayo,0,9,3,8,Meath,9,17,0,0.077709611,MacHale Park,League 2B
+491,22-Feb-15,Monaghan,0,17,1,10,Roscommon,17,13,1,0.07755102,St. Mary's Park,League 3A
+492,22-Feb-15,Tyrone,1,16,1,15,Fingal,19,18,1,0.077393075,Lawless Memorial Park,League 3A
+493,22-Feb-15,Kilkenny,3,11,0,25,Dublin,20,25,0,0.077235772,Nowlan Park,League 1A
+494,22-Feb-15,Offaly,0,12,2,15,Wexford,12,21,0,0.077079108,O'Connor Park,League 1B
+495,22-Feb-15,Derry,2,15,3,10,Westmeath,21,19,1,0.076923077,Owenbeg,League 2A
+496,22-Feb-15,Armagh,1,18,2,10,Donegal,21,16,1,0.076767677,Athletic Grounds,League 2B
+497,22-Feb-15,Kildare,2,15,1,12,Down,21,15,1,0.076612903,St. Conleth's Park,League 2B
+498,22-Feb-15,Antrim,1,12,0,23,Limerick,15,23,0,0.076458753,P·irc Mac UÌlÌn,League 1B
+499,22-Feb-15,Tipperary,2,18,0,20,Galway,24,20,1,0.076305221,Semple Stadium,League 1A
+500,22-Feb-15,Wicklow,1,6,2,20,Kerry,9,26,0,0.076152305,Aughrim County Ground,League 2A
+501,22-Feb-15,Louth,4,17,3,7,Fermanagh,29,16,1,0.076,Darver Centre of Excellence,League 3A
+502,01-Mar-15,Derry,1,10,1,9,London,13,12,1,0.075848303,Greenford,League 2A
+503,07-Mar-15,Donegal,1,4,2,15,Meath,7,21,0,0.075697211,O'Donnell Park,League 2B
+504,07-Mar-15,Dublin,1,20,0,34,Cork,23,34,0,0.07554672,Croke Park,League 1A
+505,07-Mar-15,Offaly,1,14,2,18,Waterford,17,24,0,0.075396825,O'Connor Park,League 1B
+506,07-Mar-15,Warwickshire,5,14,0,14,Sligo,29,14,1,0.075247525,P·irc na h…ireann,League 3B
+507,07-Mar-15,Armagh,3,14,3,23,Kildare,23,32,0,0.075098814,Athletic Grounds,League 2B
+508,08-Mar-15,Derry,1,13,1,15,Carlow,16,18,0,0.07495069,Celtic Park,League 2A
+509,08-Mar-15,Clare,0,20,2,19,Tipperary,20,25,0,0.07480315,Cusack Park Ennis,League 1A
+510,08-Mar-15,Galway,0,20,0,18,Kilkenny,20,18,1,0.074656189,Pearse Stadium,League 1A
+511,08-Mar-15,Leitrim,0,10,1,17,Longford,10,20,0,0.074509804,P·irc Se·n Mac Diarmada,League 3B
+512,08-Mar-15,Antrim,1,14,1,18,Limerick,17,21,0,0.074363992,P·irc Mac UÌlÌn,League 1B
+513,08-Mar-15,Wicklow,2,12,3,12,London,18,21,0,0.07421875,Pearse Park Arklow,League 2A
+514,08-Mar-15,Louth,2,13,2,18,Monaghan,19,24,0,0.074074074,St. Brigid's Park,League 3A
+515,08-Mar-15,Fermanagh,2,8,4,14,Tyrone,14,26,0,0.073929961,Brewster Park,League 3A
+516,08-Mar-15,Kerry,0,12,3,18,Kerry,12,27,0,0.073786408,Austin Stack Park,League 2A
+517,08-Mar-15,Mayo,0,15,2,21,Down,15,27,0,0.073643411,MacHale Park,League 2B
+518,08-Mar-15,Wexford,3,18,4,16,Limerick,27,28,0,0.073500967,Wexford Park,League 1B
+519,08-Mar-15,Fingal,1,11,3,24,Roscommon,14,33,0,0.073359073,St. Maurs,League 3A
+520,14-Mar-15,Longford,2,16,2,11,Warwickshire,22,17,1,0.073217726,Pearse Park Longford,League 3B
+521,14-Mar-15,Limerick,0,21,1,21,Offaly,21,24,0,0.073076923,Gaelic Grounds,League 1B
+522,14-Mar-15,Clare,2,22,2,20,Dublin,28,26,1,0.07293666,Cusack Park Ennis,League 1A
+523,15-Mar-15,Roscommon,0,16,0,6,Fermanagh,16,6,1,0.072796935,Athleague,League 3A
+524,15-Mar-15,Monaghan,0,18,2,12,Fingal,18,18,0.5,0.07456979,St. Tiernach's Park,League 3A
+525,15-Mar-15,Sligo,2,10,1,15,Leitrim,16,18,0,0.074427481,Markievicz Park,League 3B
+526,15-Mar-15,Galway,0,20,2,17,Cork,20,23,0,0.074285714,Pearse Stadium,League 1A
+527,15-Mar-15,Meath,1,15,1,17,Armagh,18,20,0,0.074144487,St. Loman's Park,League 2B
+528,15-Mar-15,Tyrone,1,20,2,7,Louth,23,13,1,0.074003795,Healy Park,League 3A
+529,15-Mar-15,Laois,0,25,5,22,Wexford,25,37,0,0.073863636,O'Moore Park,League 1B
+530,15-Mar-15,Westmeath,1,22,2,10,Wicklow,25,16,1,0.073724008,Cusack Park Mullingar,League 2A
+531,15-Mar-15,Carlow,3,17,1,24,Kerry,26,27,0,0.073584906,Dr Cullen Park,League 2A
+532,15-Mar-15,Tipperary,2,22,1,13,Kilkenny,28,16,1,0.073446328,Semple Stadium,League 1A
+533,15-Mar-15,Kildare,3,20,1,14,Mayo,29,17,1,0.073308271,St. Conleth's Park,League 2B
+534,15-Mar-15,Down,4,17,2,9,Donegal,29,15,1,0.073170732,McKenna Park,League 2B
+535,15-Mar-15,Waterford,4,30,0,10,Antrim,42,10,1,0.073033708,Walsh Park,League 1B
+536,22-Mar-15,Mayo,0,10,0,23,Armagh,10,23,0,0.072897196,MacHale Park,League 2B
+537,22-Mar-15,Derry,1,8,0,12,Wicklow,11,12,0,0.072761194,Owenbeg,League 2A
+538,22-Mar-15,Fermanagh,0,12,3,13,Monaghan,12,22,0,0.072625698,Brewster Park,League 3A
+539,22-Mar-15,Wexford,0,16,0,22,Waterford,16,22,0,0.072490706,Wexford Park,League 1B
+540,22-Mar-15,Westmeath,1,14,1,13,Carlow,17,16,1,0.072356215,Cusack Park Mullingar,League 2A
+541,22-Mar-15,Tyrone,1,14,1,13,Roscommon,17,16,1,0.072222222,Healy Park,League 3A
+542,22-Mar-15,Antrim,0,19,2,17,Offaly,19,23,0,0.072088725,P·irc Mac UÌlÌn,League 1B
+543,22-Mar-15,Donegal,3,11,1,19,Kildare,20,22,0,0.07195572,O'Donnell Park,League 2B
+544,22-Mar-15,Fingal,2,17,3,14,Louth,23,23,0.5,0.073664825,Lawless Memorial Park,League 3A
+545,22-Mar-15,Dublin,0,26,2,14,Galway,26,20,1,0.073529412,Parnell Park,League 1A
+546,22-Mar-15,Kilkenny,2,20,2,19,Clare,26,25,1,0.073394495,Nowlan Park,League 1A
+547,22-Mar-15,Kerry,3,17,2,10,London,26,16,1,0.073260073,Austin Stack Park,League 2A
+548,22-Mar-15,Meath,2,21,0,17,Down,27,17,1,0.073126143,St. Loman's Park,League 2B
+549,22-Mar-15,Warwickshire,3,18,4,14,Leitrim,27,26,1,0.072992701,P·irc na h…ireann,League 3B
+550,22-Mar-15,Limerick,1,25,1,19,Laois,28,22,1,0.072859745,Fitzgerald Park,League 1B
+551,22-Mar-15,Cork,4,21,2,28,Tipperary,33,34,0,0.072727273,P·irc UÌ Rinn,League 1A
+552,28-Mar-15,Mayo,2,13,1,11,Donegal,19,14,1,0.072595281,P·irc Se·n Mac Diarmada,League 2B
+553,28-Mar-15,Laois,2,18,1,13,Antrim,24,16,1,0.072463768,O'Moore Park,League 1B
+554,28-Mar-15,Dublin,1,25,0,16,Limerick,28,16,1,0.072332731,Croke Park,League 1A
+555,28-Mar-15,Longford,4,20,0,9,Sligo,32,9,1,0.072202166,Pearse Park Longford,League 3B
+556,29-Mar-15,Offaly,0,13,1,16,Tipperary,13,19,0,0.072072072,O'Connor Park,League 1A
+557,29-Mar-15,Cork,0,18,0,14,Wexford,18,14,1,0.071942446,P·irc UÌ Rinn,League 1A
+558,29-Mar-15,Waterford,0,20,0,12,Galway,20,12,1,0.071813285,Walsh Park,League 1A
+559,29-Mar-15,Kilkenny,1,18,1,17,Clare,21,20,1,0.071684588,Nowlan Park,League 1A
+560,04-Apr-15,Tyrone,0,18,1,11,Monaghan,18,14,1,0.071556351,Keady,League 3A
+561,04-Apr-15,Warwickshire,1,15,2,10,Longford,18,16,1,0.071428571,St. Tiernach's Park,League 3B
+562,04-Apr-15,Kildare,0,22,0,17,Meath,22,17,1,0.071301248,Cusack Park Mullingar,League 2B
+563,04-Apr-15,Kerry,5,17,3,17,Westmeath,32,26,1,0.071174377,Gaelic Grounds,League 2A
+564,11-Apr-15,Kerry,2,16,1,18,Antrim,22,21,1,0.071047957,Parnell Park,League 1B
+565,11-Apr-15,Donegal,4,13,4,13,Tyrone,25,25,0.5,0.072695035,Celtic Park,League 2B
+566,18-Apr-15,Donegal,2,16,2,12,Tyrone,22,18,1,0.072566372,Celtic Park,League 2B
+567,19-Apr-15,Tipperary,2,15,1,19,Waterford,21,22,0,0.072438163,Nowlan Park,League 1A
+568,19-Apr-15,Cork,1,27,2,23,Dublin,30,29,1,0.072310406,Nowlan Park,League 1A
+569,02-May-15,Fingal,0,9,3,12,Roscommon,9,21,0,0.072183099,Lawless Memorial Park,Nicky Rackard
+570,02-May-15,Donegal,0,11,1,12,Tyrone,11,15,0,0.072056239,O'Donnell Park,Nicky Rackard
+571,02-May-15,Derry,0,13,0,11,Mayo,13,11,1,0.071929825,Owenbeg,Christy Ring
+572,02-May-15,Leitrim,2,12,4,16,Sligo,18,28,0,0.071803853,P·irc She·in UÌ Eislin,Lory Meagher
+573,02-May-15,Fermanagh,3,12,2,7,Warwickshire,21,13,1,0.071678322,Brewster Park,Lory Meagher
+574,02-May-15,Monaghan,4,10,0,10,Longford,22,10,1,0.071553229,St. Tiernach's Park,Nicky Rackard
+575,02-May-15,Armagh,2,16,2,11,Louth,22,17,1,0.071428571,Athletic Grounds,Nicky Rackard
+576,02-May-15,Kerry,2,17,2,10,Down,23,16,1,0.071304348,Austin Stack Park,Christy Ring
+577,02-May-15,Meath,1,21,1,5,Wicklow,24,8,1,0.071180556,St. Loman's Park,Christy Ring
+578,02-May-15,London,2,23,2,23,Kildare,29,29,0.5,0.072790295,Emerald GAA Grounds,Christy Ring
+579,03-May-15,Westmeath,2,19,2,17,Carlow,25,23,1,0.07266436,Cusack Park Mullingar,Leinster
+580,03-May-15,Waterford,1,24,0,17,Cork,27,17,1,0.07253886,Semple Stadium,League 1A
+581,03-May-15,Antrim,5,17,3,22,Laois,32,31,1,0.072413793,P·irc Mac UÌlÌn,Leinster
+582,09-May-15,Louth,2,8,1,21,Fingal,14,24,0,0.072289157,St. Brigid's Park,Nicky Rackard
+583,09-May-15,Lancashire,3,9,2,16,Fermanagh,18,22,0,0.072164948,P·irc na h…ireann,Lory Meagher
+584,09-May-15,Warwickshire,1,15,1,18,Leitrim,18,21,0,0.072041166,P·irc na h…ireann,Lory Meagher
+585,09-May-15,Kildare,0,19,3,16,London,19,25,0,0.071917808,St. Conleth's Park,Christy Ring
+586,09-May-15,Tyrone,0,20,3,17,Armagh,20,26,0,0.071794872,Carrickmore,Nicky Rackard
+587,09-May-15,Down,1,19,0,13,Wicklow,22,13,1,0.071672355,McKenna Park,Christy Ring
+588,09-May-15,Kerry,1,23,2,18,Meath,26,24,1,0.071550256,Austin Stack Park,Christy Ring
+589,09-May-15,Roscommon,1,24,0,17,Monaghan,27,17,1,0.071428571,Athleague,Nicky Rackard
+590,09-May-15,Longford,1,9,4,21,Donegal,12,33,0,0.071307301,Pearse Park Longford,Nicky Rackard
+591,10-May-15,Carlow,1,14,1,17,Laois,17,20,0,0.071186441,Dr Cullen Park,Leinster
+592,10-May-15,Westmeath,1,21,0,7,Antrim,24,7,1,0.07106599,Cusack Park Mullingar,Leinster
+593,16-May-15,Derry,1,12,2,8,London,15,14,1,0.070945946,Owenbeg,Christy Ring
+594,16-May-15,Sligo,1,15,3,12,Warwickshire,18,21,0,0.070826307,Markievicz Park,Lory Meagher
+595,16-May-15,Mayo,1,16,2,18,Kildare,19,24,0,0.070707071,James Stephens Park,Christy Ring
+596,16-May-15,Monaghan,2,13,6,12,Donegal,19,30,0,0.070588235,St. Tiernach's Park,Nicky Rackard
+597,16-May-15,Leitrim,1,16,1,14,Lancashire,19,17,1,0.070469799,P·irc She·in UÌ Eislin,Lory Meagher
+598,16-May-15,Fingal,0,20,1,21,Tyrone,20,24,0,0.070351759,Lawless Memorial Park,Nicky Rackard
+599,23-May-15,Lancashire,0,13,3,21,Sligo,13,30,0,0.070234114,P·irc na h…ireann,Lory Meagher
+600,23-May-15,Tyrone,1,16,1,14,Roscommon,19,17,1,0.070116861,Carrickmore,Nicky Rackard
+601,23-May-15,Fermanagh,2,14,1,14,Leitrim,20,17,1,0.07,Brewster Park,Lory Meagher
+602,23-May-15,Wicklow,1,18,1,11,Mayo,21,14,1,0.069883527,Cusack Park Mullingar,Christy Ring
+603,23-May-15,Armagh,1,19,1,12,Donegal,22,15,1,0.069767442,Athletic Grounds,Nicky Rackard
+604,23-May-15,Meath,2,18,3,23,Kildare,24,32,0,0.069651741,St. Loman's Park,Christy Ring
+605,23-May-15,Down,1,22,1,13,London,25,16,1,0.069536424,McKenna Park,Christy Ring
+606,23-May-15,Longford,2,20,2,16,Louth,26,22,1,0.069421488,Cusack Park Mullingar,Nicky Rackard
+607,24-May-15,Clare,2,15,1,19,Limerick,21,22,0,0.069306931,Semple Stadium,Munster
+608,24-May-15,Laois,1,20,1,17,Westmeath,23,20,1,0.069192751,O'Moore Park,Leinster
+609,24-May-15,Carlow,2,18,1,11,Antrim,24,14,1,0.069078947,Dr Cullen Park,Leinster
+610,30-May-15,Kildare,0,9,6,27,Kerry,9,45,0,0.068965517,St. Conleth's Park,Christy Ring
+611,30-May-15,Derry,0,23,2,12,Down,23,18,1,0.068852459,Owenbeg,Christy Ring
+612,30-May-15,Warwickshire,3,13,2,14,Lancashire,22,20,1,0.068739771,P·irc na h…ireann,Lory Meagher
+613,30-May-15,Sligo,5,16,0,12,Fermanagh,31,12,1,0.068627451,Kilcoyne Park,Lory Meagher
+614,31-May-15,Dublin,0,20,1,17,Galway,20,20,0.5,0.070146819,Croke Park,Leinster
+615,06-Jun-15,Armagh,1,14,2,12,Roscommon,17,18,0,0.070032573,Croke Park,Nicky Rackard
+616,06-Jun-15,Sligo,1,17,3,16,Fermanagh,20,25,0,0.069918699,Croke Park,Lory Meagher
+617,06-Jun-15,Kerry,1,20,0,12,Derry,23,12,1,0.069805195,Croke Park,Christy Ring
+618,06-Jun-15,Galway,5,19,1,18,Dublin,34,21,1,0.069692058,O'Connor Park,Leinster
+619,07-Jun-15,Westmeath,1,16,1,24,Wexford,19,27,0,0.069579288,Cusack Park Mullingar,Leinster
+620,07-Jun-15,Cork,1,21,3,19,Waterford,24,28,0,0.069466882,Semple Stadium,Munster
+621,07-Jun-15,Laois,0,29,0,21,Offaly,29,21,1,0.069354839,O'Moore Park,Leinster
+622,14-Jun-15,Mayo,0,13,2,14,Roscommon,13,20,0,0.069243156,Pearse Stadium,Christy Ring
+623,20-Jun-15,Galway,3,28,1,14,Laois,37,17,1,0.069131833,O'Connor Park,Leinster
+624,21-Jun-15,Limerick,1,16,4,23,Tipperary,19,35,0,0.069020867,Gaelic Grounds,Munster
+625,21-Jun-15,Kilkenny,5,25,0,16,Wexford,40,16,1,0.068910256,Nowlan Park,Leinster
+626,04-Jul-15,Laois,0,19,4,17,Dublin,19,29,0,0.0688,O'Moore Park,All-Ireland
+627,04-Jul-15,Wexford,0,20,2,22,Cork,20,28,0,0.068690096,Wexford Park,All-Ireland
+628,04-Jul-15,Clare,3,26,0,15,Offaly,35,15,1,0.068580542,Cusack Park Ennis,All-Ireland
+629,05-Jul-15,Westmeath,1,12,4,15,Limerick,15,27,0,0.068471338,Cusack Park Mullingar,All-Ireland
+630,05-Jul-15,Galway,2,15,1,25,Kilkenny,21,28,0,0.06836248,Croke Park,Leinster
+631,11-Jul-15,Clare,0,17,0,20,Cork,17,20,0,0.068253968,Semple Stadium,All-Ireland
+632,11-Jul-15,Limerick,1,16,1,17,Dublin,19,20,0,0.0681458,Semple Stadium,All-Ireland
+633,12-Jul-15,Waterford,0,16,0,21,Tipperary,16,21,0,0.068037975,Semple Stadium,Munster
+634,26-Jul-15,Waterford,2,21,1,19,Dublin,27,22,1,0.06793049,Semple Stadium,All-Ireland
+635,26-Jul-15,Galway,2,28,0,22,Cork,34,22,1,0.067823344,Semple Stadium,All-Ireland
+636,09-Aug-15,Kilkenny,1,21,0,18,Waterford,24,18,1,0.067716535,Croke Park,All-Ireland
+637,16-Aug-15,Tipperary,3,16,0,26,Galway,25,26,0,0.067610063,Croke Park,All-Ireland
+638,06-Sep-15,Kilkenny,1,22,1,18,Galway,25,21,1,0.067503925,Croke Park,All-Ireland
+639,13-Feb-16,Tipperary,1,23,0,12,Dublin,26,12,1,0.067398119,Semple Stadium,League 1A
+640,13-Feb-16,Limerick,2,23,0,15,Wexford,29,15,1,0.067292645,Gaelic Grounds,League 1B
+641,14-Feb-16,London,0,13,2,16,Westmeath,13,22,0,0.0671875,Emerald GAA Grounds,League 2A
+642,14-Feb-16,Wicklow,0,13,0,22,Meath,13,22,0,0.067082683,Pearse Park Arklow,League 2B
+643,14-Feb-16,Waterford,0,14,0,10,Kilkenny,14,10,1,0.066978193,Walsh Park,League 1A
+644,14-Feb-16,Kildare,0,14,2,13,Carlow,14,19,0,0.066874028,St. Conleth's Park,League 2A
+645,14-Feb-16,Mayo,1,14,0,13,Donegal,17,13,1,0.066770186,MacHale Park,League 2B
+646,14-Feb-16,Louth,1,14,1,16,Roscommon,17,19,0,0.066666667,Darver Centre of Excellence,League 3A
+647,14-Feb-16,Derry,2,12,1,21,Antrim,18,24,0,0.066563467,Celtic Park,League 2A
+648,14-Feb-16,Monaghan,2,13,2,18,Tyrone,19,24,0,0.066460587,St. Mary's Park,League 3A
+649,14-Feb-16,Laois,2,14,1,24,Kerry,20,27,0,0.066358025,O'Moore Park,League 1B
+650,14-Feb-16,Armagh,2,14,2,16,Down,20,22,0,0.066255778,Athletic Grounds,League 2B
+651,14-Feb-16,Clare,2,21,0,15,Offaly,27,15,1,0.066153846,Cusack Park Ennis,League 1B
+652,14-Feb-16,Galway,1,27,1,21,Cork,30,24,1,0.066052227,Pearse Stadium,League 1A
+653,14-Feb-16,Fingal,4,18,1,6,Warwickshire,30,9,1,0.06595092,DCU Showgrounds,League 3A
+654,20-Feb-16,Warwickshire,2,10,2,11,Louth,16,17,0,0.065849923,P·irc na h…ireann,League 3A
+655,20-Feb-16,Cork,1,14,0,20,Waterford,17,20,0,0.065749235,P·irc UÌ Rinn,League 1A
+656,20-Feb-16,Dublin,1,17,0,13,Galway,20,13,1,0.065648855,Parnell Park,League 1A
+657,21-Feb-16,Donegal,1,8,2,14,Armagh,11,20,0,0.06554878,O'Donnell Park,League 2B
+658,21-Feb-16,Wexford,1,11,0,18,Clare,14,18,0,0.065449011,Wexford Park,League 1B
+659,21-Feb-16,Carlow,1,11,5,16,London,14,31,0,0.065349544,Dr Cullen Park,League 2A
+660,21-Feb-16,Meath,2,9,0,19,Mayo,15,19,0,0.065250379,St. Loman's Park,League 2B
+661,21-Feb-16,Roscommon,1,12,0,10,Monaghan,15,10,1,0.065151515,Athleague,League 3A
+662,21-Feb-16,Westmeath,2,11,0,13,Derry,17,13,1,0.06505295,Cusack Park Mullingar,League 2A
+663,21-Feb-16,Kerry,1,15,1,19,Limerick,18,22,0,0.064954683,Fitzgerald Stadium,League 1B
+664,21-Feb-16,Offaly,1,17,0,15,Laois,20,15,1,0.064856712,O'Connor Park,League 1B
+665,21-Feb-16,Tyrone,1,17,4,10,Fingal,20,22,0,0.064759036,Healy Park,League 3A
+666,21-Feb-16,Kilkenny,2,17,0,18,Tipperary,23,18,1,0.064661654,Nowlan Park,League 1A
+667,21-Feb-16,Down,4,12,0,11,Wicklow,24,11,1,0.064564565,McKenna Park,League 2B
+668,21-Feb-16,Antrim,3,25,3,13,Kildare,34,22,1,0.064467766,P·irc Mac UÌlÌn,League 2A
+669,05-Mar-16,London,1,11,0,14,Kildare,14,14,0.5,0.065868263,Emerald GAA Grounds,League 2A
+670,05-Mar-16,Laois,0,16,1,21,Clare,16,24,0,0.065769806,O'Moore Park,League 1B
+671,05-Mar-16,Tyrone,0,17,1,12,Warwickshire,17,15,1,0.065671642,Healy Park,League 3A
+672,05-Mar-16,Dublin,4,21,2,17,Cork,33,23,1,0.06557377,Croke Park,League 1A
+673,06-Mar-16,Kerry,0,8,2,25,Wexford,8,31,0,0.06547619,Austin Stack Park,League 1B
+674,06-Mar-16,Offaly,0,14,1,19,Limerick,14,22,0,0.0653789,O'Connor Park,League 1B
+675,06-Mar-16,Down,0,16,0,20,Mayo,16,20,0,0.065281899,McKenna Park,League 2B
+676,06-Mar-16,Westmeath,2,11,0,10,Antrim,17,10,1,0.065185185,Cusack Park Mullingar,League 2A
+677,06-Mar-16,Roscommon,1,14,0,16,Fingal,17,16,1,0.065088757,Athleague,League 3A
+678,06-Mar-16,Sligo,1,14,1,9,Fermanagh,17,12,1,0.064992614,Markievicz Park,League 3B
+679,06-Mar-16,Tipperary,1,17,1,18,Waterford,20,21,0,0.064896755,Semple Stadium,League 1A
+680,06-Mar-16,Kilkenny,0,21,1,14,Galway,21,17,1,0.064801178,Nowlan Park,League 1A
+681,06-Mar-16,Wicklow,2,15,2,17,Armagh,21,23,0,0.064705882,Aughrim County Ground,League 2B
+682,06-Mar-16,Longford,3,12,0,13,Leitrim,21,13,1,0.064610866,Allen Park,League 3B
+683,06-Mar-16,Monaghan,2,19,1,12,Louth,25,15,1,0.064516129,St. Mary's Park,League 3A
+684,06-Mar-16,Carlow,2,25,0,9,Derry,31,9,1,0.064421669,Dr Cullen Park,League 2A
+685,06-Mar-16,Meath,2,35,0,9,Donegal,41,9,1,0.064327485,St. Loman's Park,League 2B
+686,12-Mar-16,Kildare,0,10,0,21,Westmeath,10,21,0,0.064233577,St. Conleth's Park,League 2A
+687,12-Mar-16,Warwickshire,3,12,1,21,Roscommon,21,24,0,0.064139942,P·irc na h…ireann,League 3A
+688,12-Mar-16,Cork,2,22,2,23,Kilkenny,28,29,0,0.064046579,P·irc UÌ Rinn,League 1A
+689,12-Mar-16,Limerick,6,29,1,12,Laois,47,15,1,0.063953488,Gaelic Grounds,League 1B
+690,13-Mar-16,Derry,0,13,0,16,London,13,16,0,0.063860668,Celtic Park,League 2A
+691,13-Mar-16,Mayo,0,13,2,14,Wicklow,13,20,0,0.063768116,MacHale Park,League 2B
+692,13-Mar-16,Waterford,0,14,0,19,Dublin,14,19,0,0.063675832,Walsh Park,League 1A
+693,13-Mar-16,Antrim,1,11,1,17,Carlow,14,20,0,0.063583815,P·irc Mac UÌlÌn,League 2A
+694,13-Mar-16,Donegal,0,14,3,22,Down,14,31,0,0.063492063,O'Donnell Park,League 2B
+695,13-Mar-16,Wexford,3,11,2,22,Offaly,20,28,0,0.063400576,Wexford Park,League 1B
+696,13-Mar-16,Fingal,1,18,3,14,Monaghan,21,23,0,0.063309353,Lawless Memorial Park,League 3A
+697,13-Mar-16,Leitrim,3,15,2,13,Sligo,24,19,1,0.063218391,P·irc Se·n Mac Diarmada,League 3B
+698,13-Mar-16,Galway,2,19,1,22,Tipperary,25,25,0.5,0.06456241,Pearse Stadium,League 1A
+699,13-Mar-16,Louth,2,19,2,16,Tyrone,25,22,1,0.064469914,Darver Centre of Excellence,League 3A
+700,13-Mar-16,Armagh,0,26,1,10,Meath,26,13,1,0.064377682,Athletic Grounds,League 2B
+701,13-Mar-16,Fermanagh,3,17,3,13,Longford,26,22,1,0.064285714,Brewster Park,League 3B
+702,13-Mar-16,Clare,2,28,1,9,Kerry,34,12,1,0.064194009,Cusack Park Ennis,League 1B
+703,19-Mar-16,Monaghan,2,13,2,6,Warwickshire,19,12,1,0.064102564,St. Tiernach's Park,League 3A
+704,20-Mar-16,Leitrim,1,11,2,16,Fermanagh,14,22,0,0.06401138,P·irc Se·n Mac Diarmada,League 3B
+705,20-Mar-16,Carlow,0,20,1,15,Westmeath,20,18,1,0.063920455,Dr Cullen Park,League 2A
+706,20-Mar-16,Armagh,1,17,1,10,Mayo,20,13,1,0.063829787,Athletic Grounds,League 2B
+707,20-Mar-16,Laois,0,21,0,22,Wexford,21,22,0,0.063739377,O'Moore Park,League 1B
+708,20-Mar-16,Clare,1,19,0,18,Limerick,22,18,1,0.063649222,Cusack Park Ennis,League 1B
+709,20-Mar-16,Offaly,2,17,2,18,Kerry,23,24,0,0.063559322,St. Brendan's Park,League 1B
+710,20-Mar-16,Down,2,17,1,14,Meath,23,17,1,0.063469676,McKenna Park,League 2B
+711,20-Mar-16,Kilkenny,0,23,1,14,Dublin,23,17,1,0.063380282,Nowlan Park,League 1A
+712,20-Mar-16,Kildare,2,18,1,16,Derry,24,19,1,0.063291139,St. Conleth's Park,League 2A
+713,20-Mar-16,London,1,21,1,19,Antrim,24,22,1,0.063202247,Emerald GAA Grounds,League 2A
+714,20-Mar-16,Waterford,0,24,1,21,Galway,24,24,0.5,0.064516129,Walsh Park,League 1A
+715,20-Mar-16,Roscommon,4,13,1,14,Tyrone,25,17,1,0.06442577,Athleague,League 3A
+716,20-Mar-16,Louth,5,12,2,9,Fingal,27,15,1,0.064335664,Darver Centre of Excellence,League 3A
+717,20-Mar-16,Sligo,5,13,5,21,Longford,28,36,0,0.06424581,Markievicz Park,League 3B
+718,20-Mar-16,Wicklow,2,27,0,17,Donegal,33,17,1,0.064156206,Pearse Park Arklow,League 2B
+719,20-Mar-16,Tipperary,2,27,2,15,Cork,33,21,1,0.064066852,Semple Stadium,League 1A
+720,26-Mar-16,Carlow,0,8,0,10,Westmeath,8,10,0,0.063977747,O'Connor Park,League 2A
+721,26-Mar-16,Down,1,15,0,20,Armagh,18,20,0,0.063888889,St. Brigid's Park,League 2B
+722,26-Mar-16,Fermanagh,2,13,3,8,Longford,19,17,1,0.063800277,Markievicz Park,League 3B
+723,26-Mar-16,Roscommon,4,15,0,7,Monaghan,27,7,1,0.063711911,Fr. Tierney Park,League 3A
+724,02-Apr-16,Dublin,1,19,1,21,Limerick,22,24,0,0.06362379,Parnell Park,League 1A
+725,02-Apr-16,Wicklow,2,19,1,9,Donegal,25,12,1,0.063535912,St. Colman's College,League 2B
+726,02-Apr-16,Kerry,2,27,1,19,Laois,33,22,1,0.063448276,Austin Stack Park,League 1B
+727,03-Apr-16,Wexford,1,13,0,17,Waterford,16,17,0,0.063360882,Wexford Park,League 1A
+728,03-Apr-16,Clare,2,13,0,18,Tipperary,19,18,1,0.063273728,Cusack Park Ennis,League 1A
+729,03-Apr-16,Galway,0,25,2,22,Cork,25,28,0,0.063186813,Pearse Stadium,League 1A
+730,03-Apr-16,Kilkenny,6,20,0,14,Offaly,38,14,1,0.063100137,Nowlan Park,League 1A
+731,09-Apr-16,Donegal,4,9,3,13,Roscommon,21,22,0,0.063013699,James Stephens Park,League 2B
+732,09-Apr-16,Laois,0,23,0,16,Westmeath,23,16,1,0.062927497,O'Connor Park,League 1B
+733,09-Apr-16,Tyrone,1,24,1,19,Fermanagh,27,22,1,0.06284153,Fr. Tierney Park,League 3A
+734,17-Apr-16,Kilkenny,2,19,4,22,Clare,25,34,0,0.062755798,Semple Stadium,League 1A
+735,17-Apr-16,Waterford,3,23,1,18,Limerick,32,21,1,0.0626703,Semple Stadium,League 1A
+736,23-Apr-16,Fermanagh,1,12,5,12,Monaghan,15,27,0,0.062585034,Brewster Park,Nicky Rackard
+737,23-Apr-16,Tyrone,0,17,4,19,Mayo,17,31,0,0.0625,Carrickmore,Nicky Rackard
+738,23-Apr-16,Down,2,12,2,17,London,18,23,0,0.062415197,McKenna Park,Christy Ring
+739,23-Apr-16,Leitrim,1,15,3,19,Warwickshire,18,28,0,0.062330623,P·irc She·in UÌ Eislin,Lory Meagher
+740,23-Apr-16,Louth,0,22,1,15,Sligo,22,18,1,0.062246279,Darver Centre of Excellence,Lory Meagher
+741,23-Apr-16,Armagh,2,19,3,13,Donegal,25,22,1,0.062162162,Athletic Grounds,Nicky Rackard
+742,23-Apr-16,Roscommon,2,20,0,15,Derry,26,15,1,0.062078273,Athleague,Christy Ring
+743,23-Apr-16,Meath,3,18,2,12,Wicklow,27,18,1,0.061994609,St. Loman's Park,Christy Ring
+744,23-Apr-16,Antrim,3,20,0,17,Kildare,29,17,1,0.061911171,Parnell Park,Christy Ring
+745,23-Apr-16,Fingal,3,21,3,15,Longford,30,24,1,0.061827957,Naomh BarrÛg,Nicky Rackard
+746,30-Apr-16,Wicklow,0,9,0,17,Kildare,9,17,0,0.061744966,Pearse Park Arklow,Christy Ring
+747,30-Apr-16,Warwickshire,2,10,3,14,Louth,16,23,0,0.061662198,P·irc na h…ireann,Lory Meagher
+748,30-Apr-16,Lancashire,2,10,2,18,Leitrim,16,24,0,0.061579652,P·irc na h…ireann,Lory Meagher
+749,30-Apr-16,Derry,1,15,1,18,Down,18,21,0,0.061497326,Owenbeg,Christy Ring
+750,30-Apr-16,Antrim,2,14,1,12,Roscommon,20,15,1,0.06141522,Pearse Park Dunloy,Christy Ring
+751,30-Apr-16,Mayo,0,22,1,11,Armagh,22,14,1,0.061333333,James Stephens Park,Nicky Rackard
+752,30-Apr-16,Monaghan,3,14,2,19,Fingal,23,25,0,0.061251664,St. Mary's Park,Nicky Rackard
+753,30-Apr-16,Donegal,3,15,3,11,Fermanagh,24,20,1,0.061170213,O'Donnell Park,Nicky Rackard
+754,30-Apr-16,Longford,4,18,3,17,Tyrone,30,26,1,0.061088977,Pearse Park Longford,Nicky Rackard
+755,01-May-16,London,1,16,2,17,Meath,19,23,0,0.061007958,Emerald GAA Grounds,Christy Ring
+756,01-May-16,Clare,0,22,0,22,Waterford,22,22,0.5,0.062251656,Semple Stadium,League 1A
+757,01-May-16,Kerry,2,19,0,17,Carlow,25,17,1,0.062169312,Austin Stack Park,Leinster
+758,01-May-16,Westmeath,2,22,1,11,Offaly,28,14,1,0.062087186,Cusack Park Mullingar,Leinster
+759,07-May-16,Kerry,1,13,1,18,Westmeath,16,21,0,0.062005277,Austin Stack Park,Leinster
+760,07-May-16,Down,1,14,1,7,Roscommon,17,10,1,0.061923584,McKenna Park,Christy Ring
+761,07-May-16,Longford,2,11,3,19,Armagh,17,28,0,0.061842105,Pearse Park Longford,Nicky Rackard
+762,07-May-16,Offaly,1,17,2,11,Carlow,20,17,1,0.061760841,O'Connor Park,Leinster
+763,07-May-16,Kildare,1,17,0,15,London,20,15,1,0.06167979,St. Conleth's Park,Christy Ring
+764,07-May-16,Monaghan,3,14,4,14,Donegal,23,26,0,0.061598952,Iniskeen,Nicky Rackard
+765,07-May-16,Louth,3,15,0,10,Lancashire,24,10,1,0.061518325,P·irc UÌ MhuirÌ,Lory Meagher
+766,07-May-16,Sligo,3,18,3,11,Warwickshire,27,20,1,0.061437908,Sligo GAA Centre of Excellence,Lory Meagher
+767,08-May-16,Clare,1,23,2,19,Waterford,26,25,1,0.061357702,Semple Stadium,League 1A
+768,14-May-16,Lancashire,0,15,1,25,Sligo,15,28,0,0.061277705,P·irc na h…ireann,Lory Meagher
+769,14-May-16,Leitrim,1,12,0,16,Louth,15,16,0,0.061197917,P·irc She·in UÌ Eislin,Lory Meagher
+770,21-May-16,Fingal,1,11,3,19,Armagh,14,28,0,0.061118336,Naomh BarrÛg,Nicky Rackard
+771,21-May-16,Derry,0,15,2,22,Wicklow,15,28,0,0.061038961,P·irc Esler,Christy Ring
+772,21-May-16,Donegal,2,11,1,18,Mayo,17,21,0,0.060959792,O'Donnell Park,Nicky Rackard
+773,21-May-16,Dublin,2,19,0,12,Wexford,25,12,1,0.060880829,Croke Park,Leinster
+774,21-May-16,Sligo,1,22,2,5,Leitrim,25,11,1,0.06080207,Markievicz Park,Lory Meagher
+775,21-May-16,Antrim,1,24,0,23,Down,27,23,1,0.060723514,St. Patrick's Park Loughguile,Christy Ring
+776,21-May-16,Tyrone,3,23,1,14,Fermanagh,32,17,1,0.060645161,O'Neill Park,Nicky Rackard
+777,21-May-16,Warwickshire,7,16,2,11,Lancashire,37,17,1,0.06056701,P·irc na h…ireann,Lory Meagher
+778,22-May-16,Carlow,2,15,0,22,Westmeath,21,22,0,0.06048906,Dr Cullen Park,Leinster
+779,22-May-16,Kildare,0,21,1,21,Meath,21,24,0,0.060411311,St. Conleth's Park,Christy Ring
+780,22-May-16,Tipperary,0,22,0,13,Cork,22,13,1,0.060333761,Semple Stadium,Munster
+781,22-May-16,Offaly,3,19,0,20,Kerry,28,20,1,0.06025641,O'Connor Park,Leinster
+782,04-Jun-16,Armagh,1,15,2,16,Mayo,18,22,0,0.060179257,Croke Park,Nicky Rackard
+783,04-Jun-16,Antrim,1,20,2,17,Meath,23,23,0.5,0.061381074,Croke Park,Christy Ring
+784,04-Jun-16,Louth,4,15,4,11,Sligo,27,23,1,0.061302682,Croke Park,Lory Meagher
+785,05-Jun-16,Westmeath,0,19,3,27,Galway,19,36,0,0.06122449,Cusack Park Mullingar,Leinster
+786,05-Jun-16,Waterford,1,21,0,17,Clare,24,17,1,0.061146497,Semple Stadium,Munster
+787,05-Jun-16,Offaly,3,22,2,14,Laois,31,20,1,0.061068702,O'Connor Park,Leinster
+788,11-Jun-16,Fermanagh,0,12,7,19,Louth,12,40,0,0.060991105,Athletic Grounds,Nicky Rackard
+789,11-Jun-16,Dublin,0,16,1,25,Kilkenny,16,28,0,0.060913706,O'Moore Park,Leinster
+790,11-Jun-16,Derry,1,14,1,21,Mayo,17,24,0,0.060836502,P·irc She·in UÌ Eislin,Christy Ring
+791,19-Jun-16,Tipperary,3,12,1,16,Limerick,21,19,1,0.060759494,Semple Stadium,Munster
+792,19-Jun-16,Offaly,2,9,2,19,Galway,15,25,0,0.06068268,O'Moore Park,Leinster
+793,26-Jun-16,Antrim,5,17,4,21,Meath,32,33,0,0.060606061,Croke Park,Christy Ring
+794,02-Jul-16,Wexford,1,21,1,13,Offaly,24,16,1,0.060529634,Wexford Park,All-Ireland
+795,02-Jul-16,Westmeath,0,18,1,24,Limerick,18,27,0,0.060453401,Cusack Park Mullingar,All-Ireland
+796,02-Jul-16,Clare,5,32,0,12,Laois,47,12,1,0.060377358,Cusack Park Ennis,All-Ireland
+797,02-Jul-16,Cork,1,26,1,23,Dublin,29,26,1,0.060301508,P·irc UÌ Rinn,All-Ireland
+798,03-Jul-16,Galway,0,22,1,26,Kilkenny,22,29,0,0.060225847,Croke Park,All-Ireland

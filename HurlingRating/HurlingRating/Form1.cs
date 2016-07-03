@@ -20,8 +20,11 @@ namespace HurlingRating {
 		private void run(object sender, EventArgs e) {
 			ImportAll();
 			CalculateHomeWins();
-			for(int i = 1; i < 128; i ++)
-				RunThroughMatches(i, false, false, true);
+			if (int.Parse(KValue.Text) <= 0)
+				for (int i = 1; i < 128; i++)
+					RunThroughMatches(i, false, false, true);
+			else
+				RunThroughMatches(int.Parse(KValue.Text), true, true, true);
 		}
 
 		private void RunThroughMatches(int kValue, bool outputMatches, bool outputTeamResults, bool outputKResults) {
@@ -34,17 +37,17 @@ namespace HurlingRating {
 					matchCorrectPrediction++;
 				Calculator.UpdateRatings(m, kValue);
 				if(outputMatches)
-					outputText.AppendText(String.Format("{0} {1} {2} - {3} {4}\n", m.Date, m.Team1.Name, m.Team1.CurrentRating, m.Team2.Name, m.Team2.CurrentRating));
+					OutputText.AppendText(String.Format("{0} {1} {2} - {3} {4}\n", m.Date, m.Team1.Name, m.Team1.CurrentRating, m.Team2.Name, m.Team2.CurrentRating));
 				matchTotal++;
 			}
 			if (outputTeamResults) {
-				outputText.AppendText("\n");
+				OutputText.AppendText("\n");
 				foreach (Team t in teams) {
-					outputText.AppendText(String.Format("{0} {1} {2}\n", t.Name, t.InitialRating, t.CurrentRating));
+					OutputText.AppendText(String.Format("{0} {1} {2}\n", t.Name, t.InitialRating, t.CurrentRating));
 				}
 			}
 			if(outputKResults)
-				outputText.AppendText(String.Format("K value: {0} Correct: {1} Total: {2} Percent: {3}\n", kValue, matchCorrectPrediction, matchTotal, (float)matchCorrectPrediction / (float)matchTotal));
+				OutputText.AppendText(String.Format("K value: {0} Correct: {1} Total: {2} Percent: {3}\n", kValue, matchCorrectPrediction, matchTotal, (float)matchCorrectPrediction / (float)matchTotal));
 		}
 
 		private void ImportAll() {
@@ -55,21 +58,21 @@ namespace HurlingRating {
 
 		private void OutputAllDetails() {
 			foreach (Team t in teams) {
-				outputText.AppendText(t.ID + "\t" + t.Name + "\t" + t.InitialRating);
-				outputText.AppendText(Environment.NewLine);
+				OutputText.AppendText(t.ID + "\t" + t.Name + "\t" + t.InitialRating);
+				OutputText.AppendText(Environment.NewLine);
 			}
-			outputText.AppendText(Environment.NewLine);
+			OutputText.AppendText(Environment.NewLine);
 
 			foreach (Stadium s in stadia) {
-				outputText.AppendText(s.ID + "\t" + s.Name + "\t" + s.HomeTeam.Name);
-				outputText.AppendText(Environment.NewLine);
+				OutputText.AppendText(s.ID + "\t" + s.Name + "\t" + s.HomeTeam.Name);
+				OutputText.AppendText(Environment.NewLine);
 			}
-			outputText.AppendText(Environment.NewLine);
+			OutputText.AppendText(Environment.NewLine);
 
 			foreach (Match m in matches) {
 				string stadiumName = stadia.Where(x => x.ID == m.MatchStadium.ID).FirstOrDefault().Name;
-				outputText.AppendText(m.ID + "\t" + m.Team1.Name + "\t" + m.Team2.Name + "\t" + m.HomeTeam + "\t" + stadiumName);
-				outputText.AppendText(Environment.NewLine);
+				OutputText.AppendText(m.ID + "\t" + m.Team1.Name + "\t" + m.Team2.Name + "\t" + m.HomeTeam + "\t" + stadiumName);
+				OutputText.AppendText(Environment.NewLine);
 			}
 		}
 
@@ -90,9 +93,15 @@ namespace HurlingRating {
 				else if((m.HomeTeam == 1 && m.WinningTeam == -1) || (m.HomeTeam == -1 && m.WinningTeam == 1))
 					homeLosses ++;
 			}
-			outputText.AppendText("Total Games = " + totalGames + Environment.NewLine + "Home Games = " + homeGames + Environment.NewLine + 
+			OutputText.AppendText("Total Games = " + totalGames + Environment.NewLine + "Home Games = " + homeGames + Environment.NewLine + 
 									"Home Wins = " + homeWins + Environment.NewLine + "Home Draws = " + homeDraws + Environment.NewLine + 
 									"Home Losses = " + homeLosses + Environment.NewLine + "Home win % = " + (float)homeWins/(float)homeGames);
+		}
+
+		//Prevent anything other than integers being entered
+		private void KValue_KeyPress(object sender, KeyPressEventArgs e) {
+			if (!Char.IsDigit(e.KeyChar) && !Char.IsControl(e.KeyChar))
+				e.Handled = true;
 		}
 	}
 }
