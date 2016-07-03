@@ -45,6 +45,7 @@ namespace HurlingRating {
 		public int HomeTeam { get { return homeTeam; } }
 		public Stadium MatchStadium { get { return stadium; } }
 		public int WinningTeam { get { return win; } }
+		public DateTime Date { get { return date; } }
 		#endregion
 	}
 }

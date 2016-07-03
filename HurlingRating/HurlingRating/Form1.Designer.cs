@@ -42,6 +42,7 @@
 			this.outputText.Location = new System.Drawing.Point(12, 41);
 			this.outputText.Multiline = true;
 			this.outputText.Name = "outputText";
+			this.outputText.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
 			this.outputText.Size = new System.Drawing.Size(758, 700);
 			this.outputText.TabIndex = 1;
 			// 

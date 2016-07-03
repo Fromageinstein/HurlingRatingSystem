@@ -33,6 +33,11 @@ namespace HurlingRating {
 		public int ID { get { return id; } }
 		public string Name { get { return name; } }
 		public int InitialRating { get { return initialRating; } }
+		public int CurrentRating { get { return currentRating; } set { currentRating = value; } }
 		#endregion
+
+		public void AddDateRating(DateRating dr) {
+			dateRating.Add(dr);
+		}
 	}
 }

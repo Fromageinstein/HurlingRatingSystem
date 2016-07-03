@@ -20,6 +20,31 @@ namespace HurlingRating {
 		private void run(object sender, EventArgs e) {
 			ImportAll();
 			CalculateHomeWins();
+			for(int i = 1; i < 128; i ++)
+				RunThroughMatches(i, false, false, true);
+		}
+
+		private void RunThroughMatches(int kValue, bool outputMatches, bool outputTeamResults, bool outputKResults) {
+			int matchTotal = 0;
+			float matchCorrectPrediction = 0;
+			foreach(Match m in matches) {
+				if ((m.WinningTeam == -1 && m.Team1.CurrentRating > m.Team2.CurrentRating) || (m.WinningTeam == 1 && m.Team1.CurrentRating > m.Team2.CurrentRating))
+					matchCorrectPrediction++;
+				if (m.WinningTeam == 0)
+					matchCorrectPrediction++;
+				Calculator.UpdateRatings(m, kValue);
+				if(outputMatches)
+					outputText.AppendText(String.Format("{0} {1} {2} - {3} {4}\n", m.Date, m.Team1.Name, m.Team1.CurrentRating, m.Team2.Name, m.Team2.CurrentRating));
+				matchTotal++;
+			}
+			if (outputTeamResults) {
+				outputText.AppendText("\n");
+				foreach (Team t in teams) {
+					outputText.AppendText(String.Format("{0} {1} {2}\n", t.Name, t.InitialRating, t.CurrentRating));
+				}
+			}
+			if(outputKResults)
+				outputText.AppendText(String.Format("K value: {0} Correct: {1} Total: {2} Percent: {3}\n", kValue, matchCorrectPrediction, matchTotal, (float)matchCorrectPrediction / (float)matchTotal));
 		}
 
 		private void ImportAll() {
